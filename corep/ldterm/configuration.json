@@ -2,7 +2,7 @@
 	"source_language": "english",
 	"run_id": "10",
 	"source_file_dir": "Input/1term.csv",
-	"gold_concepts_dir": "goldstandard.json",
+	"gold_concepts_dir": "gold_concepts.json",
 	"retrieve_wikidata": true,
 	"retrieve_ConceptNet": false,
 	"analysis": false,
