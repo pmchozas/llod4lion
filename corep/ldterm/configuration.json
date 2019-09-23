@@ -1,8 +1,8 @@
 {
 	"source_language": "english",
 	"run_id": "10",
-	"source_file_dir": "/Users/pmchozas/Documents/GitHub/llod4lion/corep/ldterm/Input/1term.csv",
-	"gold_concepts_dir": "",
+	"source_file_dir": "Input/1term.csv",
+	"gold_concepts_dir": "goldstandard.json",
 	"retrieve_wikidata": true,
 	"retrieve_ConceptNet": false,
 	"analysis": false,
