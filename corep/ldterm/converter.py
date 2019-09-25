@@ -35,9 +35,9 @@ def sctmid_creator():
     SCTMID = "LT" + str(numb)
     return SCTMID
 
-wiki_dir = "/Users/sina/My_GitHub/LDTerm/backup/July16/300_retrieved_wikidata.json"
-concept_net = "/Users/sina/My_GitHub/LDTerm/backup/July16/300_induction_results.json"
-scterm_dict = "/Users/sina/My_GitHub/LDTerm/backup/July16/scterm_dict.csv"
+wiki_dir = "Wikidata/10.json"
+concept_net = "Output/10.json"
+scterm_dict = "Paper/scterm_dict.csv"
 rdf_dataset = list()
 
 with open(wiki_dir, 'r') as f:

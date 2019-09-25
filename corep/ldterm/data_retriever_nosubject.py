@@ -86,7 +86,7 @@ def sctmid_creator():
 # =========================================
 # 
 # =========================================
-def get_conceptNet_synonyms(term, lang="de"):
+def get_conceptNet_synonyms(term, lang="en"):
     # Given a term, get the synonyms from ConcetpNet of the same language
     # Note that all words are in lower case on ConceptNet, unlike Wikidata
     # Start and end edges should be taken into account
@@ -268,7 +268,7 @@ def wikidata_retriever(term, subjects, lang):
 
     Wikidata_dataset = dict()
     
-    #print(term)
+    print(term)
     query = retrieve_query.replace("TERM", term).replace("LANG", lang)
     SRCTERM = "\"" + term + "\"" + "@" + lang
     #print(SRCTERM) We have to save this in the skos as well
@@ -288,7 +288,7 @@ def wikidata_retriever(term, subjects, lang):
                 # Quit the loop if a subject found (better performance)
                 break
 
-        if len(retrieved_subject):
+        if True:
             query = original_query.replace("WDTMID", item_id)
             r = requests.get(url, params={'format': 'json', 'query': query}, headers=headers)
             data = r.json()
@@ -349,8 +349,9 @@ def wikidata_retriever(term, subjects, lang):
                         altL = altLabel_dict[article]
 
                     retrieved.append({"article": article, "lang": lang, "name": name, "desc": desc, "altLabel": altL})
-
+                    print(retrieved)
             subj = {"value": retrieved_subject, "id": subjects[retrieved_subject]}
+            print(subj)
             retrieved_data = {"Term": term, "WDTMID": item_id, "SBJCT": subj, "naTerm": relations_retrieved["narrower"], "brTerm": relations_retrieved["broader"], "translations": retrieved}
         else:
             retrieved_data = {}

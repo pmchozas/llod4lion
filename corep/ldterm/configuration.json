@@ -1,11 +1,11 @@
 {
-	"source_language": "english",
-	"run_id": "10",
-	"source_file_dir": "Input/1term.csv",
+	"source_language": "es",
+	"run_id": "12",
+	"source_file_dir": "Input/contracts_es.csv",
 	"gold_concepts_dir": "gold_concepts.json",
 	"retrieve_wikidata": true,
-	"retrieve_ConceptNet": false,
-	"analysis": false,
+	"retrieve_ConceptNet": true,
+	"analysis": true,
 	"evaluate": false,
-	"convert_to_SKOS": false
+	"convert_to_SKOS": true
 }
