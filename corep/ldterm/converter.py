@@ -35,8 +35,8 @@ def sctmid_creator():
     SCTMID = "LT" + str(numb)
     return SCTMID
 
-wiki_dir = "Wikidata/10.json"
-concept_net = "Output/10.json"
+wiki_dir = "Wikidata/12.json"
+concept_net = "Output/12.json"
 scterm_dict = "Paper/scterm_dict.csv"
 rdf_dataset = list()
 
