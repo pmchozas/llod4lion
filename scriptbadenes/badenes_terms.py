@@ -7,7 +7,7 @@ Created on Fri May 15 12:11:48 2020
 """
 import spacy
 import pytextrank
-import pysolr
+import os
 #import it_core_news_sm
 from langdetect import detect
 
@@ -21,10 +21,12 @@ def get_language(text):
     return lang
   except:
     return "en"
+
 def get_keywords(text):
   # load a spaCy model, depending on language, scale, etc.
-  #lang = get_language(text)
-  nlp = spacy.load("en")
+  lang = get_language(text)
+  os.system('python3 -m spacy download '+lang)
+  nlp = spacy.load(lang)
   nlp.max_length = 29204346
   # add PyTextRank to the spaCy pipeline
   tr = pytextrank.TextRank()
@@ -39,14 +41,14 @@ def get_keywords(text):
 
 
 
+if __name__ == "__main__":
+  file = open("smallcorpus.txt", "r")
+  text=file.read()
 
-file = open("smallcorpus.txt", "r")
-text=file.read()
-
-#print(len(text))
+  #print(len(text))
   
-f = open('results.txt','a')
-test=get_keywords(text)
-print(test)
-f.write(str(test) + '\n')
-f.close()
+  f = open('results.txt','a')
+  test=get_keywords(text)
+  print(test)
+  f.write(str(test) + '\n')
+  f.close()
