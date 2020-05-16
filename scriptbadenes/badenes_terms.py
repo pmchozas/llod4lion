@@ -49,6 +49,6 @@ if __name__ == "__main__":
   
   f = open('results.txt','a')
   test=get_keywords(text)
-  print(test)
+  #print(test)
   f.write(str(test) + '\n')
   f.close()

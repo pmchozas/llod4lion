@@ -1,0 +1,1 @@
+This is a test. Patricia is testing how to extract terms with Badene's script using Spacy. Let's see.

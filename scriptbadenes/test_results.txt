@@ -1,0 +1,1 @@
+['badene', 'terms', 'spacy', 'badenes script', 'patricia', 'a test', 's']
