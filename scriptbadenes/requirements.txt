@@ -1,0 +1,3 @@
+spacy>=2.2.0,<3.0.0
+pytextrank>=1.2.0
+langdetect>=1.0.8
