@@ -23,8 +23,8 @@ def get_language(text):
     return "en"
 def get_keywords(text):
   # load a spaCy model, depending on language, scale, etc.
-  lang = get_language(text)
-  nlp = spacy.load(lang)
+  #lang = get_language(text)
+  nlp = spacy.load("en")
   nlp.max_length = 29204346
   # add PyTextRank to the spaCy pipeline
   tr = pytextrank.TextRank()
@@ -50,4 +50,3 @@ test=get_keywords(text)
 print(test)
 f.write(str(test) + '\n')
 f.close()
-
