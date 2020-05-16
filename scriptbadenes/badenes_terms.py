@@ -42,12 +42,12 @@ def get_keywords(text):
 
 
 if __name__ == "__main__":
-  file = open("smallcorpus.txt", "r")
+  file = open("minicorpus.txt", "r")
   text=file.read()
 
   #print(len(text))
   
-  f = open('results.txt','a')
+  f = open('miniresults.txt','a')
   test=get_keywords(text)
   #print(test)
   f.write(str(test) + '\n')
