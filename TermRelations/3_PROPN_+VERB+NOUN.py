@@ -28,12 +28,12 @@ for t in newlist:
     wordlist.append(t[0])
     postaglist.append(t[1])
 
-print(postaglist)
 
 for i in range(len(postaglist)):
-    if('PROPN' == postaglist[i]): #cuando encuentra noun, posnoun vale la posicion de la lista, (1) en el primer caso
-        posnoun=i 
-        newword=wordlist[posnoun] #correspondencia en wordlist con la posición i (artículo en el primer caso)
+    if('PROPN' == postaglist[i] or ('PROPN' == postaglist[i] and 'PROPN'== postaglist[i+1])): #cuando encuentra noun, posnoun vale la posicion de la lista, (1) en el primer caso
+        posnoun=i
+        posnoun2=i+1
+        newword=wordlist[posnoun]+' '+wordlist[posnoun2] #correspondencia en wordlist con la posición i (artículo en el primer caso)
         #print( '->',newword)
         if(posnoun+5<len(postaglist)): #para que no compruebe más allá de la longitud de la lista
             verbrange=postaglist[posnoun:posnoun+5] #verbrange define el rango donde puede estar el verbo (desde la posición del nombre, 5 posiciones en adelante)

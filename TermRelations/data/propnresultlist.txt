@@ -1,0 +1,104 @@
+Gobierno dictar texto
+Gobierno aprobar texto
+Ley tener lugar
+Trabajadores aprobar texto
+Trabajadores insertar continuación
+Trabajadores insertar continuación disposición
+Formación habilitar ejercicio
+Profesional habilitar ejercicio
+Seguridad reconocer trabajador
+Seguridad reconocer trabajador concepto
+Social reconocer trabajador
+Social reconocer trabajador concepto
+Social transcurrir plazo
+Servicio emitir documento
+Público emitir documento
+Empleo emitir documento
+Gobierno regular medida
+Gobierno regular medida reserva
+Gobierno otorgar subvención
+Gobierno otorgar subvención desgravación
+Gobierno fijar consulta
+Seguridad efectuar empresario
+Social efectuar empresario
+Fondo personar expediente
+Fondo corresponder cuantía
+Fondo reducir cantidad
+Fondo asumir obligación
+Garantía subrogar derecho
+Salarial subrogar derecho
+Garantía financiar aportación
+Salarial financiar aportación
+Social conseguir satisfacción
+Social conseguir satisfacción crédito
+Fondo tener consideración
+Fondo tener consideración parte
+Garantía tener consideración
+Garantía tener consideración parte
+Salarial tener consideración
+Salarial tener consideración parte
+Fondo dispensar protección
+Garantía dispensar protección
+Salarial dispensar protección
+España pertenecer empresa
+Garantía solicitar información
+Garantía solicitar información institución
+Salarial solicitar información
+Salarial solicitar información institución
+Salarial proporcionar información
+Salarial proporcionar información institución
+Fondo prestar institución
+Garantía prestar institución
+Salarial prestar institución
+Gobierno suprimir número
+Gobierno suprimir número reducir número
+Gobierno establecer limitación
+Gobierno establecer limitación garantía
+Gobierno trasladar lunes
+III realizar conforme
+Social librar certificación
+Social incluir compromiso
+Social incluir compromiso pensión
+Comunicación expresar causa
+Comunicación expresar causa b
+Administraciones contener dato
+Públicas contener dato
+Libertad promover celebración
+Sindical promover celebración
+Sindical consignar sindicato
+Administración facilitar utilización
+Administraciones dictar laudo
+Administraciones dictar laudo laudo
+Públicas dictar laudo
+Públicas dictar laudo laudo
+Seguridad entender causa
+Social entender causa
+Seguridad recoger texto
+Social recoger texto
+Convenios entender perjuicio
+Colectivos entender perjuicio
+Convenios reforzado actuación
+Colectivos reforzado actuación
+Convenios mantener convenio
+Convenios mantener convenio colaboración
+Colectivos mantener convenio
+Colectivos mantener convenio colaboración
+Empleo acordar actuación
+Seguridad acordar actuación
+Social acordar actuación
+Seguridad tener derecho
+Social tener derecho
+Gobierno reducir plazo
+Universidades cualesquer norma
+Universidades cualesquer norma rango
+Administraciones formar parte
+Públicas formar parte
+Universidades cualesquer norma
+Universidades cualesquer norma rango
+Sector entender causa
+Público entender causa
+Administraciones resultar aplicación
+Administraciones resultar aplicación personal
+Constitución atribuir competencia
+Española atribuir competencia
+Gobierno dictar disposición
