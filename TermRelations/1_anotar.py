@@ -12,7 +12,7 @@ nlp = stanza.Pipeline('es')
 file=open('data/estatuto.txt')
 f = file.read()
 
-
+print(f)
 pos = nlp(f) #json con toda la info del postagging
 f.close()
 list=[]
