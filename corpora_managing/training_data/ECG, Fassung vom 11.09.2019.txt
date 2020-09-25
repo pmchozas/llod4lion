@@ -1,0 +1,377 @@
+Bundesrecht konsolidiert
+
+Gesamte Rechtsvorschrift für E-Commerce-Gesetz, Fassung vom 11.09.2019
+
+Langtitel
+
+Bundesgesetz, mit dem bestimmte rechtliche Aspekte des elektronischen Geschäfts- und Rechtsverkehrs geregelt werden (E-Commerce-Gesetz - ECG)
+StF: BGBl. I Nr. 152/2001 (NR: GP XXI RV 817 AB 853 S. 83. BR: AB 6499 S. 682.)
+[CELEX-Nr.: 300L0031]
+
+Text
+
+1. Abschnitt
+
+Anwendungsbereich und Begriffsbestimmungen
+
+Anwendungsbereich
+
+§ 1. (1) Dieses Bundesgesetz regelt einen rechtlichen Rahmen für bestimmte Aspekte des elektronischen Geschäfts- und Rechtsverkehrs. Es behandelt die Zulassung von Diensteanbietern, deren Informationspflichten, den Abschluss von Verträgen, die Verantwortlichkeit von Diensteanbietern, das Herkunftslandprinzip und die Zusammenarbeit mit anderen Mitgliedstaaten im elektronischen Geschäfts- und Rechtsverkehr.
+
+(2) Die Bestimmungen dieses Bundesgesetzes über das Herkunftslandprinzip (§§ 20 bis 23) und die Zusammenarbeit mit anderen Mitgliedstaaten (§ 25) sind nur auf den Verkehr von Diensten der Informationsgesellschaft innerhalb des Europäischen Wirtschaftsraums anzuwenden.
+
+§ 2. Dieses Bundesgesetz lässt Belange des Abgabenwesens, des Datenschutzes und des Kartellrechts unberührt.
+
+Begriffsbestimmungen
+
+§ 3. Im Sinne dieses Bundesgesetzes bedeuten:
+
+	1.	Dienst der Informationsgesellschaft: ein in der Regel gegen Entgelt elektronisch im Fernabsatz auf individuellen Abruf des Empfängers bereitgestellter Dienst (§ 1 Abs. 1 Z 2 Notifikationsgesetz 1999), insbesondere der Online-Vertrieb von Waren und Dienstleistungen, Online-Informationsangebote, die Online-Werbung, elektronische Suchmaschinen und Datenabfragemöglichkeiten sowie Dienste, die Informationen über ein elektronisches Netz übermitteln, die den Zugang zu einem solchen vermitteln oder die Informationen eines Nutzers speichern;
+
+	2.	Diensteanbieter: eine natürliche oder juristische Person oder sonstige rechtsfähige Einrichtung, die einen Dienst der Informationsgesellschaft bereitstellt;
+
+	3.	niedergelassener Diensteanbieter: ein Diensteanbieter, der eine Wirtschaftstätigkeit mittels einer festen Einrichtung auf unbestimmte Zeit tatsächlich ausübt, wobei das Vorhandensein und die Nutzung von technischen Mitteln und Technologien, die zur Bereitstellung des Dienstes erforderlich sind, für sich allein noch keine Niederlassung des Diensteanbieters begründen;
+
+	4.	Nutzer: eine natürliche oder juristische Person oder sonstige rechtsfähige Einrichtung, die zu beruflichen oder sonstigen Zwecken einen Dienst der Informationsgesellschaft in Anspruch nimmt, insbesondere um Informationen zu erlangen oder Informationen zugänglich zu machen;
+
+	5.	Verbraucher: eine natürliche Person, die zu Zwecken handelt, die nicht zu ihren gewerblichen, geschäftlichen oder beruflichen Tätigkeiten gehören;
+
+	6.	kommerzielle Kommunikation: Werbung und andere Formen der Kommunikation, die der unmittelbaren oder mittelbaren Förderung des Absatzes von Waren und Dienstleistungen oder des Erscheinungsbildes eines Unternehmens dienen, ausgenommen
+
+	a)	Angaben, die einen direkten Zugang zur Tätigkeit des Unternehmens ermöglichen, etwa ein Domain-Name oder eine elektronische Postadresse, sowie
+
+	b)	unabhängig und insbesondere ohne finanzielle Gegenleistung gemachte Angaben über Waren, Dienstleistungen oder das Erscheinungsbild eines Unternehmens;
+
+	7.	Mitgliedstaat: ein Mitgliedstaat der Europäischen Gemeinschaft oder des Abkommens über den Europäischen Wirtschaftsraum;
+
+	8.	koordinierter Bereich: die allgemein oder besonders für Dienste der Informationsgesellschaft und für Diensteanbieter geltenden Rechtsvorschriften über die Aufnahme und die Ausübung einer solchen Tätigkeit, insbesondere Rechtsvorschriften über die Qualifikation und das Verhalten der Diensteanbieter, über die Genehmigung oder Anmeldung sowie die Qualität und den Inhalt der Dienste der Informationsgesellschaft  einschließlich der für die Werbung und für Verträge geltenden Bestimmungen  und über die rechtliche Verantwortlichkeit der Diensteanbieter.
+
+2. Abschnitt
+
+Zulassung von Diensten der Informationsgesellschaft
+
+Zulassungsfreiheit
+
+§ 4. (1) Die Aufnahme und die Ausübung der Tätigkeit eines Diensteanbieters bedürfen keiner gesonderten behördlichen Zulassung, Bewilligung, Genehmigung oder Konzession oder sonstigen Anforderung gleicher Wirkung.
+
+(2) Rechtsvorschriften, die die Zulässigkeit der Aufnahme oder Ausübung einer geschäftlichen, gewerblichen oder beruflichen Tätigkeit regeln und nicht besonders und ausschließlich für Dienste der Informationsgesellschaft oder deren Anbieter gelten, bleiben unberührt. Gleiches gilt für Rechtsvorschriften über die Anzeige- oder Konzessionspflicht von Telekommunikationsdiensten.
+
+3. Abschnitt
+
+Informationspflichten
+
+Allgemeine Informationen
+
+§ 5. (1) Ein Diensteanbieter hat den Nutzern ständig zumindest folgende Informationen leicht und unmittelbar zugänglich zur Verfügung zu stellen:
+
+	1.	seinen Namen oder seine Firma;
+
+	2.	die geografische Anschrift, unter der er niedergelassen ist;
+
+	3.	Angaben, auf Grund deren die Nutzer mit ihm rasch und unmittelbar in Verbindung treten können, einschließlich seiner elektronischen Postadresse;
+
+	4.	sofern vorhanden, die Firmenbuchnummer und das Firmenbuchgericht;
+
+	5.	soweit die Tätigkeit einer behördlichen Aufsicht unterliegt, die für ihn zuständige Aufsichtsbehörde;
+
+	6.	bei einem Diensteanbieter, der gewerbe- oder berufsrechtlichen Vorschriften unterliegt, die Kammer, den Berufsverband oder eine ähnliche Einrichtung, der er angehört, die Berufsbezeichnung und den Mitgliedstaat, in dem diese verliehen worden ist, sowie einen Hinweis auf die anwendbaren gewerbe- oder berufsrechtlichen Vorschriften und den Zugang zu diesen;
+
+	7.	sofern vorhanden, die Umsatzsteuer-Identifikationsnummer.
+
+(2) Sofern in Diensten der Informationsgesellschaft Preise angeführt werden, sind diese so auszuzeichnen, dass sie ein durchschnittlich aufmerksamer Betrachter leicht lesen und zuordnen kann. Es muss eindeutig erkennbar sein, ob die Preise einschließlich der Umsatzsteuer sowie aller sonstigen Abgaben und Zuschläge ausgezeichnet sind (Bruttopreise) oder nicht. Darüber hinaus ist auch anzugeben, ob Versandkosten enthalten sind.
+
+(3) Sonstige Informationspflichten bleiben unberührt.
+
+Informationen über kommerzielle Kommunikation
+
+§ 6. (1) Ein Diensteanbieter hat dafür zu sorgen, dass eine kommerzielle Kommunikation, die Bestandteil eines Dienstes der Informationsgesellschaft ist oder einen solchen Dienst darstellt, klar und eindeutig
+
+	1.	als solche erkennbar ist,
+
+	2.	die natürliche oder juristische Person, die die kommerzielle Kommunikation in Auftrag gegeben hat, erkennen lässt,
+
+	3.	Angebote zur Absatzförderung wie etwa Zugaben und Geschenke als solche erkennen lässt und einen einfachen Zugang zu den Bedingungen für ihre Inanspruchnahme enthält sowie
+
+	4.	Preisausschreiben und Gewinnspiele als solche erkennen lässt und einen einfachen Zugang zu den Teilnahmebedingungen enthält.
+
+(2) Sonstige Informationspflichten für kommerzielle Kommunikation sowie Rechtsvorschriften über die Zulässigkeit von Angeboten zur Absatzförderung und von Preisausschreiben und Gewinnspielen bleiben unberührt.
+
+Nicht angeforderte kommerzielle Kommunikation
+
+§ 7. (1) Ein Diensteanbieter, der eine kommerzielle Kommunikation zulässigerweise ohne vorherige Zustimmung des Empfängers mittels elektronischer Post versendet, hat dafür zu sorgen, dass die kommerzielle Kommunikation bei ihrem Eingang beim Nutzer klar und eindeutig als solche erkennbar ist.
+
+(2) Die Rundfunk und Telekom Regulierungs-GmbH (RTR-GmbH) hat eine Liste zu führen, in die sich diejenigen Personen und Unternehmen kostenlos eintragen können, die für sich die Zusendung kommerzieller Kommunikation im Weg der elektronischen Post ausgeschlossen haben. Die in Abs. 1 genannten Diensteanbieter haben diese Liste zu beachten.
+
+(3) Rechtsvorschriften über die Zulässigkeit und Unzulässigkeit der Übermittlung kommerzieller Kommunikation im Weg der elektronischen Post bleiben unberührt.
+
+Kommerzielle Kommunikation für Angehörige geregelter Berufe
+
+§ 8. (1) Für Diensteanbieter, die berufsrechtlichen Vorschriften unterliegen, ist eine kommerzielle Kommunikation, die Bestandteil eines von ihnen bereitgestellten Dienstes der Informationsgesellschaft ist oder einen solchen darstellt, zulässig.
+
+(2) Berufsrechtliche Vorschriften, die kommerzielle Kommunikation für die Angehörigen dieser Berufe insbesondere zur Wahrung der Unabhängigkeit, Würde und Ehre des Berufs, zur Sicherung des Berufsgeheimnisses und zur Einhaltung eines lauteren Verhaltens gegenüber Kunden und anderen Berufsangehörigen einschränken, bleiben unberührt.
+
+4. Abschnitt
+
+Abschluss von Verträgen
+
+Informationen für Vertragsabschlüsse
+
+§ 9. (1) Ein Diensteanbieter hat einen Nutzer vor Abgabe seiner Vertragserklärung (Vertragsanbot oder annahme) über folgende Belange klar, verständlich und eindeutig zu informieren:
+
+	1.	die einzelnen technischen Schritte, die zu seiner Vertragserklärung und zum Vertragsabschluss führen;
+
+	2.	den Umstand, ob der Vertragstext nach Vertragsabschluss vom Diensteanbieter gespeichert wird sowie gegebenenfalls den Zugang zu einem solchen Vertragstext;
+
+	3.	die technischen Mittel zur Erkennung und Berichtigung von Eingabefehlern vor Abgabe der Vertragserklärung sowie
+
+	4.	die Sprachen, in denen der Vertrag abgeschlossen werden kann.
+
+(2) Ein Diensteanbieter hat die freiwilligen Verhaltenskodizes, denen er sich unterwirft, und den elektronischen Zugang zu diesen Kodizes anzugeben.
+
+(3) Die Informationspflichten nach den Abs. 1 und 2 können nicht zum Nachteil von Verbrauchern abbedungen werden. Sie gelten nicht für Verträge, die ausschließlich im Weg der elektronischen Post oder eines damit vergleichbaren individuellen Kommunikationsmittels abgeschlossen werden.
+
+(4) Sonstige Informationspflichten des Diensteanbieters bleiben unberührt.
+
+Abgabe einer Vertragserklärung
+
+§ 10. (1) Ein Diensteanbieter hat dem Nutzer angemessene, wirksame und zugängliche technische Mittel zur Verfügung zu stellen, mit denen dieser Eingabefehler vor der Abgabe seiner Vertragserklärung erkennen und berichtigen kann.
+
+(2) Ein Diensteanbieter hat dem Nutzer den Zugang einer elektronischen Vertragserklärung unverzüglich elektronisch zu bestätigen.
+
+(3) Die Verpflichtungen des Diensteanbieters nach den Abs. 1 und 2 können nicht zum Nachteil von Verbrauchern abbedungen werden. Sie gelten nicht für Verträge, die ausschließlich im Weg der elektronischen Post oder eines damit vergleichbaren individuellen elektronischen Kommunikationsmittels abgeschlossen werden.
+
+Vertragsbestimmungen und Geschäftsbedingungen
+
+§ 11. Ein Diensteanbieter hat die Vertragsbestimmungen und die allgemeinen Geschäftsbedingungen dem Nutzer so zur Verfügung zu stellen, dass er sie speichern und wiedergeben kann. Diese Verpflichtung kann nicht zum Nachteil des Nutzers abbedungen werden.
+
+Zugang elektronischer Erklärungen
+
+§ 12. Elektronische Vertragserklärungen, andere rechtlich erhebliche elektronische Erklärungen und elektronische Empfangsbestätigungen gelten als zugegangen, wenn sie die Partei, für die sie bestimmt sind, unter gewöhnlichen Umständen abrufen kann. Diese Regelung kann nicht zum Nachteil von Verbrauchern abbedungen werden.
+
+5. Abschnitt
+
+Verantwortlichkeit von Diensteanbietern
+
+Ausschluss der Verantwortlichkeit bei Durchleitung
+
+§ 13. (1) Ein Diensteanbieter, der von einem Nutzer eingegebene Informationen in einem Kommunikationsnetz übermittelt oder den Zugang zu einem Kommunikationsnetz vermittelt, ist für die übermittelten Informationen nicht verantwortlich, sofern er
+
+	1.	die Übermittlung nicht veranlasst,
+
+	2.	den Empfänger der übermittelten Informationen nicht auswählt und
+
+	3.	die übermittelten Informationen weder auswählt noch verändert.
+
+(2) Die Übermittlung von Informationen und die Vermittlung des Zugangs im Sinn des Abs. 1 umfassen auch die automatische kurzzeitige Zwischenspeicherung der übermittelten Informationen, soweit diese Zwischenspeicherung nur der Durchführung der Übermittlung im Kommunikationsnetz dient und die Information nicht länger gespeichert wird, als es für die Übermittlung üblicherweise erforderlich ist.
+
+Ausschluss der Verantwortlichkeit bei Suchmaschinen
+
+§ 14. (1) Ein Diensteanbieter, der Nutzern eine Suchmaschine oder andere elektronische Hilfsmittel zur Suche nach fremden Informationen bereitstellt, ist für die abgefragten Informationen nicht verantwortlich, sofern er
+
+	1.	die Übermittlung der abgefragten Informationen nicht veranlasst,
+
+	2.	den Empfänger der abgefragten Informationen nicht auswählt und
+
+	3.	die abgefragten Informationen weder auswählt noch verändert.
+
+(2) Abs. 1 ist nicht anzuwenden, wenn die Person, von der die abgefragten Informationen stammen, dem Diensteanbieter untersteht oder von ihm beaufsichtigt wird.
+
+Ausschluss der Verantwortlichkeit bei Zwischenspeicherungen (Caching)
+
+§ 15. Ein Diensteanbieter, der von einem Nutzer eingegebene Informationen in einem Kommunikationsnetz übermittelt, ist für eine automatische, zeitlich begrenzte Zwischenspeicherung, die nur der effizienteren Gestaltung der auf Abruf anderer Nutzer erfolgenden Informationsübermittlung dient, nicht verantwortlich, sofern er
+
+	1.	die Information nicht verändert,
+
+	2.	die Bedingungen für den Zugang zur Information beachtet,
+
+	3.	die Regeln für die Aktualisierung der Information, die in allgemein anerkannten und verwendeten Industriestandards festgelegt sind, beachtet,
+
+	4.	die zulässige Anwendung von Technologien zur Sammlung von Daten über die Nutzung der Information, die in allgemein anerkannten und verwendeten Industriestandards festgelegt sind, nicht beeinträchtigt und
+
+	5.	unverzüglich eine von ihm gespeicherte Information entfernt oder den Zugang zu ihr sperrt, sobald er tatsächliche Kenntnis davon erhalten hat, dass die Information am ursprünglichen Ausgangsort der Übertragung aus dem Netz entfernt oder der Zugang zu ihr gesperrt wurde oder dass ein Gericht oder eine Verwaltungsbehörde die Entfernung oder Sperre angeordnet hat.
+
+Ausschluss der Verantwortlichkeit bei Speicherung fremder Inhalte (Hosting)
+
+§ 16. (1) Ein Diensteanbieter, der von einem Nutzer eingegebene Informationen speichert, ist für die im Auftrag eines Nutzers gespeicherten Informationen nicht verantwortlich, sofern er
+
+	1.	von einer rechtswidrigen Tätigkeit oder Information keine tatsächliche Kenntnis hat und sich in Bezug auf Schadenersatzansprüche auch keiner Tatsachen oder Umstände bewusst ist, aus denen eine rechtswidrige Tätigkeit oder Information offensichtlich wird, oder,
+
+	2.	sobald er diese Kenntnis oder dieses Bewusstsein erhalten hat, unverzüglich tätig wird, um die Information zu entfernen oder den Zugang zu ihr zu sperren.
+
+(2) Abs. 1 ist nicht anzuwenden, wenn der Nutzer dem Diensteanbieter untersteht oder von ihm beaufsichtigt wird.
+
+Ausschluss der Verantwortlichkeit bei Links
+
+§ 17. (1) Ein Diensteanbieter, der mittels eines elektronischen Verweises einen Zugang zu fremden Informationen eröffnet, ist für diese Informationen nicht verantwortlich,
+
+	1.	sofern er von einer rechtswidrigen Tätigkeit oder Information keine tatsächliche Kenntnis hat und sich in Bezug auf Schadenersatzansprüche auch keiner Tatsachen oder Umstände bewusst ist, aus denen eine rechtswidrige Tätigkeit oder Information offensichtlich wird, oder,
+
+	2.	sobald er diese Kenntnis oder dieses Bewusstsein erlangt hat, unverzüglich tätig wird, um den elektronischen Verweis zu entfernen.
+
+(2) Abs. 1 ist nicht anzuwenden, wenn die Person, von der die Informationen stammen, dem Diensteanbieter untersteht oder von ihm beaufsichtigt wird oder der Diensteanbieter die fremden Informationen als seine eigenen darstellt.
+
+Umfang der Pflichten der Diensteanbieter
+
+§ 18. (1) Die in den §§ 13 bis 17 genannten Diensteanbieter sind nicht verpflichtet, die von ihnen gespeicherten, übermittelten oder zugänglich gemachten Informationen allgemein zu überwachen oder von sich aus nach Umständen zu forschen, die auf rechtswidrige Tätigkeiten hinweisen.
+
+(2) Die in den §§ 13 und 16 genannten Diensteanbieter haben auf Grund der Anordnung eines dazu gesetzlich befugten inländischen Gerichtes diesem alle Informationen zu übermitteln, an Hand deren die Nutzer ihres Dienstes, mit denen sie Vereinbarungen über die Übermittlung oder Speicherung von Informationen abgeschlossen haben, zur Verhütung, Ermittlung, Aufklärung oder Verfolgung gerichtlich strafbarer Handlungen ermittelt werden können.
+
+(3) Die in § 16 genannten Diensteanbieter haben auf Grund der Anordnung einer Verwaltungsbehörde dieser den Namen und die Adressen der Nutzer ihres Dienstes, mit denen sie Vereinbarungen über die Speicherung von Informationen abgeschlossen haben, zu übermitteln, sofern die Kenntnis dieser Informationen eine wesentliche Voraussetzung der Wahrnehmung der der Behörde übertragenen Aufgaben bildet.
+
+(4) Die in § 16 genannten Diensteanbieter haben den Namen und die Adresse eines Nutzers ihres Dienstes, mit dem sie Vereinbarungen über die Speicherung von Informationen abgeschlossen haben, auf Verlangen dritten Personen zu übermitteln, sofern diese ein überwiegendes rechtliches Interesse an der Feststellung der Identität eines Nutzers und eines bestimmten rechtswidrigen Sachverhalts sowie überdies glaubhaft machen, dass die Kenntnis dieser Informationen eine wesentliche Voraussetzung für die Rechtsverfolgung bildet.
+
+(5) Sonstige Auskunfts- und Mitwirkungspflichten der Diensteanbieter gegenüber Behörden oder Gerichten bleiben unberührt.
+
+Weitergehende Vorschriften
+
+§ 19. (1) Die §§ 13 bis 18 lassen gesetzliche Vorschriften, nach denen ein Gericht oder eine Behörde dem Diensteanbieter die Unterlassung, Beseitigung oder Verhinderung einer Rechtsverletzung auftragen kann, unberührt.
+
+(2) Abs. 1 sowie die §§ 13 bis 18 sind auch auf Anbieter anzuwenden, die unentgeltlich elektronische Dienste bereitstellen.
+
+6. Abschnitt
+
+Herkunftslandprinzip und Ausnahmen
+
+Herkunftslandprinzip
+
+§ 20. (1) Im koordinierten Bereich (§ 3 Z 8) richten sich die rechtlichen Anforderungen an einen in einem Mitgliedstaat niedergelassenen Diensteanbieter nach dem Recht dieses Staats.
+
+(2) Der freie Verkehr der Dienste der Informationsgesellschaft aus einem anderen Mitgliedstaat darf vorbehaltlich der §§ 21 bis 23 nicht auf Grund inländischer Rechtsvorschriften eingeschränkt werden, die in den koordinierten Bereich fallen.
+
+Ausnahmen vom Herkunftslandprinzip
+
+§ 21. Das Herkunftslandprinzip ist in folgenden Bereichen nicht anzuwenden:
+
+	1.	Belange des Urheberrechts und verwandter Schutzrechte, der gewerblichen Schutzrechte sowie des Datenbank- und Halbleiterschutzes;
+
+	2.	die Ausgabe elektronischen Geldes durch Institute, auf die die Mitgliedstaaten eine der in Art. 8 Abs. 1 der Richtlinie 2000/46/EG, ABl. Nr. L 275 vom 27. Oktober 2000, S 39, vorgesehenen Ausnahmen angewendet haben;
+
+	3.	Rechtsvorschriften über die Werbung für Investmentfonds und andere Organismen für gemeinsame Anlagen von Wertpapieren im Vertriebsstaat;
+
+	4.	die in Titel I Kapitel VIII und in Art. 179 und Art. 181 Abs. 2 der Richtlinie 2009/138/EG betreffend die Aufnahme und Ausübung der Versicherungs- und Rückversicherungstätigkeit (Solvabilität II) (Neufassung), ABl. Nr. L 335 vom 17.12.2009 S. 1, zuletzt geändert durch die Richtlinie 2014/51/EU, ABl. Nr. L 153 vom 22.05.2014 S. 1, sowie die in Art. 7 der Verordnung (EG) Nr. 593/2008 über das auf vertragliche Schuldverhältnisse anzuwendende Recht (Rom I), ABl. L Nr. 177 vom 04.07.2008 S. 6, berichtigt durch ABl. Nr. L 309 vom 24.11.2009 S. 87, enthaltenen Rechtsvorschriften über die freie Niederlassung und den freien Dienstleistungsverkehr von Versicherungsunternehmen im Europäischen Wirtschaftsraum, über die Verpflichtungen von Versicherungsunternehmen zur Vorlage der Bedingungen für eine Pflichtversicherung an die zuständige Aufsichtsbehörde sowie über das anwendbare Recht bei Nicht-Lebens- und Lebensversicherungsverträgen, die in einem Mitgliedstaat gelegene Risiken decken;
+
+	5.	die Freiheit der Parteien eines Vertrags zur Rechtswahl;
+
+	6.	vertragliche Schuldverhältnisse in Bezug auf Verbraucherverträge einschließlich der gesetzlichen Informationspflichten, die einen bestimmenden Einfluss auf die Entscheidung zum Vertragsabschluss haben;
+
+	7.	die Rechtswirksamkeit von Verträgen zur Begründung oder Übertragung von Rechten an Immobilien, sofern diese Verträge nach dem Recht des Mitgliedstaats, in dem sich die Immobilie befindet, zwingenden Formvorschriften unterliegen;
+
+	8.	die Zulässigkeit nicht angeforderter Werbung und anderer Maßnahmen zur Absatzförderung im Weg der elektronischen Post;
+
+	9.	die Tätigkeit von Notaren und die Tätigkeit von Angehörigen gleichwertiger Berufe, soweit diese öffentlich-rechtliche Befugnisse ausüben;
+
+	10.	die Vertretung einer Partei und die Verteidigung ihrer Interessen vor den Gerichten, vor unabhängigen Verwaltungssenaten oder vor Behörden im Sinne des Art. 133 Z 4
+
+B-VG;
+
+	11.	Gewinn- und Glücksspiele, bei denen ein Einsatz, der einen Geldwert darstellt, zu leisten ist, einschließlich von Lotterien und Wetten;
+
+	12.	Rechtsvorschriften über Waren, wie etwa Sicherheitsnormen, Kennzeichnungspflichten, Verbote und Einschränkungen der Innehabung oder des Besitzes, sowie über die Haftung für fehlerhafte Waren;
+
+	13.	Rechtsvorschriften über die Lieferung von Waren einschließlich der Lieferung von Arzneimitteln und
+
+	14.	Rechtsvorschriften über Dienstleistungen, die nicht elektronisch erbracht werden.
+
+Abweichungen vom Herkunftslandprinzip
+
+§ 22. (1) Ein Gericht oder eine Verwaltungsbehörde kann im Rahmen seiner bzw. ihrer gesetzlichen Befugnisse abweichend vom Herkunftslandprinzip Maßnahmen ergreifen, die den freien Verkehr der Dienste der Informationsgesellschaft aus einem anderen Mitgliedstaat einschränken. Solche Maßnahmen müssen jedoch zum Schutz eines der in Abs. 2 genannten Rechtsgüter erforderlich sein. Sie dürfen sich nur gegen einen Diensteanbieter richten, der eines dieser Rechtsgüter beeinträchtigt oder ernstlich und schwerwiegend zu beeinträchtigen droht. Auch müssen sie in einem angemessenen Verhältnis zu den damit verfolgten Zielen stehen.
+
+(2) Der freie Verkehr der Dienste der Informationsgesellschaft aus einem anderen Mitgliedstaat kann nur aus folgenden Gründen eingeschränkt werden:
+
+	1.	Schutz der öffentlichen Ordnung, etwa zur Verhütung, Ermittlung, Aufklärung oder Verfolgung strafbarer Handlungen, einschließlich des Jugendschutzes und der Bekämpfung der Hetze aus Gründen der Rasse, des Geschlechts, des Glaubens oder der Nationalität;
+
+	2.	Schutz der Würde einzelner Menschen;
+
+	3.	Schutz der öffentlichen Gesundheit;
+
+	4.	Schutz der öffentlichen Sicherheit einschließlich der Wahrung nationaler Sicherheits- und Verteidigungsinteressen und
+
+	5.	Schutz der Verbraucher einschließlich des Schutzes der Anleger.
+
+§ 23. (1) Eine Verwaltungsbehörde hat ihre Absicht zur Ergreifung von Maßnahmen, die den freien Verkehr von Diensten der Informationsgesellschaft aus einem anderen Mitgliedstaat einschränken, der Europäischen Kommission und der zuständigen Stelle des anderen Staates mitzuteilen und diese aufzufordern, geeignete Maßnahmen gegen den Diensteanbieter zu veranlassen. Die Behörde kann die von ihr beabsichtigten Maßnahmen erst durchführen, wenn die zuständige Stelle des anderen Mitgliedstaats dieser Aufforderung nicht innerhalb angemessener Frist Folge geleistet hat oder die von ihr ergriffenen Maßnahmen unzulänglich sind.
+
+(2) Bei Gefahr im Verzug kann die Verwaltungsbehörde die von ihr beabsichtigten Maßnahmen auch ohne Verständigung der Kommission und Aufforderung der zuständigen Stelle des anderen Mitgliedstaats erlassen. In diesem Fall hat sie die von ihr ergriffene Maßnahme unverzüglich der Kommission und der zuständigen Stelle unter Angabe der Gründe für die Annahme von Gefahr im Verzug mitzuteilen.
+
+(3) Die Abs. 1 und 2 sind auf gerichtliche Verfahren nicht anzuwenden.
+
+7. Abschnitt
+
+Transparenz und Verbindung mit anderen Mitgliedstaaten
+
+Transparenz
+
+§ 24. (1) Der Bundesminister für Justiz hat die ihm bekannt gewordenen wesentlichen gerichtlichen oder verwaltungsbehördlichen Entscheidungen im Zusammenhang mit Diensten der Informationsgesellschaft der Europäischen Kommission bekannt zu geben.
+
+(2) Der Bundesminister für Justiz hat im Internet Informationen über
+
+	1.	die vertraglichen Rechte und Pflichten der Nutzer sowie über die bei Streitfällen verfügbaren Beschwerde- und Rechtsschutzverfahren einschließlich der praktischen Aspekte dieser Verfahren und
+
+	2.	die Anschriften von Behörden, Körperschaften öffentlichen Rechts und anderer Stellen, bei denen die Nutzer oder Diensteanbieter weitere Informationen oder praktische Unterstützung erhalten können,
+
+zu veröffentlichen.
+
+Verbindungsstelle
+
+§ 25. (1) Der Bundesminister für Justiz hat als Verbindungsstelle mit den zuständigen Stellen anderer Mitgliedstaaten und der Europäischen Kommission zusammenzuarbeiten. Er hat den an ihn gelangten Auskunftsbegehren anderer Mitgliedstaaten und der Kommission zu entsprechen und die nicht in seinen Wirkungsbereich fallenden Ersuchen um Amts- oder Rechtshilfe oder Auskünfte an die zuständigen Gerichte oder Verwaltungsbehörden weiterzuleiten.
+
+(2) Der Bundesminister für Justiz hat die Anschriften der ihm bekannt gegebenen Verbindungsstellen anderer Mitgliedstaaten im Internet zu veröffentlichen.
+
+8. Abschnitt
+
+Strafbestimmungen
+
+Verwaltungsübertretungen
+
+§ 26. (1) Ein Diensteanbieter begeht eine Verwaltungsübertretung und ist mit Geldstrafe bis zu 3 000 Euro zu bestrafen, wenn er
+
+	1.	gegen seine allgemeinen Informationspflichten nach § 5 Abs. 1 verstößt,
+
+	2.	gegen seine Informationspflichten für kommerzielle Kommunikation nach § 6 verstößt,
+
+	3.	gegen seine Informationspflichten für Vertragsabschlüsse nach § 9 Abs. 1 verstößt oder entgegen § 9 Abs. 2 keinen elektronischen Zugang zu den freiwilligen Verhaltenskodizes, denen er sich unterwirft, angibt,
+
+	4.	entgegen § 10 Abs. 1 keine technischen Mittel zur Erkennung und Berichtigung von Eingabefehlern zur Verfügung stellt oder
+
+	5.	entgegen § 11 die Vertragsbestimmungen und die allgemeinen Geschäftsbedingungen nicht so zur Verfügung stellt, dass sie der Nutzer speichern und wiedergeben kann.
+
+(2) Eine Verwaltungsübertretung nach Abs. 1 liegt nicht vor, wenn die Tat den Tatbestand einer gerichtlich strafbaren Handlung bildet oder nach anderen Verwaltungsstrafbestimmungen mit strengerer Strafe bedroht ist.
+
+Tätige Reue
+
+§ 27. (1) Die Behörde kann einen Diensteanbieter, der die Verpflichtungen nach diesem Bundesgesetz verletzt, darauf hinweisen und ihm auftragen, den gesetzmäßigen Zustand innerhalb einer von ihr festgelegten angemessenen Frist herzustellen. Dabei hat sie ihn auf die mit einer solchen Aufforderung verbundenen Rechtsfolgen hinzuweisen.
+
+(2) Ein Diensteanbieter ist wegen einer Verwaltungsübertretung nach § 26 Abs. 1 nicht zu bestrafen, wenn er den gesetzmäßigen Zustand innerhalb der von der Behörde gesetzten Frist herstellt.
+
+9. Abschnitt
+
+Vollzugs- und Schlussbestimmungen
+
+In-Kraft-Treten
+
+§ 28. (1) Dieses Bundesgesetz tritt mit 1. Jänner 2002 in Kraft.
+
+(2) § 21 Z 4 in der Fassung des Bundesgesetzes BGBl. I Nr. 34/2015 tritt mit 1. Jänner 2016 in Kraft.
+
+Verweise auf andere Bundesgesetze
+
+§ 29. Soweit in diesem Bundesgesetz auf Bestimmungen anderer Bundesgesetze verwiesen wird, sind diese in ihrer jeweils geltenden Fassung anzuwenden.
+
+Vollzug
+
+§ 30. Mit der Vollziehung dieses Bundesgesetzes sind hinsichtlich des § 7 der Bundesminister für Verkehr, Innovation und Technologie, hinsichtlich der §§ 24 und 25 der Bundesminister für Justiz sowie hinsichtlich der übrigen Bestimmungen der Bundesminister für Justiz und der Bundesminister für Wirtschaft und Arbeit betraut.
+
+Hinweise auf Notifikation und Umsetzung
+
+§ 31. (1) Dieses Bundesgesetz wurde unter Einhaltung der Bestimmungen der Richtlinie 98/34/EG, ABl. Nr. L 204 vom 21. Juli 1998, S 37, in der Fassung der Richtlinie 98/48/EG, ABl. Nr. L 217 vom 5. August 1998, S 18, der Europäischen Kommission notifiziert (Notifikationsnummer 2001/290/A).
+
+(2) Mit diesem Bundesgesetz wird die Richtlinie 2000/31/EG über bestimmte Aspekte des elektronischen Geschäftsverkehrs im Binnenmarkt (Richtlinie über den elektronischen Geschäftsverkehr), ABl. Nr. L 178 vom 17. Juli 2000, S 1, umgesetzt.
+
+Artikel 1
+
+Umsetzung von Richtlinien der Europäischen Union
+
+(Anm.: aus BGBl. I Nr. 34/2015, zu § 21, BGBl. I Nr. 152/2001)
+
+Dieses Bundesgesetz dient der Umsetzung der Richtlinie 2009/138/EG betreffend die Aufnahme und Ausübung der Versicherungs- und der Rückversicherungstätigkeit (Solvabilität II) (Neufassung), (ABl. Nr. L 335 vom 17.12.2009 S. 1), zuletzt geändert durch die Richtlinie 2014/51/EU ABl. Nr. L 153 vom 22.05.2014 S. 1.
+
+	www.ris.bka.gv.at	Seite 1 von 1
