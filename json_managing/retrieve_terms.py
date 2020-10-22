@@ -17,6 +17,20 @@ altlist_en=[]
 
 
 
+with open('llterms.json') as jsonfile:
+    data= json.load(jsonfile)
+    for p in data:
+        for l in p['@graph']:
+            print(l[''])
+
+
+
+
+'''
+
+esta función es para sacar los términos 
+
+
 
 with open('llterms.json') as jsonfile:
     data= json.load(jsonfile)
@@ -55,3 +69,4 @@ with open('term_en.txt', 'w') as f:
         
         
 f.close()
+'''

@@ -1,0 +1,1815 @@
+token: la Ley, ner: LOC
+token: Gobierno, ner: LOC
+token: Constitución Española, ner: LOC
+token: Gobierno, ner: LOC
+token: la Ley, ner: LOC
+token: Estatuto de los Trabajadores, ner: MISC
+token: Real Decreto Legislativo, ner: ORG
+token: El plazo para la realización, ner: MISC
+token: Ley 20/2014, ner: MISC
+token: Además, ner: PER
+token: Consejo Económico y Social, ner: ORG
+token: Ministra de Empleo, ner: ORG
+token: Seguridad Social, ner: ORG
+token: Consejo de Estado, ner: ORG
+token: Consejo de Ministros, ner: LOC
+token: DISPONGO, ner: MISC
+token: Artículo, ner: PER
+token: Aprobación, ner: LOC
+token: la Ley, ner: LOC
+token: Estatuto de los Trabajadores, ner: MISC
+token: Ley del Estatuto de los Trabajadores, ner: MISC
+token: Disposición, ner: LOC
+token: Derogación, ner: LOC
+token: El Real Decreto Legislativo, ner: MISC
+token: la Ley, ner: LOC
+token: Estatuto de los Trabajadores, ner: MISC
+token: La disposición adicional cuarta, ner: MISC
+token: la Ley, ner: LOC
+token: La disposición adicional séptima, ner: MISC
+token: la Ley, ner: LOC
+token: Las disposiciones adicionales primera, ner: MISC
+token: la Ley, ner: LOC
+token: El artículo 5, ner: MISC
+token: Real Decreto, ner: ORG
+token: El artículo 17, ner: MISC
+token: la Ley, ner: LOC
+token: La disposición transitoria séptima del, ner: MISC
+token: Real Decreto, ner: ORG
+token: La disposición adicional sexta del, ner: MISC
+token: Real Decreto, ner: ORG
+token: La disposición transitoria, ner: MISC
+token: Real Decreto, ner: ORG
+token: La disposición transitoria segunda de la Ley, ner: MISC
+token: Dado en Oviedo, ner: MISC
+token: FELIPE R., ner: MISC
+token: La Ministra de Empleo, ner: MISC
+token: Seguridad Social, ner: ORG
+token: FÁTIMA, ner: ORG
+token: BÁÑEZ GARCÍA, ner: MISC
+token: TEXTO, ner: MISC
+token: LA, ner: MISC
+token: DEL, ner: ORG
+token: TRABAJADORES, ner: MISC
+token: Ámbito, ner: PER
+token: Ámbito de aplicación, ner: MISC
+token: Esta ley será de aplicación, ner: MISC
+token: A los efectos de esta ley, ner: MISC
+token: Se excluyen del ámbito, ner: MISC
+token: La relación de servicio de los funcionarios públicos, ner: MISC
+token: Administraciones Públicas, ner: ORG
+token: Las prestaciones personales obligatorias, ner: MISC
+token: La actividad que se limite, ner: MISC
+token: Los trabajos realizados a título de amistad, ner: MISC
+token: Los trabajos familiares, ner: MISC
+token: Se considerarán familiares, ner: MISC
+token: La actividad de las personas, ner: MISC
+token: En general, ner: MISC
+token: A tales efectos, ner: MISC
+token: La legislación laboral española será, ner: MISC
+token: España, ner: LOC
+token: Dichos trabajadores tendrán, ner: MISC
+token: A efectos de esta ley, ner: MISC
+token: En la actividad de trabajo en el mar, ner: MISC
+token: Artículo 2, ner: PER
+token: Relaciones, ner: LOC
+token: La del personal de alta dirección, ner: MISC
+token: La del servicio del hogar familiar, ner: MISC
+token: La de los penados, ner: MISC
+token: La de los deportistas profesionales, ner: MISC
+token: La de los artistas, ner: MISC
+token: La de las personas, ner: MISC
+token: La de los trabajadores, ner: MISC
+token: Derogada, ner: MISC
+token: La de los menores sometidos, ner: MISC
+token: La de residencia, ner: MISC
+token: Ciencias de la Salud, ner: ORG
+token: La de los abogados, ner: MISC
+token: En todos los supuestos señalados en el apartado anterior, ner: MISC
+token: Artículo 3, ner: PER
+token: Los derechos y obligaciones concernientes a la relación laboral, ner: MISC
+token: Por las disposiciones legales y reglamentarias, ner: MISC
+token: Estado., ner: MISC
+token: Por los convenios colectivos., ner: MISC
+token: Por la voluntad de las partes, ner: MISC
+token: Por los usos y costumbres locales, ner: MISC
+token: Las disposiciones legales y reglamentarias, ner: MISC
+token: Las disposiciones reglamentarias, ner: MISC
+token: Los conflictos, ner: MISC
+token: Los usos y costumbres solo, ner: MISC
+token: Los trabajadores, ner: MISC
+token: Tampoco, ner: PER
+token: Sección 2.ª Derechos, ner: PER
+token: Derechos laborales, ner: MISC
+token: Los trabajadores, ner: MISC
+token: Trabajo y libre, ner: MISC
+token: Libre, ner: MISC
+token: Negociación, ner: LOC
+token: Adopción, ner: PER
+token: Huelga, ner: LOC
+token: Reunión, ner: PER
+token: Información, ner: PER
+token: Estado español, ner: LOC
+token: Tampoco, ner: LOC
+token: Al ejercicio individual, ner: MISC
+token: A cuantos otros, ner: MISC
+token: Artículo 5, ner: MISC
+token: Deberes laborales, ner: MISC
+token: Los trabajadores, ner: MISC
+token: Observar, ner: PER
+token: Cumplir, ner: LOC
+token: Contribuir, ner: PER
+token: Cuantos se deriven, ner: MISC
+token: Sección, ner: PER
+token: Trabajo de los menores, ner: MISC
+token: Se prohíbe la admisión, ner: MISC
+token: Los trabajadores menores de dieciocho, ner: MISC
+token: Prevención de Riesgos Laborales, ner: LOC
+token: La intervención de los menores de dieciséis, ner: MISC
+token: El permiso deberá constar, ner: MISC
+token: Artículo 7, ner: PER
+token: Capacidad, ner: LOC
+token: Quienes, ner: ORG
+token: Código Civil, ner: MISC
+token: Los menores de dieciocho, ner: MISC
+token: Si el representante legal de una persona de capacidad limitada la autoriza expresa, ner: MISC
+token: Los extranjeros, ner: MISC
+token: Artículo 8, ner: MISC
+token: Forma del contrato, ner: MISC
+token: El contrato de trabajo, ner: MISC
+token: Se presumirá existente entre todo el que presta un servicio, ner: MISC
+token: Deberán, ner: PER
+token: España, ner: LOC
+token: Igualmente, ner: PER
+token: De no observarse tal exigencia, ner: MISC
+token: Cualquiera de las partes podrá exigir, ner: MISC
+token: El empresario está obligado a, ner: MISC
+token: El empresario entregará a la representación legal de los trabajadores, ner: MISC
+token: Con el fin de comprobar la adecuación, ner: MISC
+token: Ley Orgánica 1/1982, ner: MISC
+token: El tratamiento de la información facilitada, ner: MISC
+token: La copia básica, ner: MISC
+token: Posteriormente, ner: MISC
+token: Cuando no exista representación legal, ner: MISC
+token: Los representantes de la Administración, ner: MISC
+token: Cuando la relación laboral sea de duración, ner: MISC
+token: Artículo 9, ner: PER
+token: Validez, ner: ORG
+token: En caso de nulidad, ner: MISC
+token: Sección 4.ª Modalidades, ner: MISC
+token: Trabajo, ner: MISC
+token: El jefe del grupo ostentará la representación de los que lo integren, ner: MISC
+token: Si el trabajador, ner: MISC
+token: Artículo 11, ner: MISC
+token: Contratos formativos, ner: MISC
+token: El contrato de trabajo, ner: MISC
+token: Ley Orgánica 5/2002, ner: MISC
+token: Cualificaciones, ner: LOC
+token: Formación Profesional, ner: LOC
+token: El puesto de trabajo, ner: MISC
+token: Mediante convenio colectivo de ámbito sectorial estatal, ner: MISC
+token: La duración del contrato, ner: MISC
+token: Las situaciones de incapacidad temporal, ner: MISC
+token: Ningún trabajador podrá estar, ner: MISC
+token: Tampoco, ner: LOC
+token: Salvo lo dispuesto en convenio colectivo, ner: MISC
+token: La retribución del trabajador, ner: MISC
+token: Si al término del contrato, ner: MISC
+token: El contrato para la formación, ner: MISC
+token: El contrato para la formación, ner: MISC
+token: Se podrá celebrar, ner: MISC
+token: Se podrán acoger a esta modalidad contractual, ner: MISC
+token: El límite máximo de edad, ner: MISC
+token: la Ley, ner: LOC
+token: La duración mínima del contrato, ner: MISC
+token: No obstante, ner: MISC
+token: En caso de que el contrato, ner: MISC
+token: Las situaciones de incapacidad temporal, ner: MISC
+token: Expirada, ner: PER
+token: El trabajador deberá, ner: MISC
+token: Ley Orgánica 5/2002, ner: MISC
+token: Cualificaciones, ner: LOC
+token: Formación Profesional, ner: LOC
+token: Sistema Nacional de Empleo, ner: ORG
+token: No obstante, ner: MISC
+token: La actividad laboral desempeñada, ner: MISC
+token: La impartición de esta formación, ner: MISC
+token: Reglamentariamente, ner: MISC
+token: Las actividades formativas, ner: MISC
+token: Catálogo Nacional de Cualificaciones Profesionales, ner: MISC
+token: La cualificación, ner: MISC
+token: Ley Orgánica 5/2002, ner: MISC
+token: Cualificaciones, ner: LOC
+token: Formación Profesional, ner: LOC
+token: Conforme, ner: LOC
+token: Administración, ner: LOC
+token: El tiempo de trabajo efectivo, ner: MISC
+token: Los trabajadores no podrán, ner: MISC
+token: Tampoco, ner: MISC
+token: La retribución del trabajador, ner: MISC
+token: En ningún caso, ner: MISC
+token: La acción protectora de la Seguridad Social, ner: MISC
+token: Asimismo, ner: MISC
+token: Fondo de Garantía Salarial, ner: MISC
+token: En el supuesto de que el trabajador continuase en la empresa al término del contrato, ner: MISC
+token: En la negociación colectiva, ner: MISC
+token: Asimismo, ner: MISC
+token: Artículo, ner: PER
+token: Contrato, ner: ORG
+token: El contrato de trabajo, ner: MISC
+token: A efectos de lo dispuesto en el párrafo anterior, ner: MISC
+token: », ner: MISC
+token: Si en la empresa no hubiera ningún, ner: MISC
+token: El contrato a tiempo parcial podrá, ner: MISC
+token: Sin perjuicio de lo señalado, ner: MISC
+token: El contrato a tiempo parcial, ner: MISC
+token: El contrato, ner: MISC
+token: De, ner: MISC
+token: Cuando el contrato, ner: MISC
+token: Los trabajadores a tiempo parcial, ner: MISC
+token: La realización de horas complementarias, ner: MISC
+token: En todo caso, ner: MISC
+token: A estos efectos, ner: MISC
+token: El empresario deberá conservar, ner: MISC
+token: En caso de incumplimiento de las referidas obligaciones de registro, ner: MISC
+token: Las personas trabajadoras a tiempo parcial, ner: MISC
+token: Cuando corresponda en atención a su naturaleza, ner: MISC
+token: La conversión de un trabajo, ner: MISC
+token: El trabajador no podrá ser despedido, ner: MISC
+token: A fin de posibilitar, ner: MISC
+token: Con carácter general, ner: MISC
+token: La denegación de la solicitud, ner: MISC
+token: Los convenios colectivos establecerán medidas, ner: MISC
+token: Se consideran horas complementarias, ner: MISC
+token: El empresario solo podrá exigir, ner: MISC
+token: El pacto sobre horas complementarias podrá, ner: MISC
+token: El pacto, ner: MISC
+token: Solo se podrá, ner: MISC
+token: El pacto de horas complementarias, ner: MISC
+token: El número de horas, ner: MISC
+token: Los convenios colectivos podrán, ner: MISC
+token: El trabajador deberá, ner: MISC
+token: El pacto de horas complementarias podrá, ner: MISC
+token: Necesidades formativas, ner: MISC
+token: Incompatibilidad, ner: MISC
+token: El pacto de horas complementarias, ner: MISC
+token: En caso de incumplimiento de tales reglas, ner: MISC
+token: Sin perjuicio del pacto de horas complementarias, ner: MISC
+token: La negativa del trabajador a la realización de estas horas, ner: MISC
+token: Estas horas complementarias, ner: MISC
+token: La realización de horas complementarias, ner: MISC
+token: Las horas complementarias, ner: MISC
+token: Seguridad Social, ner: ORG
+token: A tal efecto, ner: MISC
+token: Seguridad Social, ner: ORG
+token: Ley General de la Seguridad Social, ner: ORG
+token: También, ner: LOC
+token: Ley General de la Seguridad Social, ner: MISC
+token: La reducción de jornada, ner: MISC
+token: Ley General de la Seguridad Social, ner: MISC
+token: La ejecución de este, ner: MISC
+token: Seguridad Social, ner: ORG
+token: La relación laboral, ner: MISC
+token: El contrato de relevo, ner: MISC
+token: Se celebrará con un trabajador, ner: MISC
+token: Salvo lo establecido en los dos párrafos siguientes, ner: MISC
+token: Ley General de la Seguridad Social, ner: MISC
+token: Si, al cumplir, ner: MISC
+token: Ley General de la Seguridad Social, ner: MISC
+token: Ley General de la Seguridad Social, ner: ORG
+token: En este segundo supuesto, ner: MISC
+token: Salvo en el supuesto previsto en el párrafo segundo del apartado 6, ner: MISC
+token: En todo caso, ner: MISC
+token: El horario de trabajo, ner: MISC
+token: El puesto de trabajo, ner: MISC
+token: En todo caso, ner: MISC
+token: Ley General de la Seguridad Social, ner: MISC
+token: En la negociación colectiva, ner: MISC
+token: Artículo 13, ner: PER
+token: Trabajo a distancia, ner: MISC
+token: Tendrá, ner: LOC
+token: El acuerdo por el que, ner: MISC
+token: Tanto si el acuerdo, ner: MISC
+token: Los trabajadores a distancia, ner: MISC
+token: En especial, ner: MISC
+token: El empresario deberá establecer, ner: MISC
+token: Asimismo, ner: MISC
+token: Los trabajadores a distancia, ner: MISC
+token: la Ley, ner: LOC
+token: Prevención de Riesgos Laborales, ner: LOC
+token: Los trabajadores a distancia, ner: MISC
+token: A estos efectos dichos trabajadores, ner: MISC
+token: CAPÍTULO II
+Contenido, ner: MISC
+token: Duración, ner: MISC
+token: Periodo, ner: PER
+token: Podrá, ner: PER
+token: El empresario, ner: MISC
+token: Será nulo el pacto, ner: MISC
+token: Durante el periodo de prueba, ner: MISC
+token: La resolución a instancia empresarial será nula, ner: MISC
+token: Transcurrido el periodo de prueba, ner: MISC
+token: Las situaciones de incapacidad temporal, ner: MISC
+token: Artículo 15, ner: MISC
+token: Duración, ner: PER
+token: El contrato de trabajo podrá concertarse, ner: MISC
+token: Podrán, ner: LOC
+token: Cuando se contrate, ner: MISC
+token: Estos contratos, ner: MISC
+token: Transcurridos, ner: LOC
+token: Los convenios, ner: MISC
+token: Cuando las circunstancias del mercado, ner: MISC
+token: En tales casos, ner: MISC
+token: Por convenio colectivo de ámbito sectorial estatal o, ner: MISC
+token: En tal supuesto, ner: MISC
+token: En caso de que el contrato, ner: MISC
+token: Por convenio colectivo, ner: MISC
+token: Cuando se trate, ner: MISC
+token: Adquirirán, ner: PER
+token: Seguridad Social, ner: ORG
+token: Los empresarios habrán de notificar, ner: MISC
+token: Sin perjuicio de lo dispuesto, ner: MISC
+token: Lo establecido en el párrafo anterior también será de aplicación, ner: MISC
+token: Atendiendo a las peculiaridades, ner: MISC
+token: Lo dispuesto en este apartado, ner: MISC
+token: Los trabajadores con contratos temporales, ner: MISC
+token: Cuando corresponda en atención, ner: MISC
+token: Cuando un determinado derecho, ner: MISC
+token: El empresario deberá informar, ner: MISC
+token: Esta información podrá, ner: MISC
+token: Los convenios, ner: MISC
+token: Los convenios colectivos establecerán medidas, ner: MISC
+token: En todo caso, ner: MISC
+token: Servicio Público de Empleo, ner: ORG
+token: El Servicio Público de Empleo, ner: ORG
+token: Artículo 16, ner: MISC
+token: Contrato, ner: ORG
+token: El contrato, ner: MISC
+token: A los supuestos de trabajos discontinuos, ner: MISC
+token: Los trabajadores fijos, ner: MISC
+token: Este contrato, ner: MISC
+token: Los convenios colectivos de ámbito sectorial, ner: MISC
+token: Sección 2.ª Derechos, ner: MISC
+token: Estado español, ner: LOC
+token: Serán, ner: MISC
+token: Podrán, ner: LOC
+token: No obstante lo dispuesto en el apartado anterior, ner: MISC
+token: Gobierno podrá, ner: MISC
+token: Gobierno podrá, ner: LOC
+token: La regulación de las mismas, ner: MISC
+token: Las medidas a las que, ner: MISC
+token: Sin perjuicio de lo dispuesto, ner: MISC
+token: A tal efecto podrá, ner: MISC
+token: Asimismo, la negociación colectiva podrá establecer este tipo, ner: MISC
+token: El establecimiento de planes de igualdad, ner: MISC
+token: Ley Orgánica, ner: MISC
+token: Artículo, ner: PER
+token: Inviolabilidad, ner: ORG
+token: En su realización, ner: MISC
+token: Artículo 19, ner: PER
+token: Seguridad, ner: LOC
+token: El trabajador, ner: MISC
+token: El trabajador está, ner: MISC
+token: En la inspección, ner: MISC
+token: El empresario está obligado a garantizar, ner: MISC
+token: El trabajador está obligado a seguir la formación, ner: MISC
+token: Todo ello en los términos señalados en la Ley, ner: MISC
+token: Prevención de Riesgos Laborales, ner: LOC
+token: Los delegados de prevención, ner: MISC
+token: También podrá ordenar, ner: MISC
+token: Si el riesgo de accidente fuera inminente, ner: MISC
+token: Tal acuerdo podrá ser adoptado, ner: MISC
+token: El acuerdo será comunicado de inmediato, ner: MISC
+token: Artículo 20, ner: MISC
+token: Dirección, ner: LOC
+token: El trabajador estará obligado a realizar, ner: MISC
+token: En el cumplimiento de la obligación de trabajar asumida en el contrato, ner: MISC
+token: En cualquier caso, ner: MISC
+token: El empresario podrá adoptar, ner: MISC
+token: El empresario podrá verificar el estado de salud, ner: MISC
+token: La negativa del trabajador, ner: MISC
+token: Artículo 20, ner: MISC
+token: Derechos, ner: MISC
+token: Artículo, ner: PER
+token: Pacto de no concurrencia, ner: MISC
+token: No podrá efectuarse la prestación, ner: MISC
+token: El pacto de no competencia, ner: MISC
+token: Que el empresario, ner: MISC
+token: Cuando el trabajador haya recibido una especialización, ner: MISC
+token: El acuerdo no será de duración, ner: MISC
+token: Si el trabajador, ner: MISC
+token: Sección, ner: PER
+token: Clasificación, ner: LOC
+token: Sistema, ner: MISC
+token: Mediante la negociación colectiva, ner: MISC
+token: Se entenderá por grupo profesional, ner: MISC
+token: La definición de los grupos profesionales, ner: MISC
+token: Estos criterios y sistemas, ner: MISC
+token: Por acuerdo entre el trabajador, ner: MISC
+token: Cuando se acuerde la polivalencia funcional, ner: MISC
+token: Artículo 23., ner: PER
+token: El trabajador tendrá derecho, ner: MISC
+token: Al disfrute de los permisos necesarios para concurrir a exámenes, ner: MISC
+token: A la adaptación de la jornada, ner: MISC
+token: A la concesión de los permisos oportunos de formación, ner: MISC
+token: A la formación necesaria, ner: MISC
+token: La misma correrá a cargo de la empresa, ner: MISC
+token: El tiempo destinado a la formación, ner: MISC
+token: En la negociación colectiva se pactarán los términos del ejercicio, ner: MISC
+token: Los trabajadores, ner: MISC
+token: El derecho se, ner: MISC
+token: Sin perjuicio de lo anterior, ner: MISC
+token: En defecto de lo previsto, ner: MISC
+token: Artículo 24, ner: PER
+token: Ascensos, ner: PER
+token: Los ascensos, ner: MISC
+token: En todo caso los ascensos, ner: MISC
+token: Los ascensos, ner: MISC
+token: Artículo 25, ner: MISC
+token: Promoción económica, ner: MISC
+token: El trabajador, ner: MISC
+token: Lo dispuesto en el apartado anterior, ner: MISC
+token: Sección 4.ª Salarios, ner: MISC
+token: Del salario, ner: MISC
+token: Se considerará salario la totalidad, ner: MISC
+token: En ningún caso, ner: MISC
+token: No tendrán la consideración de salario las cantidades percibidas, ner: MISC
+token: Seguridad Social, ner: ORG
+token: Mediante la negociación colectiva, ner: MISC
+token: Igualmente, ner: MISC
+token: Todas, ner: LOC
+token: Seguridad Social, ner: ORG
+token: Operará, ner: LOC
+token: Artículo, ner: PER
+token: Salario, ner: LOC
+token: El Gobierno fijará, ner: MISC
+token: El índice de precios de consumo, ner: MISC
+token: La productividad media nacional alcanzada, ner: MISC
+token: El incremento de la participación, ner: MISC
+token: La coyuntura económica general.
+
+, ner: MISC
+token: La revisión del salario mínimo interprofesional, ner: MISC
+token: El salario mínimo interprofesional, ner: MISC
+token: Artículo 28, ner: MISC
+token: Igualdad, ner: LOC
+token: El empresario está obligado a pagar, ner: MISC
+token: Un trabajo tendrá igual valor, ner: MISC
+token: El empresario está obligado a llevar un, ner: MISC
+token: Las personas trabajadoras, ner: MISC
+token: Cuando en una empresa, ner: MISC
+token: Registro, ner: MISC
+token: Artículo, ner: PER
+token: Liquidación, ner: PER
+token: La liquidación, ner: MISC
+token: El periodo de tiempo, ner: MISC
+token: El trabajador, ner: MISC
+token: La documentación del salario, ner: MISC
+token: El recibo de salarios, ner: MISC
+token: Ministerio de Empleo, ner: ORG
+token: Seguridad Social, ner: ORG
+token: La liquidación de los salarios, ner: MISC
+token: El derecho al salario a comisión nacerá, ner: MISC
+token: El trabajador y sus representantes legales pueden pedir, ner: MISC
+token: El interés por mora, ner: MISC
+token: El salario, ner: MISC
+token: Seguridad Social, ner: ORG
+token: Artículo 30., ner: ORG
+token: Imposibilidad, ner: ORG
+token: Artículo 31, ner: MISC
+token: Gratificaciones, ner: PER
+token: El trabajador, ner: MISC
+token: Navidad, ner: MISC
+token: Igualmente, ner: MISC
+token: No obstante, podrá, ner: MISC
+token: Artículo 32, ner: MISC
+token: Garantías del salario, ner: MISC
+token: Los créditos salariales, ner: MISC
+token: Los créditos salariales gozarán, ner: MISC
+token: Los créditos por salarios, ner: MISC
+token: La misma consideración, ner: MISC
+token: El plazo para ejercitar, ner: MISC
+token: Las preferencias reconocidas, ner: MISC
+token: En caso de concurso, ner: MISC
+token: la Ley, ner: LOC
+token: Concursal, ner: LOC
+token: Artículo, ner: PER
+token: El Fondo de Garantía Salarial, ner: MISC
+token: El Fondo de Garantía Salarial, ner: MISC
+token: Ministerio de Empleo, ner: ORG
+token: Seguridad Social, ner: ORG
+token: A los anteriores efectos, ner: MISC
+token: Fondo abonar, ner: MISC
+token: El Fondo de Garantía Salarial, ner: MISC
+token: la Ley, ner: LOC
+token: Concursal, ner: LOC
+token: En todos los casos, ner: MISC
+token: El importe de la indemnización, ner: MISC
+token: Fondo de Garantía Salarial, ner: MISC
+token: En caso de procedimientos concursales, ner: MISC
+token: Fondo de Garantía Salarial, ner: MISC
+token: El Fondo, ner: ORG
+token: A los efectos del abono, ner: MISC
+token: Fondo de las cantidades, ner: MISC
+token: Sin perjuicio de los supuestos, ner: MISC
+token: Fondo, ner: MISC
+token: Fondo, ner: ORG
+token: Segunda, ner: MISC
+token: Las indemnizaciones a abonar a cargo del Fondo, ner: MISC
+token: Tercera, ner: MISC
+token: Fondo, ner: ORG
+token: Fondo, ner: ORG
+token: El Fondo, ner: ORG
+token: Para el reembolso de las cantidades satisfechas, ner: MISC
+token: Fondo de Garantía Salarial, ner: MISC
+token: Fondo, ner: ORG
+token: El Fondo de Garantía Salarial, ner: MISC
+token: El tipo de cotización, ner: MISC
+token: Gobierno sobre los salarios, ner: MISC
+token: Seguridad Social, ner: ORG
+token: la Ley, ner: LOC
+token: Reguladora de la Jurisdicción Social, ner: LOC
+token: La resolución en que conste, ner: MISC
+token: Fondo de Garantía Salarial, ner: MISC
+token: El derecho a solicitar del, ner: MISC
+token: Fondo de Garantía Salarial, ner: MISC
+token: Tal, ner: MISC
+token: El Fondo de Garantía Salarial, ner: MISC
+token: El Fondo de Garantía Salarial, ner: MISC
+token: España, ner: LOC
+token: Estados miembros de la Unión Europea, ner: LOC
+token: España, ner: LOC
+token: Estado miembro distinto de España, ner: MISC
+token: Cuando, de acuerdo, ner: MISC
+token: Fondo de Garantía Salarial, ner: MISC
+token: Estado miembro, ner: LOC
+token: España, ner: LOC
+token: Estado miembro de la Unión Europea, ner: LOC
+token: España, ner: LOC
+token: Fondo de Garantía Salarial, ner: MISC
+token: Estado, ner: ORG
+token: Fondo de Garantía Salarial, ner: PER
+token: Fondo de Garantía Salarial, ner: MISC
+token: Sección, ner: PER
+token: Jornada, ner: MISC
+token: La duración de la jornada, ner: MISC
+token: La duración máxima de la jornada, ner: MISC
+token: Mediante convenio colectivo, ner: MISC
+token: En defecto de pacto, ner: MISC
+token: Dicha distribución deberá respetar, ner: MISC
+token: La compensación de las diferencias, ner: MISC
+token: En defecto de pacto, ner: MISC
+token: Entre el final de una jornada, ner: MISC
+token: El número de horas, ner: MISC
+token: Los trabajadores menores de dieciocho, ner: MISC
+token: Este periodo de descanso, ner: MISC
+token: En el caso de los trabajadores menores de dieciocho años, ner: MISC
+token: El tiempo de trabajo, ner: MISC
+token: Anualmente, ner: LOC
+token: El Gobierno, ner: LOC
+token: Ministerio de Trabajo, ner: LOC
+token: Migraciones, ner: LOC
+token: Seguridad Social, ner: ORG
+token: Las personas trabajadoras, ner: MISC
+token: Dichas, ner: MISC
+token: En el caso de que tengan hijos o hijas, ner: MISC
+token: En la negociación colectiva se pactarán, ner: MISC
+token: En su ausencia, ner: MISC
+token: Finalizado, ner: MISC
+token: En este último caso, ner: MISC
+token: La persona trabajadora, ner: MISC
+token: Lo dispuesto en los párrafos anteriores se entiende, ner: MISC
+token: Las discrepancias surgidas entre la dirección, ner: MISC
+token: la Ley, ner: LOC
+token: Reguladora de la Jurisdicción Social, ner: LOC
+token: La empresa garantizará el registro diario de jornada, ner: MISC
+token: Mediante negociación colectiva, ner: MISC
+token: La empresa conservará, ner: MISC
+token: Inspección de Trabajo y Seguridad Social, ner: MISC
+token: Artículo 35, ner: PER
+token: Horas extraordinarias, ner: MISC
+token: Tendrán, ner: LOC
+token: Mediante convenio colectivo, ner: MISC
+token: En ausencia de pacto, ner: MISC
+token: El número de horas extraordinarias no podrá, ner: MISC
+token: Para los trabajadores, ner: MISC
+token: A los efectos de lo dispuesto en el párrafo anterior, ner: MISC
+token: El Gobierno podrá suprimir, ner: MISC
+token: No se tendrá en cuenta, ner: MISC
+token: La prestación de trabajo, ner: MISC
+token: A efectos del cómputo de horas extraordinarias, ner: MISC
+token: Artículo 36, ner: MISC
+token: Trabajo, ner: MISC
+token: A los efectos de lo dispuesto en esta ley, ner: MISC
+token: El empresario, ner: MISC
+token: La jornada de trabajo de los trabajadores nocturnos no podrá exceder de ocho horas, ner: MISC
+token: Dichos trabajadores no podrán, ner: MISC
+token: Para la aplicación de lo dispuesto, ner: MISC
+token: Resultará de aplicación, ner: MISC
+token: Gobierno podrá establecer limitaciones, ner: MISC
+token: El trabajo nocturno tendrá una retribución, ner: MISC
+token: Se considera trabajo, ner: MISC
+token: En las empresas, ner: MISC
+token: Las empresas, ner: MISC
+token: Los trabajadores nocturnos, ner: MISC
+token: El empresario deberá garantizar, ner: MISC
+token: la Ley, ner: LOC
+token: Prevención de Riesgos Laborales, ner: LOC
+token: Los trabajadores nocturnos a los que, ner: MISC
+token: El cambio de puesto de trabajo, ner: MISC
+token: El empresario, ner: MISC
+token: Dichas exigencias, ner: MISC
+token: Artículo 37, ner: PER
+token: Descanso, ner: PER
+token: Los trabajadores, ner: MISC
+token: La duración del descanso semanal, ner: MISC
+token: Resultará de aplicación, ner: MISC
+token: Las fiestas laborales, ner: MISC
+token: En cualquier caso, ner: MISC
+token: Natividad del Señor, ner: MISC
+token: Año Nuevo, ner: PER
+token: Fiesta del Trabajo, ner: MISC
+token: Fiesta Nacional de España, ner: MISC
+token: Respetando, ner: ORG
+token: Gobierno podrá, ner: LOC
+token: Las comunidades autónomas, ner: MISC
+token: Asimismo, ner: MISC
+token: El trabajador, ner: MISC
+token: Quince, ner: MISC
+token: Dos días por el fallecimiento, ner: MISC
+token: Cuando con tal motivo, ner: MISC
+token: Un día por traslado del domicilio habitual, ner: MISC
+token: Por el tiempo indispensable, ner: MISC
+token: Cuando conste en una norma legal, ner: MISC
+token: Cuando el cumplimiento del deber, ner: MISC
+token: Para realizar funciones sindicales, ner: MISC
+token: Por el tiempo indispensable, ner: MISC
+token: En los supuestos de nacimiento, ner: MISC
+token: La duración del permiso, ner: MISC
+token: Quien ejerza, ner: MISC
+token: La reducción de jornada, ner: MISC
+token: No obstante, ner: MISC
+token: Cuando ambos progenitores, ner: MISC
+token: Las personas trabajadoras, ner: MISC
+token: Asimismo, ner: MISC
+token: Para el disfrute de este permiso, ner: MISC
+token: Quien por razones de guarda, ner: MISC
+token: Tendrá, ner: LOC
+token: El progenitor, ner: MISC
+token: Por convenio colectivo, ner: MISC
+token: Las reducciones de jornada contempladas, ner: MISC
+token: No obstante, ner: MISC
+token: La concreción horaria, ner: MISC
+token: No obstante, ner: MISC
+token: La persona trabajadora, ner: MISC
+token: Las discrepancias surgidas, ner: MISC
+token: la Ley, ner: LOC
+token: Reguladora de la Jurisdicción Social, ner: LOC
+token: Artículo, ner: PER
+token: Vacaciones anuales, ner: MISC
+token: El periodo de vacaciones anuales retribuidas, ner: MISC
+token: En ningún caso la duración será, ner: MISC
+token: El periodo, ner: MISC
+token: En caso de desacuerdo, ner: MISC
+token: El procedimiento será sumario, ner: MISC
+token: El calendario de vacaciones, ner: MISC
+token: El trabajador conocerá, ner: MISC
+token: Cuando el periodo de vacaciones fijado en el calendario de vacaciones de la empresa, ner: MISC
+token: CAPÍTULO III
+Modificación, ner: MISC
+token: Movilidad, ner: MISC
+token: Movilidad, ner: MISC
+token: La movilidad funcional, ner: MISC
+token: La movilidad funcional, ner: MISC
+token: El empresario deberá, ner: MISC
+token: En el caso de encomienda de funciones superiores a las del grupo profesional, ner: MISC
+token: Estas acciones serán acumulables., ner: MISC
+token: Contra la negativa de la empresa, ner: MISC
+token: Mediante la negociación colectiva, ner: MISC
+token: El trabajador tendrá derecho a la retribución, ner: MISC
+token: No cabrá invocar, ner: MISC
+token: El cambio de funciones distintas de las pactadas, ner: MISC
+token: Artículo 40, ner: MISC
+token: Movilidad, ner: PER
+token: El traslado de trabajadores, ner: MISC
+token: Se consideraran tales las que estén relacionadas con la competitividad, ner: MISC
+token: La decisión de traslado deberá ser notificada por el empresario, ner: MISC
+token: Notificada la decisión de traslado, ner: MISC
+token: La compensación a que se refiere el primer supuesto, ner: MISC
+token: Sin perjuicio de la ejecutividad, ner: MISC
+token: La sentencia declarará, ner: MISC
+token: Cuando, ner: MISC
+token: El traslado a que se refiere, ner: MISC
+token: Diez trabajadores, ner: MISC
+token: El diez por ciento del número, ner: MISC
+token: Treinta trabajadores, ner: MISC
+token: La consulta se llevará a cabo, ner: MISC
+token: La comisión negociadora estará, ner: MISC
+token: La intervención, ner: MISC
+token: La comisión representativa de los trabajadores, ner: MISC
+token: A estos efectos, ner: MISC
+token: El plazo máximo para la constitución, ner: MISC
+token: Transcurrido el plazo máximo para la constitución de la comisión representativa, ner: MISC
+token: La falta de constitución de la comisión representativa, ner: MISC
+token: La apertura del periodo de consultas, ner: MISC
+token: Durante el periodo de consultas, ner: MISC
+token: Dicho, ner: MISC
+token: Contra las decisiones, ner: MISC
+token: La interposición del conflicto, ner: MISC
+token: El acuerdo con los representantes de los trabajadores, ner: MISC
+token: El empresario y la representación, ner: MISC
+token: Si por traslado uno de los cónyuges cambia de residencia, ner: MISC
+token: Los trabajadores que tengan la consideración de víctimas de violencia de género, ner: MISC
+token: En tales supuestos, ner: MISC
+token: El traslado, ner: MISC
+token: Terminado este periodo, ner: MISC
+token: En este último caso, ner: MISC
+token: Por razones económicas, ner: MISC
+token: El trabajador deberá ser informado del desplazamiento, ner: MISC
+token: Contra la orden de desplazamiento, ner: MISC
+token: Los desplazamientos cuya, ner: MISC
+token: Los representantes legales de los trabajadores, ner: MISC
+token: Mediante convenio colectivo, ner: MISC
+token: Artículo 41, ner: PER
+token: Modificaciones, ner: ORG
+token: La dirección de la empresa podrá, ner: MISC
+token: Se considerarán tales las que estén relacionadas con la competitividad, ner: MISC
+token: Tendrán, ner: LOC
+token: Jornada de trabajo, ner: MISC
+token: Horario, ner: PER
+token: Régimen, ner: PER
+token: Sistema, ner: MISC
+token: Sistema, ner: MISC
+token: Funciones, ner: MISC
+token: Las modificaciones sustanciales de las condiciones, ner: MISC
+token: Se considera de carácter colectivo la modificación, ner: MISC
+token: Diez trabajadores, ner: MISC
+token: El diez por ciento del número, ner: MISC
+token: Treinta trabajadores, ner: MISC
+token: La decisión de modificación sustancial de condiciones, ner: MISC
+token: En los supuestos previstos en las letras a, ner: MISC
+token: Sin perjuicio de la ejecutividad, ner: MISC
+token: La sentencia declarará la modificación justificada, ner: MISC
+token: Cuando con objeto de eludir, ner: MISC
+token: Sin perjuicio de los procedimientos, ner: MISC
+token: La consulta se llevará a cabo, ner: MISC
+token: La comisión negociadora estará, ner: MISC
+token: La intervención, ner: MISC
+token: En el supuesto de que en el centro de trabajo, ner: MISC
+token: En el supuesto de que la negociación, ner: MISC
+token: Si el procedimiento afecta a más de un centro de trabajo, ner: MISC
+token: En otro caso, ner: MISC
+token: En el supuesto de que uno, ner: MISC
+token: Si ninguno de los centros, ner: MISC
+token: En todos los supuestos contemplados en este apartado, ner: MISC
+token: La comisión representativa, ner: MISC
+token: A estos efectos, ner: MISC
+token: El plazo máximo para la constitución, ner: MISC
+token: Transcurrido el plazo máximo para la constitución de la comisión representativa, ner: MISC
+token: La falta de constitución de la comisión representativa, ner: MISC
+token: Durante el periodo de consultas, ner: MISC
+token: Dicho, ner: MISC
+token: El empresario y la representación de los trabajadores, ner: MISC
+token: Cuando el periodo de consultas finalice, ner: MISC
+token: Ello sin perjuicio del derecho de los trabajadores, ner: MISC
+token: La decisión sobre la modificación colectiva de las condiciones, ner: MISC
+token: Contra las decisiones, ner: MISC
+token: La interposición del conflicto, ner: MISC
+token: La modificación de las condiciones, ner: MISC
+token: En materia de traslados, ner: MISC
+token: Sección, ner: PER
+token: Garantías, ner: MISC
+token: Subcontratación, ner: PER
+token: Los empresarios, ner: MISC
+token: Seguridad Social, ner: ORG
+token: Al efecto, ner: MISC
+token: Tesorería General de la Seguridad Social, ner: ORG
+token: Transcurrido, ner: LOC
+token: El empresario principal, ner: MISC
+token: Seguridad Social, ner: ORG
+token: Seguridad Social, ner: ORG
+token: De las obligaciones de naturaleza salarial, ner: MISC
+token: No habrá responsabilidad, ner: MISC
+token: Los trabajadores del contratista, ner: MISC
+token: Dicha, ner: MISC
+token: Asimismo, el contratista, ner: MISC
+token: Tesorería General de la Seguridad Social, ner: ORG
+token: Sin perjuicio de la información, ner: MISC
+token: Nombre, ner: MISC
+token: Objeto, ner: LOC
+token: Lugar, ner: PER
+token: En su caso, ner: MISC
+token: Medidas, ner: MISC
+token: Cuando las empresas principal, ner: MISC
+token: Dicho, ner: MISC
+token: La empresa contratista, ner: MISC
+token: Los trabajadores de las empresas contratistas y subcontratistas, ner: MISC
+token: Lo dispuesto en el párrafo anterior, ner: MISC
+token: Los representantes legales de los trabajadores, ner: MISC
+token: La capacidad de representación, ner: MISC
+token: Artículo 43, ner: MISC
+token: Cesión, ner: LOC
+token: La contratación de trabajadores, ner: MISC
+token: En todo caso, ner: MISC
+token: Los empresarios, ner: MISC
+token: Seguridad Social, ner: ORG
+token: Los trabajadores sometidos, ner: MISC
+token: Los derechos y obligaciones del trabajador, ner: MISC
+token: Artículo 44, ner: MISC
+token: La sucesión de empresa, ner: MISC
+token: El cambio de titularidad de una empresa, ner: MISC
+token: Seguridad Social, ner: ORG
+token: Sin perjuicio de lo establecido en la legislación de Seguridad Social, ner: MISC
+token: El cedente y el cesionario también, ner: MISC
+token: Salvo pacto, ner: MISC
+token: Esta aplicación, ner: MISC
+token: Cuando la empresa, ner: MISC
+token: El cedente y el cesionario, ner: MISC
+token: Fecha prevista de la transmisión, ner: MISC
+token: Motivos de la transmisión, ner: MISC
+token: Consecuencias, ner: PER
+token: Medidas, ner: LOC
+token: El cedente vendrá, ner: MISC
+token: El cesionario estará obligado a, ner: MISC
+token: El cedente, ner: MISC
+token: Dicho periodo de consultas, ner: MISC
+token: Durante el periodo de consultas, ner: MISC
+token: Cuando las medidas, ner: MISC
+token: Las obligaciones de información, ner: MISC
+token: Cualquier justificación de aquellos, ner: MISC
+token: Sección, ner: PER
+token: Causas, ner: PER
+token: El contrato de trabajo podrá, ner: MISC
+token: Mutuo, ner: PER
+token: Las consignadas válidamente en el contrato, ner: MISC
+token: Incapacidad temporal de los trabajadores, ner: MISC
+token: Nacimiento, ner: MISC
+token: Código Civil, ner: MISC
+token: Comunidades Autónomas, ner: MISC
+token: Riesgo, ner: LOC
+token: Ejercicio, ner: PER
+token: Privación, ner: PER
+token: Suspensión de empleo, ner: MISC
+token: Fuerza mayor temporal, ner: MISC
+token: Causas económicas, ner: MISC
+token: Excedencia, ner: LOC
+token: Ejercicio, ner: PER
+token: Cierre, ner: LOC
+token: Decisión, ner: LOC
+token: La suspensión exonera de las obligaciones recíprocas, ner: MISC
+token: Artículo 46, ner: PER
+token: Excedencias, ner: LOC
+token: La excedencia podrá ser voluntaria, ner: MISC
+token: La forzosa, ner: MISC
+token: El reingreso deberá, ner: MISC
+token: El trabajador, ner: MISC
+token: Este derecho solo podrá, ner: MISC
+token: Los trabajadores, ner: MISC
+token: También, ner: LOC
+token: La excedencia contemplada en, ner: MISC
+token: No obstante, ner: MISC
+token: Cuando un nuevo sujeto, ner: MISC
+token: El periodo en que, ner: MISC
+token: Durante el primer año tendrá derecho a la reserva, ner: MISC
+token: Transcurrido, ner: PER
+token: No obstante, ner: MISC
+token: Cuando la persona ejerza, ner: MISC
+token: Asimismo, ner: ORG
+token: El trabajador en excedencia voluntaria conserva, ner: MISC
+token: La situación de excedencia podrá extenderse, ner: MISC
+token: Artículo 47, ner: MISC
+token: Suspensión, ner: PER
+token: El empresario podrá suspender, ner: MISC
+token: Se entiende, ner: MISC
+token: En todo caso, ner: MISC
+token: Se entiende, ner: MISC
+token: El procedimiento, ner: MISC
+token: La consulta se llevará a cabo, ner: MISC
+token: La comisión negociadora estará, ner: MISC
+token: La intervención, ner: MISC
+token: La comisión representativa de los trabajadores, ner: MISC
+token: A estos efectos, ner: MISC
+token: El plazo máximo para la constitución, ner: MISC
+token: Transcurrido el plazo máximo para la constitución de la comisión representativa, ner: MISC
+token: La falta de constitución de la comisión representativa, ner: MISC
+token: La autoridad laboral, ner: MISC
+token: Inspección de Trabajo y Seguridad Social, ner: MISC
+token: El informe deberá ser evacuado, ner: MISC
+token: Cuando el periodo de consultas finalice, ner: MISC
+token: Durante el periodo de consultas, ner: MISC
+token: Dicho, ner: MISC
+token: El empresario y la representación de los trabajadores, ner: MISC
+token: La autoridad laboral, ner: MISC
+token: Si en el plazo de quince días, ner: MISC
+token: La decisión empresarial podrá ser impugnada, ner: MISC
+token: Contra las decisiones, ner: MISC
+token: En este último caso, ner: MISC
+token: Cuando la decisión empresarial afecte, ner: MISC
+token: La interposición del conflicto colectivo, ner: MISC
+token: La jornada de trabajo podrá reducirse, ner: MISC
+token: A estos efectos, ner: MISC
+token: Durante el periodo de reducción de jornada, ner: MISC
+token: Igualmente, ner: MISC
+token: Artículo, ner: PER
+token: Suspensión, ner: PER
+token: El nacimiento, ner: MISC
+token: El nacimiento suspenderá el contrato, ner: MISC
+token: Código Civil, ner: MISC
+token: La suspensión del contrato, ner: MISC
+token: No obstante, ner: MISC
+token: El disfrute de cada período semanal, ner: MISC
+token: Este derecho, ner: MISC
+token: La suspensión del contrato de trabajo, ner: MISC
+token: La persona trabajadora, ner: MISC
+token: Cuando los dos progenitores, ner: MISC
+token: Seis semanas, ner: MISC
+token: Las diez semanas, ner: MISC
+token: En ningún caso un mismo menor, ner: MISC
+token: El disfrute de cada período semanal, ner: MISC
+token: La suspensión de estas diez semanas, ner: MISC
+token: En los supuestos de adopción internacional, ner: MISC
+token: Este derecho, ner: MISC
+token: La persona trabajadora, ner: MISC
+token: Cuando los dos adoptantes, ner: MISC
+token: Igual ampliación procederá, ner: MISC
+token: la Ley, ner: LOC
+token: Prevención de Riesgos Laborales, ner: LOC
+token: 45.1.n, ner: MISC
+token: En este caso, ner: MISC
+token: Los trabajadores, ner: MISC
+token: Sección 4.ª Extinción, ner: MISC
+token: Extinción, ner: PER
+token: El contrato de trabajo, ner: MISC
+token: Por mutuo acuerdo de las partes, ner: MISC
+token: Por las causas consignadas válidamente en el contrato, ner: MISC
+token: Por expiración del tiempo convenido, ner: MISC
+token: A la finalización del contrato, ner: MISC
+token: Los contratos de duración determinada, ner: MISC
+token: Expirada, ner: PER
+token: Por dimisión del trabajador, ner: MISC
+token: Por muerte, gran invalidez, ner: MISC
+token: Por jubilación del trabajador, ner: MISC
+token: Por muerte, jubilación, ner: MISC
+token: Seguridad Social, ner: ORG
+token: Por fuerza mayor, ner: MISC
+token: Por despido colectivo, ner: MISC
+token: Por voluntad del trabajador, ner: MISC
+token: Por despido del trabajador, ner: MISC
+token: Por causas objetivas legalmente procedentes.
+
+, ner: MISC
+token: Por decisión de la trabajadora, ner: MISC
+token: El empresario, ner: MISC
+token: El trabajador podrá solicitar la presencia, ner: MISC
+token: Si el empresario, ner: MISC
+token: Artículo 50, ner: PER
+token: Extinción, ner: PER
+token: Serán, ner: PER
+token: Las modificaciones sustanciales en las condiciones, ner: MISC
+token: La falta de pago, ner: MISC
+token: Cualquier otro incumplimiento grave de sus obligaciones, ner: MISC
+token: En tales casos, ner: MISC
+token: Artículo 51, ner: PER
+token: Despido, ner: PER
+token: A efectos de lo dispuesto en esta ley, ner: MISC
+token: Diez trabajadores, ner: MISC
+token: El diez por ciento del número, ner: MISC
+token: Treinta trabajadores, ner: MISC
+token: En todo caso, ner: MISC
+token: Se entiende, ner: MISC
+token: Se entenderá igualmente, ner: MISC
+token: Para el cómputo del número, ner: MISC
+token: 49.1.c, ner: MISC
+token: Cuando en periodos sucesivos de noventa días, ner: MISC
+token: El despido colectivo, ner: MISC
+token: La consulta con los representantes legales de los trabajadores, ner: MISC
+token: La consulta se llevará a cabo, ner: MISC
+token: La comisión negociadora estará, ner: MISC
+token: La intervención, ner: MISC
+token: La comisión representativa de los trabajadores, ner: MISC
+token: A estos efectos, ner: MISC
+token: El plazo máximo para la constitución, ner: MISC
+token: Transcurrido el plazo máximo para la constitución de la comisión representativa, ner: MISC
+token: La falta de constitución de la comisión representativa, ner: MISC
+token: La comunicación de la apertura del periodo de consultas se realizará, ner: MISC
+token: En dicho escrito, ner: MISC
+token: La especificación de las causas, ner: MISC
+token: Número, ner: LOC
+token: Número, ner: LOC
+token: Periodo, ner: PER
+token: Criterios, ner: MISC
+token: Copia, ner: MISC
+token: Representantes, ner: ORG
+token: La comunicación a los representantes legales de los trabajadores, ner: MISC
+token: Recibida la comunicación, ner: MISC
+token: Inspección de Trabajo y Seguridad Social, ner: MISC
+token: El informe deberá ser evacuado, ner: MISC
+token: Durante el periodo de consultas, ner: MISC
+token: Dicho acuerdo requerirá, ner: MISC
+token: El empresario y la representación de los trabajadores, ner: MISC
+token: La autoridad laboral velará, ner: MISC
+token: Igualmente y sin perjuicio, ner: MISC
+token: Con la misma finalidad también podrá realizar funciones de asistencia a petición de cualquiera de las partes, ner: MISC
+token: Transcurrido el periodo de consultas, ner: MISC
+token: En caso contrario, ner: MISC
+token: Si en el plazo de quince días, ner: MISC
+token: Cuando la extinción, ner: MISC
+token: Alcanzado el acuerdo, ner: MISC
+token: En todo caso, ner: MISC
+token: Los representantes legales de los trabajadores, ner: MISC
+token: Mediante convenio colectivo, ner: MISC
+token: La decisión empresarial podrá impugnarse a través de las acciones, ner: MISC
+token: La interposición de la demanda, ner: MISC
+token: La autoridad laboral podrá impugnar, ner: MISC
+token: La existencia de fuerza mayor, ner: MISC
+token: El procedimiento se iniciará mediante solicitud, ner: MISC
+token: La resolución de la autoridad laboral, ner: MISC
+token: La empresa deberá dar traslado, ner: MISC
+token: La autoridad laboral, ner: MISC
+token: Fondo de Garantía Salarial, ner: MISC
+token: Las obligaciones de información, ner: MISC
+token: Cualquier justificación del empresario, ner: MISC
+token: Cuando se trate de procedimientos, ner: MISC
+token: Ley General de la Seguridad Social, ner: MISC
+token: La empresa que lleve a cabo, ner: MISC
+token: Dicho, ner: MISC
+token: En todo caso, ner: MISC
+token: El coste de la elaboración, ner: MISC
+token: La autoridad laboral, ner: MISC
+token: Sin perjuicio de lo establecido, ner: MISC
+token: Las empresas, ner: MISC
+token: Tesoro Público, ner: LOC
+token: Artículo, ner: PER
+token: Extinción, ner: PER
+token: El contrato podrá extinguirse, ner: MISC
+token: Por ineptitud del trabajador conocida, ner: MISC
+token: La ineptitud existente, ner: MISC
+token: Por falta de adaptación, ner: MISC
+token: Previamente el empresario, ner: MISC
+token: El tiempo destinado a la formación, ner: MISC
+token: La extinción no podrá, ner: MISC
+token: Cuando concurra alguna de las causas, ner: MISC
+token: Los representantes de los trabajadores, ner: MISC
+token: Derogada, ner: MISC
+token: En el caso de contratos, ner: MISC
+token: Administraciones Públicas, ner: ORG
+token: Cuando la extinción afecte, ner: MISC
+token: Artículo 53, ner: PER
+token: Forma, ner: PER
+token: La adopción del acuerdo de extinción, ner: MISC
+token: Comunicación, ner: LOC
+token: Poner, ner: PER
+token: Cuando la decisión extintiva, ner: MISC
+token: Concesión, ner: LOC
+token: Contra la decisión extintiva, ner: MISC
+token: Cuando la decisión extintiva, ner: MISC
+token: Será también nula, ner: MISC
+token: La de las personas trabajadoras, ner: MISC
+token: La de las trabajadoras embarazadas, ner: MISC
+token: La de las personas trabajadoras después de haberse, ner: MISC
+token: Lo establecido en las letras anteriores será de aplicación, ner: MISC
+token: Para considerarse procedente deberá acreditarse suficientemente, ner: MISC
+token: En otro caso, ner: MISC
+token: No obstante, ner: MISC
+token: La calificación, ner: MISC
+token: En caso de procedencia, ner: MISC
+token: Si la extinción, ner: MISC
+token: En caso de sustitución de la readmisión, ner: MISC
+token: Artículo 54, ner: PER
+token: Despido, ner: PER
+token: El contrato de trabajo podrá extinguirse, ner: MISC
+token: Se considerarán incumplimientos contractuales:
+
+a) Las faltas repetidas e injustificadas de asistencia, ner: MISC
+token: La indisciplina, ner: MISC
+token: Las ofensas verbales, ner: MISC
+token: La transgresión de la buena fe contractual, ner: MISC
+token: La disminución continuada, ner: MISC
+token: La embriaguez habitual, ner: MISC
+token: El acoso por razón de origen racial o étnico, ner: MISC
+token: Artículo 55, ner: PER
+token: Forma, ner: PER
+token: El despido deberá ser notificado, ner: MISC
+token: Por convenio colectivo, ner: MISC
+token: Cuando el trabajador, ner: MISC
+token: Dicho, ner: MISC
+token: Al realizarlo, ner: MISC
+token: Seguridad Social, ner: ORG
+token: El despido será calificado, ner: MISC
+token: El despido, ner: MISC
+token: Será improcedente en caso contrario, ner: MISC
+token: Será nulo el despido, ner: MISC
+token: Será también, ner: MISC
+token: El de las personas trabajadoras, ner: MISC
+token: El de las trabajadoras embarazadas, ner: MISC
+token: El de las personas trabajadoras después de haberse, ner: MISC
+token: Lo establecido en las letras anteriores será de aplicación, ner: MISC
+token: El despido nulo, ner: MISC
+token: El despido procedente convalidará la extinción, ner: MISC
+token: Artículo 56, ner: MISC
+token: Despido, ner: PER
+token: Cuando el despido, ner: MISC
+token: La opción por la indemnización, ner: MISC
+token: En caso de que, ner: MISC
+token: Estos equivaldrán a una cantidad, ner: MISC
+token: De no efectuar la opción, ner: MISC
+token: Cuando la opción, ner: MISC
+token: Tanto si opta por la indemnización, ner: MISC
+token: Cuando la sentencia, ner: MISC
+token: Estado el abono de la percepción, ner: LOC
+token: Estado, ner: LOC
+token: Seguridad Social, ner: ORG
+token: Sección, ner: PER
+token: Procedimiento, ner: PER
+token: la Ley, ner: LOC
+token: Concursal, ner: LOC
+token: CAPÍTULO IV
+Faltas, ner: LOC
+token: Faltas, ner: ORG
+token: Los trabajadores, ner: MISC
+token: La valoración de las faltas, ner: MISC
+token: La sanción de las faltas graves, ner: MISC
+token: No se podrán imponer sanciones, ner: MISC
+token: CAPÍTULO V
+Plazos, ner: MISC
+token: Prescripción, ner: LOC
+token: Prescripción, ner: LOC
+token: Las acciones derivadas del contrato, ner: MISC
+token: A estos efectos, ner: MISC
+token: El día en que expire, ner: MISC
+token: El día en que termine, ner: MISC
+token: Si la acción, ner: MISC
+token: El ejercicio de la acción, ner: MISC
+token: Los días serán hábiles, ner: MISC
+token: El plazo de caducidad quedará, ner: MISC
+token: Lo previsto en el apartado anterior será de aplicación, ner: MISC
+token: El plazo, ner: MISC
+token: Sección, ner: PER
+token: Prescripción, ner: LOC
+token: Prescripción, ner: LOC
+token: Las infracciones cometidas, ner: MISC
+token: Ley sobre Infracciones y Sanciones, ner: MISC
+token: Orden Social, ner: ORG
+token: Real Decreto Legislativo, ner: MISC
+token: Respecto a los trabajadores, ner: MISC
+token: TÍTULO II
+De, ner: MISC
+token: CAPÍTULO I
+Del, ner: MISC
+token: Participación, ner: PER
+token: Sección, ner: PER
+token: Órganos, ner: LOC
+token: Delegados, ner: ORG
+token: La representación de los trabajadores, ner: MISC
+token: Igualmente podrá haber un delegado, ner: MISC
+token: Los trabajadores elegirán, ner: MISC
+token: Los delegados de personal ejercerán mancomunadamente, ner: MISC
+token: Los delegados de personal observarán, ner: MISC
+token: Artículo 63, ner: MISC
+token: Comités, ner: MISC
+token: El comité de empresa, ner: MISC
+token: Cuando unos centros, ner: MISC
+token: Solo por convenio colectivo, ner: MISC
+token: Tales, ner: PER
+token: Artículo 64, ner: MISC
+token: Derechos, ner: MISC
+token: El comité de empresa tendrá derecho, ner: MISC
+token: Se entiende por información la transmisión, ner: MISC
+token: Por consulta se entiende, ner: MISC
+token: En la definición, ner: MISC
+token: El comité de empresa tendrá derecho, ner: MISC
+token: Sobre la evolución general del sector económico, ner: MISC
+token: Sobre la situación económica de la empresa, ner: MISC
+token: Sobre las previsiones del empresario de celebración de nuevos contratos, ner: MISC
+token: De las estadísticas sobre el índice, ner: MISC
+token: También, ner: LOC
+token: El comité de empresa, ner: MISC
+token: Conocer, ner: PER
+token: Conocer, ner: PER
+token: El comité de empresa tendrá derecho, ner: MISC
+token: Asimismo, ner: MISC
+token: Igualmente, ner: PER
+token: El comité de empresa tendrá derecho, ner: MISC
+token: Las reestructuraciones de plantilla y ceses totales, ner: MISC
+token: Las reducciones de jornada, ner: MISC
+token: El traslado total, ner: MISC
+token: Los procesos de fusión, ner: MISC
+token: Los planes de formación, ner: MISC
+token: La implantación y revisión, ner: MISC
+token: La información, ner: MISC
+token: La consulta deberá realizarse, ner: MISC
+token: En todo caso, ner: MISC
+token: Los informes que deba emitir el comité, ner: MISC
+token: El comité de empresa tendrá también, ner: MISC
+token: Ejercer una labor, ner: MISC
+token: De vigilancia, ner: MISC
+token: De vigilancia del respeto y aplicación, ner: MISC
+token: Participar, ner: MISC
+token: Colaborar, ner: PER
+token: Colaborar, ner: PER
+token: Informar, ner: LOC
+token: Lo dispuesto en el presente, ner: MISC
+token: Respetando, ner: MISC
+token: Artículo 65, ner: PER
+token: Capacidad, ner: LOC
+token: Los miembros del comité, ner: MISC
+token: En todo caso, ner: MISC
+token: El deber de sigilo subsistirá, ner: MISC
+token: Excepcionalmente, la empresa, ner: MISC
+token: Esta excepción, ner: MISC
+token: La impugnación de las decisiones, ner: MISC
+token: la Ley, ner: LOC
+token: Jurisdicción Social, ner: PER
+token: Asimismo, ner: ORG
+token: Lo dispuesto en este apartado, ner: MISC
+token: Ley sobre Infracciones y Sanciones, ner: MISC
+token: Orden Social, ner: ORG
+token: Real Decreto Legislativo, ner: MISC
+token: Artículo 66, ner: PER
+token: Composición, ner: LOC
+token: El número de miembros del comité, ner: MISC
+token: De cincuenta a cien trabajadores, ner: MISC
+token: De ciento uno a doscientos, ner: MISC
+token: De doscientos cincuenta, ner: MISC
+token: De quinientos, ner: MISC
+token: De setecientos cincuenta, ner: MISC
+token: De mil en adelante, ner: MISC
+token: Los comités de empresa, ner: MISC
+token: Los comités, ner: MISC
+token: Artículo 67, ner: PER
+token: Promoción de elecciones y mandato electoral, ner: MISC
+token: Podrán, ner: LOC
+token: Los sindicatos con capacidad, ner: MISC
+token: Administraciones Públicas, ner: ORG
+token: Los promotores comunicarán a la empresa, ner: MISC
+token: En dicha comunicación los promotores, ner: MISC
+token: Esta oficina pública, ner: MISC
+token: Solo previo acuerdo mayoritario, ner: MISC
+token: Ley Orgánica 11/1985, ner: MISC
+token: Libertad Sindical, ner: PER
+token: Dichos, ner: MISC
+token: Cuando se promuevan elecciones, ner: MISC
+token: Podrán, ner: LOC
+token: Los convenios colectivos, ner: MISC
+token: En su defecto, ner: MISC
+token: El incumplimiento de cualquiera de los, ner: MISC
+token: La renuncia a la promoción, ner: MISC
+token: En caso de concurrencia de promotores para la realización de elecciones, ner: MISC
+token: En este último supuesto la promoción deberá acompañarse de una comunicación fehaciente de dicha promoción de elecciones a los que hubieran, ner: MISC
+token: La duración del mandato de los delegados, ner: MISC
+token: Solamente, ner: PER
+token: No obstante, ner: MISC
+token: En el caso de producirse vacante, ner: MISC
+token: Cuando la vacante, ner: MISC
+token: El sustituto lo será, ner: MISC
+token: Las sustituciones, ner: MISC
+token: Artículo 68, ner: MISC
+token: Garantías, ner: MISC
+token: Los miembros del comité, ner: MISC
+token: Apertura, ner: ORG
+token: Prioridad, ner: LOC
+token: No ser despedido ni sancionado, ner: MISC
+token: Asimismo no podrá, ner: MISC
+token: Expresar, ner: PER
+token: Disponer, ner: PER
+token: De quinientos, ner: MISC
+token: De setecientos cincuenta, ner: MISC
+token: Podrá, ner: PER
+token: Sección, ner: PER
+token: Elección, ner: LOC
+token: Los delegados de personal, ner: MISC
+token: Serán, ner: MISC
+token: Los trabajadores extranjeros, ner: MISC
+token: Se podrán presentar candidatos para las elecciones de delegados, ner: MISC
+token: Igualmente, ner: PER
+token: Artículo, ner: PER
+token: Votación, ner: PER
+token: Resultarán, ner: PER
+token: En caso de empate, ner: MISC
+token: Artículo, ner: PER
+token: Elección, ner: LOC
+token: Por convenio colectivo, ner: MISC
+token: En tal caso, ner: MISC
+token: Los puestos del comité, ner: MISC
+token: Si en la división, ner: MISC
+token: En las elecciones a miembros del comité, ner: MISC
+token: Cada elector podrá, ner: MISC
+token: Estas listas deberán contener, ner: MISC
+token: No obstante, ner: MISC
+token: En cada lista, ner: MISC
+token: No tendrán derecho a la atribución de representantes, ner: MISC
+token: Mediante el sistema de representación, ner: MISC
+token: Dentro, ner: LOC
+token: La inobservancia de cualquiera de las reglas anteriores, ner: MISC
+token: Artículo, ner: PER
+token: Representantes, ner: ORG
+token: Quienes, ner: ORG
+token: Por tanto, ner: MISC
+token: Quienes presten, ner: MISC
+token: Los contratados por término de hasta un año, ner: MISC
+token: Cada doscientos días trabajados, ner: MISC
+token: Artículo 73., ner: PER
+token: Mesa, ner: PER
+token: La mesa será, ner: MISC
+token: La mesa, ner: MISC
+token: Este último actuará de secretario, ner: MISC
+token: Se designarán suplentes, ner: MISC
+token: Ninguno, ner: ORG
+token: Cada candidato o candidatura, ner: MISC
+token: Asimismo, ner: MISC
+token: Artículo, ner: PER
+token: Funciones de la mesa, ner: MISC
+token: Comunicado a la empresa, ner: MISC
+token: La mesa electoral, ner: MISC
+token: Cuando se trate de elecciones a delegados de personal, ner: MISC
+token: La mesa electoral cumplirá, ner: MISC
+token: Hará público entre los trabajadores, ner: MISC
+token: Fijará, ner: PER
+token: Recibirá, ner: PER
+token: Señalará, ner: PER
+token: Redactará, ner: PER
+token: Los plazos, ner: MISC
+token: En el caso de elecciones, ner: MISC
+token: Si se hubiera presentado alguna reclamación, ner: MISC
+token: Cuando se trate de elecciones, ner: MISC
+token: Esta se hará pública, ner: MISC
+token: La mesa resolverá cualquier incidencia, ner: MISC
+token: Publicará, ner: PER
+token: A continuación, ner: MISC
+token: Las candidaturas, ner: MISC
+token: La proclamación, ner: MISC
+token: Contra, ner: ORG
+token: Entre la proclamación de candidatos, ner: MISC
+token: Artículo 75, ner: PER
+token: Votación, ner: PER
+token: El acto de la votación, ner: MISC
+token: El empresario facilitará los medios precisos, ner: MISC
+token: El voto será libre, ner: MISC
+token: Inmediatamente después de celebrada la votación, ner: MISC
+token: Del resultado del escrutinio, ner: MISC
+token: Una vez redactada, ner: MISC
+token: Acto seguido, ner: MISC
+token: El presidente de la mesa, ner: MISC
+token: El resultado de la votación, ner: MISC
+token: El original del acta, ner: MISC
+token: La oficina pública, ner: MISC
+token: La oficina pública, ner: MISC
+token: Corresponde, ner: PER
+token: Ley Orgánica 11/1985, ner: MISC
+token: Libertad Sindical, ner: PER
+token: Dichas certificaciones, ner: MISC
+token: Asimismo, ner: MISC
+token: La denegación del registro de un acta, ner: MISC
+token: En estos supuestos, ner: MISC
+token: Dicho, ner: MISC
+token: Una vez efectuada la subsanación, ner: MISC
+token: Transcurrido, ner: PER
+token: En el caso de que la denegación del registro, ner: MISC
+token: La resolución denegatoria del registro podrá ser impugnada, ner: MISC
+token: Artículo 76, ner: MISC
+token: Reclamaciones, ner: PER
+token: Las impugnaciones, ner: MISC
+token: Todos los que tengan interés legítimo, ner: MISC
+token: La impugnación de actos de la mesa, ner: MISC
+token: Serán, ner: MISC
+token: El árbitro, ner: MISC
+token: Derecho, ner: LOC
+token: La duración del mandato de los árbitros será de cinco años, ner: MISC
+token: La Administración, ner: MISC
+token: Los árbitros deberán abstenerse, ner: MISC
+token: Tener interés, ner: MISC
+token: Ser administrador de sociedad, ner: MISC
+token: Tener parentesco de consanguinidad, ner: MISC
+token: Tener amistad íntima o enemistad manifiesta, ner: MISC
+token: Tener relación de servicio, ner: MISC
+token: El procedimiento arbitral, ner: MISC
+token: Este escrito, ner: MISC
+token: Hasta que no finalice, ner: MISC
+token: El planteamiento del arbitraje interrumpirá, ner: MISC
+token: La oficina pública, ner: MISC
+token: Si se hubieran presentado actas electorales para registro, ner: MISC
+token: A las veinticuatro horas siguientes, ner: MISC
+token: El árbitro, ner: MISC
+token: Administraciones Públicas, ner: MISC
+token: El laudo será escrito, ner: MISC
+token: Si se hubiese impugnado la votación, ner: MISC
+token: El laudo arbitral podrá impugnarse, ner: MISC
+token: CAPÍTULO II
+Del derecho de, ner: MISC
+token: Las asambleas de trabajadores, ner: MISC
+token: De conformidad, ner: MISC
+token: La asamblea podrá ser convocada, ner: MISC
+token: La asamblea será presidida, ner: MISC
+token: Solo podrá, ner: MISC
+token: La presidencia comunicará, ner: MISC
+token: Cuando por trabajarse en turnos, ner: MISC
+token: Artículo 78, ner: MISC
+token: Lugar, ner: MISC
+token: El lugar de reunión será, ner: MISC
+token: El empresario deberá facilitar, ner: MISC
+token: Si hubiesen transcurrido menos de dos meses, ner: MISC
+token: Cierre, ner: LOC
+token: Las reuniones informativas sobre convenios, ner: MISC
+token: Artículo 79, ner: MISC
+token: Convocatoria, ner: LOC
+token: Artículo 80, ner: LOC
+token: Votaciones, ner: LOC
+token: Artículo 81, ner: PER
+token: Locales, ner: PER
+token: La representación legal de los trabajadores, ner: MISC
+token: Las posibles discrepancias se resolverán, ner: MISC
+token: Inspección de Trabajo y Seguridad Social, ner: MISC
+token: TÍTULO III
+De, ner: MISC
+token: Naturaleza y efectos de los convenios, ner: MISC
+token: Concepto, ner: LOC
+token: Los convenios colectivos, ner: MISC
+token: Mediante los convenios colectivos, ner: MISC
+token: Igualmente, ner: PER
+token: Los convenios colectivos regulados, ner: MISC
+token: Sin perjuicio de lo anterior, ner: MISC
+token: Jornada de trabajo, ner: MISC
+token: Horario, ner: PER
+token: Régimen, ner: PER
+token: Sistema, ner: MISC
+token: Sistema, ner: MISC
+token: Funciones, ner: MISC
+token: Mejoras voluntarias de la acción protectora de la Seguridad Social, ner: MISC
+token: En todo caso, ner: MISC
+token: Se entiende, ner: MISC
+token: La intervención, ner: MISC
+token: Cuando el periodo de consultas finalice, ner: MISC
+token: El acuerdo deberá determinar, ner: MISC
+token: El acuerdo de inaplicación no podrá, ner: MISC
+token: Asimismo, el acuerdo, ner: MISC
+token: En caso de desacuerdo, ner: MISC
+token: Cuando no se hubiera solicitado la intervención de la comisión, ner: MISC
+token: Cuando el periodo de consultas finalice, ner: MISC
+token: Comisión Consultiva Nacional de Convenios Colectivos, ner: LOC
+token: La decisión de estos órganos, ner: MISC
+token: Tal decisión tendrá la eficacia de los acuerdos alcanzados en periodo de consultas, ner: MISC
+token: El resultado de los procedimientos, ner: MISC
+token: El convenio colectivo, ner: MISC
+token: En dicho supuesto, ner: MISC
+token: Artículo 83., ner: PER
+token: Unidades de negociación, ner: MISC
+token: Los convenios colectivos, ner: MISC
+token: Las organizaciones sindicales, ner: MISC
+token: Estas cláusulas podrán igualmente pactarse en convenios, ner: MISC
+token: Dichas organizaciones de trabajadores, ner: MISC
+token: Estos acuerdos, ner: MISC
+token: Artículo 84, ner: MISC
+token: Concurrencia, ner: LOC
+token: Un convenio colectivo, ner: MISC
+token: La regulación de las condiciones, ner: MISC
+token: La cuantía del salario base, ner: MISC
+token: El abono, ner: MISC
+token: El horario y la distribución, ner: MISC
+token: La adaptación al ámbito de la empresa del sistema, ner: MISC
+token: La adaptación de los aspectos de las modalidades de contratación, ner: MISC
+token: Las medidas para favorecer la conciliación, ner: MISC
+token: Aquellas otras que dispongan los acuerdos, ner: MISC
+token: Los acuerdos y convenios, ner: MISC
+token: Salvo pacto, ner: MISC
+token: Artículo 85, ner: MISC
+token: Contenido, ner: MISC
+token: Dentro del respeto a las leyes, ner: MISC
+token: Sin perjuicio de la libertad, ner: MISC
+token: Ley Orgánica, ner: MISC
+token: A través de la negociación colectiva, ner: MISC
+token: Asimismo, ner: MISC
+token: Sin perjuicio de la libertad, ner: MISC
+token: Determinación, ner: PER
+token: Ámbito, ner: PER
+token: Forma, ner: LOC
+token: Designación, ner: LOC
+token: Artículo 86, ner: LOC
+token: Vigencia, ner: LOC
+token: Corresponde, ner: LOC
+token: Salvo pacto, ner: MISC
+token: La vigencia de un convenio colectivo, ner: MISC
+token: Durante las negociaciones para la renovación, ner: MISC
+token: Las partes, ner: MISC
+token: Estos acuerdos, ner: MISC
+token: Mediante los acuerdos interprofesionales de ámbito estatal, ner: MISC
+token: Dichos acuerdos interprofesionales, ner: MISC
+token: Transcurrido un año desde la denuncia, ner: MISC
+token: El convenio que sucede, ner: MISC
+token: Sección, ner: PER
+token: Legitimación
+Artículo 87, ner: LOC
+token: Legitimación, ner: LOC
+token: En representación de los trabajadores, ner: MISC
+token: La intervención en la negociación corresponderá, ner: MISC
+token: Cuando se trate de convenios, ner: MISC
+token: Los sindicatos, ner: MISC
+token: Los sindicatos que tengan la consideración de más, ner: MISC
+token: Los sindicatos, ner: MISC
+token: En representación de los empresarios estarán legitimados para negociar:
+
+a, ner: MISC
+token: En los convenios de empresa, ner: MISC
+token: En los convenios de grupo de empresas, ner: MISC
+token: En los convenios colectivos sectoriales, ner: MISC
+token: En aquellos sectores, ner: MISC
+token: Asimismo estarán legitimados en los convenios de ámbito, ner: MISC
+token: Ley Orgánica 11/1985, ner: MISC
+token: Libertad Sindical, ner: PER
+token: Todo sindicato, federación, ner: MISC
+token: Artículo 88, ner: MISC
+token: Comisión, ner: PER
+token: El reparto de miembros, ner: MISC
+token: La comisión negociadora, ner: MISC
+token: En aquellos sectores, ner: MISC
+token: En aquellos sectores, ner: MISC
+token: En los supuestos a que se refieren los dos párrafos anteriores, ner: MISC
+token: La designación de los componentes de la comisión corresponderá, ner: MISC
+token: En los convenios sectoriales el número, ner: MISC
+token: En el resto de los convenios, ner: MISC
+token: CAPÍTULO II
+Procedimiento
+Sección, ner: MISC
+token: Tramitación, ner: LOC
+token: Tramitación, ner: LOC
+token: La representación de los trabajadores, ner: MISC
+token: En el supuesto de que la promoción sea el resultado de la denuncia de un convenio colectivo vigente, ner: MISC
+token: De esta comunicación, ner: MISC
+token: La parte receptora de la comunicación solo podrá negarse a la iniciación de las negociaciones por causa legal, ner: MISC
+token: Ambas partes estarán, ner: MISC
+token: Los acuerdos de la comisión requerirán, ner: MISC
+token: En cualquier momento de las deliberaciones, ner: MISC
+token: Artículo 90, ner: MISC
+token: Validez, ner: MISC
+token: Los convenios, ner: MISC
+token: Los convenios, ner: MISC
+token: Una vez registrado, ner: MISC
+token: Boletín Oficial, ner: LOC
+token: Estado», ner: LOC
+token: El convenio entrará en vigor, ner: MISC
+token: la Ley, ner: LOC
+token: Reguladora de la Jurisdicción Social, ner: PER
+token: Sin perjuicio de lo establecido, ner: MISC
+token: A tales efectos, ner: MISC
+token: Instituto de la Mujer y para la Igualdad de Oportunidades, ner: LOC
+token: Cuando la autoridad laboral, ner: MISC
+token: Instituto de la Mujer y para la Igualdad de Oportunidades, ner: LOC
+token: la Ley, ner: LOC
+token: Jurisdicción Social, ner: PER
+token: Artículo 91, ner: MISC
+token: Aplicación, ner: LOC
+token: Sin perjuicio de las competencias legalmente atribuidas a la jurisdicción social, ner: MISC
+token: No obstante lo establecido, ner: MISC
+token: El acuerdo logrado a través de la mediación, ner: MISC
+token: Estos acuerdos, ner: MISC
+token: Específicamente cabrá el recurso contra el laudo arbitral en el caso de que no se hubiesen, ner: MISC
+token: Las resoluciones de la comisión paritaria sobre interpretación, ner: MISC
+token: Los procedimientos de solución de conflictos, ner: MISC
+token: Sección, ner: PER
+token: Adhesión, ner: PER
+token: Adhesión, ner: LOC
+token: El Ministerio de Empleo, ner: MISC
+token: Seguridad Social, ner: ORG
+token: La decisión de extensión, ner: MISC
+token: Tendrán, ner: LOC
+token: Disposición, ner: LOC
+token: Trabajo, ner: MISC
+token: Disposición, ner: LOC
+token: Contratos, ner: MISC
+token: El límite de edad, ner: MISC
+token: Ley de Empleo, ner: MISC
+token: Asimismo, ner: ORG
+token: Derogado, ner: LOC
+token: Disposición, ner: LOC
+token: Negociación, ner: LOC
+token: Lo dispuesto en el artículo 15.1.a, ner: MISC
+token: 49.1.c, ner: MISC
+token: la Ley, ner: LOC
+token: Disposición, ner: LOC
+token: Conceptos retributivos, ner: MISC
+token: la Ley, ner: LOC
+token: Estatuto de los Trabajadores, ner: MISC
+token: Ley de Procedimiento Laboral, ner: MISC
+token: Ley sobre Infracciones y Sanciones, ner: MISC
+token: Orden Social, ner: ORG
+token: Disposición, ner: LOC
+token: Personal de alta dirección, ner: MISC
+token: Disposición, ner: LOC
+token: Representación, ner: LOC
+token: Administraciones Públicas, ner: ORG
+token: Asimismo, ner: MISC
+token: No estarán, ner: MISC
+token: Las organizaciones empresariales que tengan la condición de más, ner: MISC
+token: Disposición, ner: LOC
+token: Regulación, ner: LOC
+token: La regulación de condiciones, ner: MISC
+token: Gobierno, ner: ORG
+token: Ministerio de Empleo, ner: ORG
+token: Seguridad Social, ner: ORG
+token: Disposición, ner: LOC
+token: Código de Trabajo, ner: LOC
+token: Ministerio de Empleo, ner: ORG
+token: Seguridad Social, ner: ORG
+token: Código de Trabajo, ner: MISC
+token: Asimismo, ner: MISC
+token: Código de Trabajo, ner: MISC
+token: Gobierno, ner: LOC
+token: Disposición, ner: LOC
+token: Comisión Consultiva Nacional de Convenios Colectivos, ner: LOC
+token: La Comisión Consultiva Nacional de Convenios Colectivos, ner: LOC
+token: Ministerio de Empleo, ner: ORG
+token: Seguridad Social, ner: ORG
+token: Dirección General de Empleo, ner: ORG
+token: Administración General del Estado, ner: ORG
+token: El asesoramiento y consulta sobre el ámbito, ner: MISC
+token: El estudio, ner: MISC
+token: Observatorio de la Negociación Colectiva, ner: LOC
+token: La intervención en los procedimientos, ner: MISC
+token: Reglamentariamente, ner: MISC
+token: Comisión Consultiva Nacional de Convenios Colectivos, ner: LOC
+token: El funcionamiento, ner: MISC
+token: Comisión Consultiva Nacional de Convenios Colectivos, ner: LOC
+token: Para el desarrollo de las funciones, ner: MISC
+token: Comisión Consultiva Nacional de Convenios Colectivos, ner: LOC
+token: Dirección General de Empleo, ner: ORG
+token: Comisión Consultiva Nacional de Convenios Colectivos, ner: LOC
+token: Ministerio de Empleo, ner: ORG
+token: Seguridad Social, ner: ORG
+token: Comisión, ner: LOC
+token: Comisión Consultiva Nacional de Convenios Colectivos, ner: LOC
+token: Disposición, ner: LOC
+token: Cláusulas, ner: LOC
+token: Seguridad Social, ner: ORG
+token: El trabajador afectado por la extinción, ner: MISC
+token: Seguridad Social, ner: ORG
+token: La medida deberá vincularse, ner: MISC
+token: Disposición, ner: LOC
+token: Acreditación, ner: PER
+token: Disposición, ner: LOC
+token: Preavisos, ner: LOC
+token: Gobierno podrá, ner: LOC
+token: Disposición, ner: LOC
+token: Solución, ner: LOC
+token: Disposición, ner: LOC
+token: Consideración de víctimas del terrorismo, ner: MISC
+token: la Ley, ner: LOC
+token: Reconocimiento, ner: LOC
+token: Protección Integral, ner: LOC
+token: Víctimas del Terrorismo, ner: LOC
+token: Disposición, ner: LOC
+token: Aplicación, ner: LOC
+token: Administraciones Públicas, ner: ORG
+token: Lo dispuesto en el artículo 15.1.a, ner: MISC
+token: Administraciones Públicas, ner: ORG
+token: En cumplimiento de esta previsión, ner: MISC
+token: No obstante lo previsto, ner: MISC
+token: Administraciones Públicas, ner: ORG
+token: Ley Orgánica 6/2001, ner: MISC
+token: Universidades, ner: LOC
+token: Para la aplicación del límite, ner: MISC
+token: Administraciones Públicas, ner: ORG
+token: En todo caso, ner: MISC
+token: Ley Orgánica 6/2001, ner: MISC
+token: Universidades, ner: LOC
+token: Disposición, ner: LOC
+token: Aplicación, ner: LOC
+token: Ley de Contratos del Sector Público, ner: MISC
+token: Real Decreto Legislativo, ner: MISC
+token: Administraciones Públicas, ner: ORG
+token: Administraciones Públicas, ner: ORG
+token: Ley de Contratos del Sector Público, ner: MISC
+token: En todo caso, ner: MISC
+token: Se entenderá que concurren causas técnicas, ner: MISC
+token: Tendrá, ner: LOC
+token: Disposición, ner: LOC
+token: Suspensión, ner: PER
+token: Administraciones Públicas, ner: ORG
+token: Lo previsto en el artículo, ner: MISC
+token: Administraciones Públicas, ner: MISC
+token: Disposición, ner: LOC
+token: Discrepancias, ner: LOC
+token: la Ley, ner: LOC
+token: Reguladora de la Jurisdicción Social, ner: LOC
+token: Disposición, ner: LOC
+token: Cálculo, ner: PER
+token: Igualmente, ner: PER
+token: Disposición, ner: LOC
+token: Contratos, ner: LOC
+token: Las empresas, ner: MISC
+token: Seguridad Social, ner: ORG
+token: Las empresas, ner: MISC
+token: Seguridad Social, ner: ORG
+token: Continuarán, ner: ORG
+token: Real Decreto, ner: MISC
+token: Centros Especiales de Empleo, ner: ORG
+token: Disposición, ner: LOC
+token: Sustitución, ner: LOC
+token: Seguridad Social, ner: ORG
+token: Noventa, ner: MISC
+token: Sesenta, ner: LOC
+token: Cincuenta, ner: LOC
+token: Los citados beneficios, ner: MISC
+token: Las contrataciones realizadas, ner: MISC
+token: Disposición, ner: LOC
+token: Permisos de nacimiento, ner: MISC
+token: Administraciones, ner: MISC
+token: Administraciones, ner: LOC
+token: Ley del Estatuto Básico del Empleado Público, ner: MISC
+token: Real Decreto Legislativo, ner: ORG
+token: Ley, ner: ORG
+token: Disposición, ner: LOC
+token: Contratos, ner: LOC
+token: Disposición, ner: LOC
+token: Contratos, ner: LOC
+token: Derogado, ner: LOC
+token: Las referencias realizadas, ner: MISC
+token: Disposición, ner: LOC
+token: Contratos, ner: MISC
+token: Ley General de la Seguridad Social, ner: MISC
+token: Disposición, ner: LOC
+token: Negociación, ner: PER
+token: Lo dispuesto en el artículo 15.1.a, ner: MISC
+token: Disposición, ner: LOC
+token: Limitación, ner: PER
+token: Lo previsto en el artículo, ner: MISC
+token: Respecto a los contratos suscritos, ner: MISC
+token: la Ley, ner: LOC
+token: Disposición, ner: LOC
+token: Horas complementarias, ner: MISC
+token: El régimen de horas, ner: MISC
+token: Disposición, ner: LOC
+token: Duración, ner: PER
+token: la Ley, ner: LOC
+token: la Ley, ner: LOC
+token: De conformidad, ner: MISC
+token: la Ley, ner: LOC
+token: Presupuestos Generales del Estado para 2009, ner: MISC
+token: La duración indicada, ner: MISC
+token: Téngase, ner: MISC
+token: la Ley, ner: LOC
+token: Ref, ner: MISC
+token: BOE, ner: MISC
+token: Disposición, ner: LOC
+token: Indemnización, ner: LOC
+token: La indemnización prevista a la finalización, ner: MISC
+token: 49.1.c, ner: MISC
+token: Nueve, ner: MISC
+token: Diez días de salario, ner: MISC
+token: Once, ner: ORG
+token: Doce días de salario, ner: MISC
+token: La indemnización por finalización del contrato, ner: MISC
+token: 49.1.c, ner: MISC
+token: Disposición, ner: LOC
+token: Normas, ner: PER
+token: Derogado, ner: LOC
+token: Disposición, ner: LOC
+token: Régimen, ner: PER
+token: Los expedientes de regulación de empleo, ner: MISC
+token: Los expedientes de regulación de empleo, ner: MISC
+token: Disposición, ner: LOC
+token: Indemnizaciones, ner: ORG
+token: La indemnización por despido prevista, ner: MISC
+token: La indemnización por despido improcedente de los contratos formalizados, ner: MISC
+token: El importe indemnizatorio resultante no podrá, ner: MISC
+token: A efectos de indemnización, ner: MISC
+token: En caso de despido disciplinario, ner: MISC
+token: Disposición, ner: LOC
+token: Salarios de tramitación, ner: MISC
+token: Lo dispuesto en el artículo, ner: MISC
+token: Estado de salarios de tramitación, ner: LOC
+token: Disposición, ner: LOC
+token: Aplicación, ner: LOC
+token: Real Decreto, ner: ORG
+token: Los apartados 4, ner: MISC
+token: Real Decreto, ner: ORG
+token: En el caso de nacimiento, ner: MISC
+token: Real Decreto, ner: ORG
+token: A partir de la entrada en vigor del Real Decreto, ner: MISC
+token: La madre biológica podrá, ner: MISC
+token: El disfrute de este periodo, ner: MISC
+token: A partir de la entrada en vigor del Real Decreto-ley 6/2019, ner: MISC
+token: Junto a las seis semanas de disfrute obligatorio, ner: MISC
+token: Cada progenitor podrá, ner: MISC
+token: Cuando los dos progenitores, ner: MISC
+token: A partir de 1, ner: MISC
+token: La madre biológica podrá, ner: MISC
+token: El disfrute de este periodo, ner: MISC
+token: A partir de 1, ner: MISC
+token: Junto a las seis semanas de disfrute obligatorio, ner: MISC
+token: Cada progenitor podrá, ner: MISC
+token: Cuando los dos progenitores, ner: MISC
+token: A partir de 1, ner: MISC
+token: Real Decreto, ner: ORG
+token: En caso de fallecimiento de la madre biológica, ner: MISC
+token: En el caso de nacimiento, ner: MISC
+token: En el caso de que un progenitor, ner: MISC
+token: En los supuestos de adopción, ner: MISC
+token: Los periodos a los que, ner: MISC
+token: Disposición final primera, ner: MISC
+token: Título competencial, ner: MISC
+token: Constitución Española, ner: MISC
+token: Estado, ner: LOC
+token: Disposición, ner: LOC
+token: Desarrollo, ner: PER
+token: El Gobierno, ner: MISC
+token: El Gobierno, ner: MISC
+token: En todo caso, ner: MISC
