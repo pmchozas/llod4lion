@@ -7,14 +7,26 @@ Created on Tue Jul 21 09:54:50 2020
 """
 # import stanza
 import spacy
+import re
 
 # stanza.download('es')
 # nlp = stanza.Pipeline('es')
-file=open('data/estatuto.txt')
+file=open('data/estatuto_es_span.txt')
 f = file.read()
+nlp = spacy.load("es_core_news_sm")
+
+sentence = nlp(f)
+
+for sen in sentence:
+    print(sen.text)
 
 
-#pos stanza
+# t = re.search("^<span>.*</span>$", test)
+
+# print(t)
+
+
+#pos spacy
 '''
 pos = nlp(f) #json con toda la info del postagging
 f.close()
@@ -49,6 +61,7 @@ with open('data/estatuto_ner_stanza.txt', 'w') as f3:
     
 #ner spacy 2.1 debería probar con el modelo más nuevo.
     
+'''
 nlp = spacy.load("es_core_news_sm")
 
 test= nlp(f)
@@ -61,3 +74,5 @@ with open('data/estatuto_ner_spacy.txt', 'w') as f3:
     for l in spacylist:
         f3.write("%s\n" % l)
     f3.close()
+    
+'''
