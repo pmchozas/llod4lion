@@ -1,0 +1,193 @@
+trabajador;abandonar;trabajo
+trabajador;abandonar;empresario
+trabajador;abandonar;derecho
+trabajo;abonar;salario
+trabajo;abonar;trabajador
+contrato;abonar;cuantía
+cumplimiento;abonar;importe
+empresario;abonar;salario
+empresario;abonar;trabajador
+empresario;abonar;periodo
+trabajo efectivo;abonar;salario
+trabajo efectivo;abonar;trabajador
+obligación;abonar;convenio
+obligación;abonar;periodo
+cantidad;abonar;salario
+cantidad;abonar;servicio
+trabajador;acceder;jubilación parcial
+trabajador;acceder;jubilación
+relación laboral;acceder;empleo
+derecho;acceder;representación legal
+derecho;acceder;datos
+jornada;acordar;trabajador
+trabajo;acordar;prestación
+trabajo;acordar;prestación de servicios
+trabajo;acordar;convenio colectivo
+trabajo;acordar;colectivo
+trabajo;acordar;convenio
+dirección;acordar;condiciones de trabajo
+tiempo parcial;acordar;prestación
+tiempo parcial;acordar;prestación de servicios
+reducción de jornada;acordar;trabajador
+empresa;acordar;trabajo
+empresa;acordar;condiciones de trabajo
+jornada ordinaria;acordar;convenio colectivo
+jornada ordinaria;acordar;convenio
+legitimación;acordar;convenio colectivo
+legitimación;acordar;ámbito
+legitimación;acordar;conflicto
+fuerza;acordar;indemnización
+origen;adoptar;suspensión
+origen;adoptar;periodo
+acuerdo;adoptar;prevención
+extensión;adoptar;tramitación
+extensión;adoptar;procedimiento
+duración;adquirir;condición
+derecho;adquirir;elección
+derecho;adquirir;condición
+derecho;adquirir;empresa
+personal;adquirir;condición
+personal;adquirir;acuerdo
+familia;adquirir;condición
+salario mínimo interprofesional;afectar;cuantía
+trabajo;afectar;procedimiento
+trabajo;afectar;contrato
+trabajo;afectar;contrato de trabajo
+trabajo;afectar;empresa
+aplicación;afectar;cónyuge
+salario;afectar;cuantía
+trabajador;afectar;excedencia
+trabajador;afectar;empleo
+trabajador;afectar;trabajo
+trabajador;afectar;extinción del contrato
+trabajador;afectar;contrato
+trabajador;afectar;contrato de trabajo
+condiciones de trabajo;afectar;empresa
+vigencia;afectar;ámbito
+revisión;afectar;cuantía
+empresa;afectar;excedencia
+empresa;afectar;empleo
+duración;afectar;trabajo
+duración;afectar;centro de trabajo
+procedimiento;afectar;trabajo
+procedimiento;afectar;comité de empresa
+procedimiento;afectar;centro de trabajo
+procedimiento;afectar;empresa
+procedimiento;afectar;comité
+salario mínimo;afectar;cuantía
+igualdad;ajustar;ley
+empresa;ajustar;ausencia
+jornada;alcanzar;contrato
+jornada;alcanzar;contrato de relevo
+convenio colectivo;alcanzar;periodo de consultas
+convenio colectivo;alcanzar;periodo
+contrato;alcanzar;duración
+contrato;alcanzar;empresario
+salario;alcanzar;contrato
+salario;alcanzar;contrato de relevo
+contrato de relevo;alcanzar;duración
+comisión;alcanzar;acuerdo
+trabajador;alcanzar;edad
+trabajador;alcanzar;edad de jubilación
+colectivo;alcanzar;periodo de consultas
+colectivo;alcanzar;periodo
+acuerdo;alcanzar;periodo de consultas
+acuerdo;alcanzar;periodo
+convenio;alcanzar;periodo de consultas
+convenio;alcanzar;periodo
+vigencia;aplicar;ámbito
+usos y costumbres;aplicar;defecto
+autorizar;aprobar;texto refundido
+jornada;asegurar;protección
+jornada completa;asegurar;protección
+representante;asistir;votación
+empresario;asistir;votación
+operación;asumir;riesgo
+operación;asumir;ventura
+persona;atenuar;función
+contratación;atribuir;ley
+contratación;atribuir;empresa
+perjuicio;atribuir;jurisdicción
+perjuicio;atribuir;jurisdicción social
+ley;calcular;servicio
+trabajo;celebrar;prestación
+trabajo;celebrar;tiempo parcial
+trabajo;celebrar;prestación de servicios
+trabajo;celebrar;elección
+trabajo;celebrar;computar
+contrato;celebrar;jornada
+contrato;celebrar;jornada completa
+contrato;celebrar;tiempo parcial
+contrato;celebrar;jubilación parcial
+contrato;celebrar;jubilación
+contrato;celebrar;duración
+contrato;celebrar;empresa
+contrato de trabajo;celebrar;tiempo parcial
+aprendizaje;celebrar;discapacidad
+contrato de relevo;celebrar;jubilación parcial
+contrato de relevo;celebrar;jubilación
+contrato de relevo;celebrar;duración
+contrato de relevo;celebrar;jornada
+contrato de relevo;celebrar;empresa
+duración del contrato;celebrar;jubilación parcial
+duración del contrato;celebrar;jubilación
+duración del contrato;celebrar;empresa
+formación;celebrar;discapacidad
+centro de trabajo;celebrar;elección
+centro de trabajo;celebrar;computar
+empresa;celebrar;duración
+empresa;celebrar;término
+duración;celebrar;jubilación parcial
+duración;celebrar;jubilación
+duración;celebrar;empresa
+exigencia;celebrar;jornada
+exigencia;celebrar;jornada completa
+actividad laboral;compartir;trabajo
+actividad laboral;compartir;centro de trabajo
+empresa;compartir;centro de trabajo
+contratista;compartir;trabajo
+contratista;compartir;centro de trabajo
+computar;compensar;descanso
+riesgos;comportar;seguridad
+función;comportar;seguridad
+intimidad;comprender;protección
+dignidad;comprender;origen
+dignidad;comprender;acoso
+dignidad;comprender;protección
+dignidad;comprender;origen racial
+procedimiento;comprobar;centro de trabajo
+procedimiento;comprobar;empresa
+trabajo;computar;jornada
+trabajo;computar;cesión
+antigüedad;computar;cesión
+término;computar;periodo
+trabajo;comunicar;autoridad laboral
+trabajo;comunicar;autoridad
+extinción del contrato;comunicar;denuncia
+contrato;comunicar;denuncia
+dirección;comunicar;periodo de consultas
+dirección;comunicar;periodo
+condiciones de trabajo;comunicar;autoridad laboral
+condiciones de trabajo;comunicar;autoridad
+mandato;comunicar;oficina pública
+mandato;comunicar;autoridad laboral
+mandato;comunicar;autoridad
+periodo de consultas;comunicar;autoridad laboral
+periodo de consultas;comunicar;autoridad
+empresario;comunicar;oficina pública
+empresario;comunicar;oficina pública de empleo
+empresario;comunicar;empleo
+empresario;comunicar;autoridad laboral
+empresario;comunicar;autoridad
+autoridad laboral;comunicar;prestación
+autoridad;comunicar;prestación
+empresa;comunicar;aceptación
+empresa;comunicar;periodo de consultas
+empresa;comunicar;periodo
+periodo;comunicar;autoridad laboral
+periodo;comunicar;autoridad
+acuerdo;comunicar;autoridad laboral
+acuerdo;comunicar;autoridad
+acuerdo;comunicar;empresa
+acuerdo;comunicar;empresario
+persona;comunicar;empresa

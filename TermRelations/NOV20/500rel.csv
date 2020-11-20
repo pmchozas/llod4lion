@@ -1,0 +1,594 @@
+trabajador;abandonar;trabajo
+trabajador;abandonar;empresario
+trabajador;abandonar;derecho
+trabajo;abonar;salario
+trabajo;abonar;trabajador
+contrato;abonar;cuantía
+cumplimiento;abonar;importe
+empresario;abonar;salario
+empresario;abonar;trabajador
+empresario;abonar;periodo
+trabajo efectivo;abonar;salario
+trabajo efectivo;abonar;trabajador
+obligación;abonar;convenio
+obligación;abonar;periodo
+cantidad;abonar;salario
+cantidad;abonar;servicio
+trabajador;acceder;jubilación parcial
+trabajador;acceder;jubilación
+relación laboral;acceder;empleo
+derecho;acceder;representación legal
+derecho;acceder;datos
+jornada;acordar;trabajador
+trabajo;acordar;prestación
+trabajo;acordar;prestación de servicios
+trabajo;acordar;convenio colectivo
+trabajo;acordar;colectivo
+trabajo;acordar;convenio
+dirección;acordar;condiciones de trabajo
+tiempo parcial;acordar;prestación
+tiempo parcial;acordar;prestación de servicios
+reducción de jornada;acordar;trabajador
+empresa;acordar;trabajo
+empresa;acordar;condiciones de trabajo
+jornada ordinaria;acordar;convenio colectivo
+jornada ordinaria;acordar;convenio
+legitimación;acordar;convenio colectivo
+legitimación;acordar;ámbito
+legitimación;acordar;conflicto
+fuerza;acordar;indemnización
+origen;adoptar;suspensión
+origen;adoptar;periodo
+acuerdo;adoptar;prevención
+extensión;adoptar;tramitación
+extensión;adoptar;procedimiento
+duración;adquirir;condición
+derecho;adquirir;elección
+derecho;adquirir;condición
+derecho;adquirir;empresa
+personal;adquirir;condición
+personal;adquirir;acuerdo
+familia;adquirir;condición
+salario mínimo interprofesional;afectar;cuantía
+trabajo;afectar;procedimiento
+trabajo;afectar;contrato
+trabajo;afectar;contrato de trabajo
+trabajo;afectar;empresa
+aplicación;afectar;cónyuge
+salario;afectar;cuantía
+trabajador;afectar;excedencia
+trabajador;afectar;empleo
+trabajador;afectar;trabajo
+trabajador;afectar;extinción del contrato
+trabajador;afectar;contrato
+trabajador;afectar;contrato de trabajo
+condiciones de trabajo;afectar;empresa
+vigencia;afectar;ámbito
+revisión;afectar;cuantía
+empresa;afectar;excedencia
+empresa;afectar;empleo
+duración;afectar;trabajo
+duración;afectar;centro de trabajo
+procedimiento;afectar;trabajo
+procedimiento;afectar;comité de empresa
+procedimiento;afectar;centro de trabajo
+procedimiento;afectar;empresa
+procedimiento;afectar;comité
+salario mínimo;afectar;cuantía
+igualdad;ajustar;ley
+empresa;ajustar;ausencia
+jornada;alcanzar;contrato
+jornada;alcanzar;contrato de relevo
+convenio colectivo;alcanzar;periodo de consultas
+convenio colectivo;alcanzar;periodo
+contrato;alcanzar;duración
+contrato;alcanzar;empresario
+salario;alcanzar;contrato
+salario;alcanzar;contrato de relevo
+contrato de relevo;alcanzar;duración
+comisión;alcanzar;acuerdo
+trabajador;alcanzar;edad
+trabajador;alcanzar;edad de jubilación
+colectivo;alcanzar;periodo de consultas
+colectivo;alcanzar;periodo
+acuerdo;alcanzar;periodo de consultas
+acuerdo;alcanzar;periodo
+convenio;alcanzar;periodo de consultas
+convenio;alcanzar;periodo
+vigencia;aplicar;ámbito
+usos y costumbres;aplicar;defecto
+autorizar;aprobar;texto refundido
+jornada;asegurar;protección
+jornada completa;asegurar;protección
+representante;asistir;votación
+empresario;asistir;votación
+operación;asumir;riesgo
+operación;asumir;ventura
+persona;atenuar;función
+contratación;atribuir;ley
+contratación;atribuir;empresa
+perjuicio;atribuir;jurisdicción
+perjuicio;atribuir;jurisdicción social
+ley;calcular;servicio
+trabajo;celebrar;prestación
+trabajo;celebrar;tiempo parcial
+trabajo;celebrar;prestación de servicios
+trabajo;celebrar;elección
+trabajo;celebrar;computar
+contrato;celebrar;jornada
+contrato;celebrar;jornada completa
+contrato;celebrar;tiempo parcial
+contrato;celebrar;jubilación parcial
+contrato;celebrar;jubilación
+contrato;celebrar;duración
+contrato;celebrar;empresa
+contrato de trabajo;celebrar;tiempo parcial
+aprendizaje;celebrar;discapacidad
+contrato de relevo;celebrar;jubilación parcial
+contrato de relevo;celebrar;jubilación
+contrato de relevo;celebrar;duración
+contrato de relevo;celebrar;jornada
+contrato de relevo;celebrar;empresa
+duración del contrato;celebrar;jubilación parcial
+duración del contrato;celebrar;jubilación
+duración del contrato;celebrar;empresa
+formación;celebrar;discapacidad
+centro de trabajo;celebrar;elección
+centro de trabajo;celebrar;computar
+empresa;celebrar;duración
+empresa;celebrar;término
+duración;celebrar;jubilación parcial
+duración;celebrar;jubilación
+duración;celebrar;empresa
+exigencia;celebrar;jornada
+exigencia;celebrar;jornada completa
+actividad laboral;compartir;trabajo
+actividad laboral;compartir;centro de trabajo
+empresa;compartir;centro de trabajo
+contratista;compartir;trabajo
+contratista;compartir;centro de trabajo
+computar;compensar;descanso
+riesgos;comportar;seguridad
+función;comportar;seguridad
+intimidad;comprender;protección
+dignidad;comprender;origen
+dignidad;comprender;acoso
+dignidad;comprender;protección
+dignidad;comprender;origen racial
+procedimiento;comprobar;centro de trabajo
+procedimiento;comprobar;empresa
+trabajo;computar;jornada
+trabajo;computar;cesión
+antigüedad;computar;cesión
+término;computar;periodo
+trabajo;comunicar;autoridad laboral
+trabajo;comunicar;autoridad
+extinción del contrato;comunicar;denuncia
+contrato;comunicar;denuncia
+dirección;comunicar;periodo de consultas
+dirección;comunicar;periodo
+condiciones de trabajo;comunicar;autoridad laboral
+condiciones de trabajo;comunicar;autoridad
+mandato;comunicar;oficina pública
+mandato;comunicar;autoridad laboral
+mandato;comunicar;autoridad
+periodo de consultas;comunicar;autoridad laboral
+periodo de consultas;comunicar;autoridad
+empresario;comunicar;oficina pública
+empresario;comunicar;oficina pública de empleo
+empresario;comunicar;empleo
+empresario;comunicar;autoridad laboral
+empresario;comunicar;autoridad
+autoridad laboral;comunicar;prestación
+autoridad;comunicar;prestación
+empresa;comunicar;aceptación
+empresa;comunicar;periodo de consultas
+empresa;comunicar;periodo
+periodo;comunicar;autoridad laboral
+periodo;comunicar;autoridad
+acuerdo;comunicar;autoridad laboral
+acuerdo;comunicar;autoridad
+acuerdo;comunicar;empresa
+acuerdo;comunicar;empresario
+persona;comunicar;empresa
+sistema educativo;concertar;contrato
+empleo;concertar;contrato
+empresa;concurrir;elección
+trabajador;conservar;derecho
+excedencia;conservar;derecho
+empresario;conservar;jornada
+empresa;conservar;precepto
+despido;considerar;procedente
+despido;considerar;incumplimiento
+trabajo;considerar;centro de trabajo
+aplicación;considerar;trabajador
+descanso;considerar;trabajo
+descanso;considerar;trabajo efectivo
+trabajador;considerar;jornada
+ley;considerar;trabajo
+ley;considerar;organización
+ley;considerar;centro de trabajo
+ley;considerar;unidad productiva
+ley;considerar;trabajo nocturno
+ley;considerar;reducción de jornada
+formación;considerar;trabajo
+formación;considerar;trabajo efectivo
+formación;considerar;empresario
+periodo;considerar;trabajo
+periodo;considerar;trabajo efectivo
+persona;considerar;jornada
+persona;considerar;reducción de jornada
+colectivo;constar;jornada
+colectivo;constar;jornada laboral
+trabajo;constatar;autoridad laboral
+trabajo;constatar;autoridad
+autoridad laboral;constatar;fuerza
+autoridad;constatar;fuerza
+jornada;constituir;derecho
+contrato;constituir;abuso
+contrato;constituir;derecho
+comisión;constituir;acuerdo
+trabajador;constituir;sancionable
+trabajador;constituir;conducta
+reducción de jornada;constituir;derecho
+duración;constituir;derecho
+periodo;constituir;derecho
+comité de empresa;consultar;empresario
+empresa;consultar;empresario
+comité;consultar;empresario
+derecho;consultar;empresario
+derecho;consultar;empleo
+derecho;consultar;empresa
+derecho;consultar;adopción
+jornada;contar;voto
+trabajo;contar;trabajador
+trabajo;contar;principio
+trabajo;contar;legislación laboral
+trabajo;contar;legislación
+trabajador;contar;representante
+trabajador;contar;representante legal
+servicio;contar;dirección
+servicio;contar;organización
+servicio;contar;ámbito
+procedimiento;contar;comisión
+intimidad;contar;representante
+intimidad;contar;representante legal
+anticipos;contar;trabajo
+dignidad;contar;representante
+dignidad;contar;representante legal
+jornada laboral;contar;voto
+salarial;contar;salario
+contrato;contener;datos
+legalidad;contener;datos
+derecho;contener;datos
+contrato;continuar;empresa
+contrato;continuar;periodo
+contrato;continuar;prestación
+trabajador;continuar;empresa
+trabajador;continuar;periodo
+trabajador;continuar;contrato
+trabajador;continuar;término
+trabajador;continuar;contrato de relevo
+jubilado;continuar;contrato
+jubilado;continuar;contrato de relevo
+jubilado;continuar;empresa
+servicio;continuar;prestación
+edad;continuar;contrato
+edad;continuar;contrato de relevo
+edad;continuar;empresa
+término;continuar;empresa
+objeto del contrato;continuar;prestación
+denuncia;continuar;prestación
+trabajo;contratar;servicio
+acción;contratar;formación
+titulación;contratar;contrato
+trabajador;contratar;empresa
+trabajador;contratar;aprendizaje
+trabajador;contratar;formación
+acción protectora;contratar;formación
+modificación;contrato;indemnización
+derecho;convenir;perjuicio
+créditos;convenir;perjuicio
+participación;convocar;empresario
+formación profesional;convocar;empresario
+formación;convocar;empresario
+jornada;corresponder;persona
+trabajo;corresponder;delegados de personal
+trabajo;corresponder;comité de empresa
+trabajo;corresponder;empresa
+trabajo;corresponder;comité
+trabajo;corresponder;personal
+aplicación;corresponder;comisión
+comisión;corresponder;mutuo acuerdo
+comisión;corresponder;acuerdo
+ley;corresponder;reducción de jornada
+ley;corresponder;persona
+centro de trabajo;corresponder;delegados de personal
+centro de trabajo;corresponder;comité de empresa
+centro de trabajo;corresponder;empresa
+centro de trabajo;corresponder;comité
+centro de trabajo;corresponder;personal
+defecto;corresponder;aplicación
+edad;corresponder;texto refundido
+edad;corresponder;refundido
+procedimiento;corresponder;comité de empresa
+procedimiento;corresponder;empresa
+procedimiento;corresponder;comité
+perjuicio;corresponder;jurisdicción
+perjuicio;corresponder;autoridad laboral
+perjuicio;corresponder;autoridad
+jubilación;corresponder;refundido
+jubilación;corresponder;texto refundido
+créditos;corresponder;información
+edad de jubilación;corresponder;texto refundido
+edad de jubilación;corresponder;refundido
+trabajo;cubrir;trabajador
+delegados de personal;cubrir;trabajador
+empresa;cubrir;trabajador
+personal;cubrir;votación
+personal;cubrir;trabajador
+trabajador;cumplir;refundido
+trabajador;cumplir;texto refundido
+trabajador;cumplir;edad
+trabajador;cumplir;jubilación
+trabajador;cumplir;edad de jubilación
+jubilado;cumplir;edad
+jubilado;cumplir;jubilación
+jubilado;cumplir;edad de jubilación
+derecho;cumplir;trabajador
+contrato;deber;empresario
+contrato;deber;diligencia
+dirección;deber;notificación
+trabajador;deber;trabajo
+trabajador;deber;empresario
+trabajador;deber;diligencia
+trabajador;deber;indemnización
+trabajador;deber;desempeño
+trabajador;deber;cargo
+trabajador;deber;autoridad
+ámbito;deber;marco
+ámbito;deber;negociación colectiva
+cumplimiento;deber;personal
+cumplimiento;deber;prestación
+cumplimiento;deber;indemnización
+cumplimiento;deber;desempeño
+cumplimiento;deber;cargo
+alta dirección;deber;notificación
+formación;deber;cargo
+formación;deber;empresa
+empresa;deber;negociación colectiva
+obligación;deber;empresario
+negociación colectiva;deber;igualdad
+función;deber;discriminación
+función;deber;ausencia
+despido;declarar;improcedente
+despido;declarar;empresario
+jurisdicción;declarar;nulidad
+jurisdicción;declarar;medida
+trabajo;declarar;relación laboral
+sentencia;declarar;traslado
+sentencia;declarar;modificación
+sentencia;declarar;trabajo
+sentencia;declarar;contrato
+sentencia;declarar;contrato de trabajo
+sentencia;declarar;empleo
+sentencia;declarar;despido
+aplicación;declarar;procedencia
+aplicación;declarar;despido
+trabajador;declarar;medida
+jurisdicción social;declarar;nulidad
+jurisdicción social;declarar;medida
+empresario;declarar;concurrir
+empresario;declarar;créditos
+órgano;declarar;nulidad
+vigencia;desarrollar;empresa
+discapacidad;desempeñar;derecho
+trabajador;desempeñar;empresa
+persona;desempeñar;derecho
+comisión;designar;empresario
+empresario;designar;votación
+empresario;designar;representante
+acuerdo;designar;oficina pública
+ley;dictar;acuerdo
+periodo de consultas;dirigir;empresario
+autoridad laboral;dirigir;jurisdicción
+autoridad laboral;dirigir;convenio colectivo
+autoridad laboral;dirigir;jurisdicción social
+autoridad laboral;dirigir;convenio
+autoridad;dirigir;jurisdicción
+autoridad;dirigir;convenio colectivo
+autoridad;dirigir;jurisdicción social
+autoridad;dirigir;convenio
+procedimiento;dirigir;oficina pública
+periodo;dirigir;empresario
+exceder;disponer;convenio colectivo
+exceder;disponer;colectivo
+exceder;disponer;convenio
+empresa;disponer;personal
+interrupción;disponer;convenio colectivo
+interrupción;disponer;convenio
+periodo;disponer;ausencia
+periodo;disponer;duración
+convenio;disponer;autoridad laboral
+convenio;disponer;autoridad
+acción;efectuar;acción administrativa
+comisión;efectuar;derecho
+votación;efectuar;jornada
+votación;efectuar;trabajo
+votación;efectuar;jornada laboral
+votación;efectuar;lugar de trabajo
+mesa electoral;efectuar;reclamación
+mesa electoral;efectuar;día laborable
+movilidad funcional;efectuar;acuerdo
+empresa;efectuar;acuerdo
+comisión negociadora;efectuar;derecho
+reclamación;efectuar;acción administrativa
+voto;efectuar;derecho
+delegados de personal;ejercer;empresario
+delegados de personal;ejercer;empresa
+excedencia;ejercer;ámbito
+empresa;ejercer;dirección
+empresa;ejercer;derecho
+empresa;ejercer;ámbito
+personal;ejercer;empresario
+personal;ejercer;empresa
+acuerdo;ejercer;prestación
+persona;ejercer;función
+persona;ejercer;régimen
+persona;ejercer;duración
+persona;ejercer;derecho
+derecho;ejercitar;trabajador
+suspensión;ejercitar;jornada
+suspensión;ejercitar;jornada completa
+suspensión;ejercitar;régimen
+concurrir;elegir;trabajo
+concurrir;elegir;turno de trabajo
+concurrir;elegir;turno
+trabajo;elegir;delegado
+trabajo;elegir;personal
+comité;elegir;aplicación
+deber;emitir;comité de empresa
+deber;emitir;empresa
+deber;emitir;comité
+derecho;emitir;empresario
+trabajo;encontrar;incapacidad
+sentencia;encontrar;empleo
+jurisdicción;entender;convenio colectivo
+jurisdicción;entender;colectivo
+jurisdicción;entender;convenio
+refundido;entender;concurrir
+trabajo;entender;prestación
+trabajo;entender;tiempo parcial
+trabajo;entender;prestación de servicios
+contrato;entender;tiempo parcial
+contrato;entender;perjuicio
+contrato de trabajo;entender;tiempo parcial
+jurisdicción social;entender;convenio colectivo
+jurisdicción social;entender;colectivo
+jurisdicción social;entender;convenio
+ley;entender;despido
+ley;entender;trabajo
+ley;entender;despido colectivo
+ley;entender;colectivo
+texto refundido;entender;concurrir
+periodo de consultas;entender;derecho
+periodo de consultas;entender;perjuicio
+autoridad laboral;entender;convenio colectivo
+autoridad laboral;entender;convenio
+autoridad;entender;convenio colectivo
+autoridad;entender;convenio
+duración;entender;perjuicio
+derecho;entender;trabajador
+periodo;entender;derecho
+periodo;entender;perjuicio
+representación de los trabajadores;entender;comisión
+representación de los trabajadores;entender;comisión negociadora
+jornada;entrar;jornada de trabajo
+jornada;entrar;empresa
+jornada;entrar;persona
+concurrir;entrar;ámbito
+convenio colectivo;entrar;empresa
+convenio colectivo;entrar;empresario
+sentencia;entrar;indemnización
+sentencia;entrar;trabajador
+sentencia;entrar;readmisión
+traslado;entrar;compensación
+contrato;entrar;cuantía
+salario;entrar;duración
+igualdad;entrar;empresa
+igualdad;entrar;ámbito
+igualdad;entrar;ocupación
+igualdad;entrar;empleo
+comité de empresa;entrar;delegados de personal
+comité de empresa;entrar;personal
+trabajador;entrar;compensación
+tiempo parcial;entrar;empresa
+tiempo parcial;entrar;persona
+jornada completa;entrar;empresa
+jornada completa;entrar;persona
+ámbito;entrar;traslado
+notificación;entrar;trabajador
+notificación;entrar;readmisión
+discriminación;entrar;sexo
+análisis;entrar;trabajo
+régimen;entrar;empresa
+compensación;entrar;jornada
+concurrencia;entrar;ámbito
+defecto;entrar;empresa
+defecto;entrar;trabajador
+defecto;entrar;jornada
+defecto;entrar;duración
+defecto;entrar;jornada ordinaria
+empresa;entrar;delegados de personal
+empresa;entrar;personal
+comité;entrar;delegados de personal
+comité;entrar;personal
+derecho;entrar;compensación
+mutuo acuerdo;entrar;trabajador
+mutuo acuerdo;entrar;empresario
+negociación colectiva;entrar;empresa
+colectivo;entrar;empresa
+colectivo;entrar;empresario
+permiso;entrar;trabajador
+permiso;entrar;empresario
+periodo;entrar;empresario
+periodo;entrar;trabajo
+acuerdo colectivo;entrar;empresa
+acuerdo;entrar;empresa
+acuerdo;entrar;grupo profesional
+acuerdo;entrar;trabajador
+acuerdo;entrar;empresario
+acuerdo;entrar;conformidad
+acuerdo;entrar;persona
+acuerdo;entrar;autoridad laboral
+acuerdo;entrar;autoridad
+convenio;entrar;empresa
+convenio;entrar;empresario
+empresario;entregar;representación legal
+acuerdo;especificar;procedimiento
+despido;establecer;empresario
+trabajo;establecer;convenio colectivo
+trabajo;establecer;colectivo
+trabajo;establecer;convenio
+grupo profesional;establecer;prestación
+grupo profesional;establecer;contenido
+grupo profesional;establecer;objeto del contrato
+convenio colectivo;establecer;régimen
+convenio colectivo;establecer;salarial
+aplicación;establecer;convenio colectivo
+aplicación;establecer;colectivo
+aplicación;establecer;acuerdo
+aplicación;establecer;convenio
+pacto;establecer;trabajador
+pacto;establecer;periodo
+pacto;establecer;empresa
+pacto;establecer;acuerdo
+dirección;establecer;notificación
+dirección;establecer;deber
+relación laboral especial;establecer;deber
+condiciones de trabajo;establecer;convenio colectivo
+condiciones de trabajo;establecer;colectivo
+condiciones de trabajo;establecer;convenio
+ámbito;establecer;procedimiento
+ámbito estatal;establecer;procedimiento
+relación laboral;establecer;deber
+alta dirección;establecer;notificación
+alta dirección;establecer;deber
+régimen;establecer;convenio colectivo
+régimen;establecer;ámbito
+régimen;establecer;ámbito estatal
+régimen;establecer;colectivo
+régimen;establecer;acuerdo
+régimen;establecer;convenio
+empresario;establecer;contenido
+empresario;establecer;refundido
+empresario;establecer;texto refundido
+trabajo efectivo;establecer;convenio colectivo
+trabajo efectivo;establecer;colectivo
+trabajo efectivo;establecer;convenio
+amparo;establecer;disposición
+conformidad;establecer;convenio colectivo
+conformidad;establecer;colectivo
+conformidad;establecer;convenio
+conformidad;establecer;acuerdo
+conformidad;establecer;ley

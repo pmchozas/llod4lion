@@ -13,7 +13,7 @@ import spacy
 from nltk.stem.porter import *
 from nltk.stem.snowball import SnowballStemmer
 import re
-
+import stanza
 
 
 #framenet tests
@@ -28,7 +28,7 @@ for t in test:
 '''
 f = open('estatuto.txt', 'r')
 
-estatuto = f.readlines()
+estatuto = f.read()
 
 t = open('term_es.txt', 'r')
 
@@ -42,6 +42,76 @@ cleanterms=[]
 v = open('legal_verbs.txt', 'r')
 ve=v.read()
 verbs=ve.split('\n')
+
+#stanza.download('es') 
+
+#nlp = stanza.Pipeline('es')
+
+
+#ESTO ES UNA PRUEBA LEMATIZANDO SOLO LOS VERBOS DE ESTATUTO Y BUSCANDO LOS TÉRMINOS DE SKETCHENGINE tal cual
+test='A tales efectos se entenderá excluida del ámbito laboral la actividad de las personas prestadoras del servicio de transporte al amparo de autorizaciones administrativas de las que sean titulares, realizada, mediante el correspondiente precio, con vehículos comerciales de servicio público cuya propiedad o poder directo de disposición ostenten, aun cuando dichos servicios se realicen de forma continuada para un mismo cargador o comercializador. 4. La legislación laboral española será de aplicación al trabajo que presten los trabajadores españoles contratados en España al servicio de empresas españolas en el extranjero, sin perjuicio de las normas de orden público aplicables en el lugar de trabajo. Dichos trabajadores tendrán, al menos, los derechos económicos que les corresponderían de trabajar en territorio español. 5. A efectos de esta ley se considera centro de trabajo la unidad productiva con organización específica, que sea dada de alta, como tal, ante la autoridad laboral. En la actividad de trabajo en el mar se considerará como centro de trabajo el buque, entendiéndose situado en la provincia donde radique su puerto de base.'
+#elimino duplicados
+lines_seen = set() # holds lines already seen
+with open("output_file.txt", "w") as output_file:
+	for each_line in open("results.txt", "r"):
+	    if each_line not in lines_seen: # check if line is not duplicate
+	        output_file.write(each_line)
+	        lines_seen.add(each_line)
+#aquí lematizo los verbos del estatuto, solo una vez
+
+'''
+doc = nlp(estatuto)
+
+for sent in doc.sentences:
+    for word in sent.words:
+        if word.upos == 'VERB':
+            #sent= sent.replace(word.text, word.lemma)
+            estatuto=re.sub(r'\b' + word.text + r'\b',word.lemma, estatuto)
+            
+
+
+file=open("estatuto_verb_lemma.txt", "w")
+file.write(estatuto)
+'''
+'''
+#aquí saco los patrones, solo una vez también 
+file = open('estatuto_verb_lemma.txt', 'r')
+text=file.readlines()
+file2 = open('term_es.txt', 'r')
+rfile2=file2.read()
+termlist=rfile2.split('\n')
+
+terms=[]
+with open('clean_term_es.txt', 'w') as l:
+    for t in termlist:
+        mylist=[]
+        clean=re.sub(r'[^\w]', ' ', t)
+        lower=clean.lower()
+        terms.append(lower)
+        l.write(lower+'\n')
+
+with open('results.txt', 'w') as r:
+    for term in terms:
+        for line in text:
+            sentences=re.split(r"[.!?]", line) #separo cada párrafo en frases
+            for sent in sentences:
+                if re.search(r'\b' + term + r'\b', sent): #busco el término exacto con regex
+                    termpos=sent.index(term)
+                    for term2 in terms:
+                        if term!=term2 and re.search(r'\b' + term2 + r'\b', sent): #si busco el segundo término exacto, que tiene que ser diferente al primero
+                            termpos2=sent.index(term2)
+                            for verb in verbs:
+                                if re.search(r'\b' + verb + r'\b', sent): #busco un verbo en esa frase
+                                    verbpos=sent.index(verb)
+                                    if verbpos > termpos and verbpos < termpos2 and termpos2<=(termpos+80): #si el verbo está en una posición intermedia entre t1 y t2, y t2 está como mucho a 80 posiciones de t1, saco el patrón
+                                        r.write(term+', '+verb+', '+term2+'\n')
+                                        # print(term +str(termpos)+'-------'+verb+str(verbpos)+'------'+term2+str(termpos2))
+                                        # print(sent)
+
+'''
+
+'''
+#ESTO ES UNA PRUEBA LEMATIZANDO QUE NO ME CONVENCE:
 
 #aquí limpio símbolos de los términos, todo lo que no sea alfanumérico y los lematizo
 
@@ -95,7 +165,7 @@ with open('cleantermlist.txt', 'w') as f:
 #AQUÍ LEMATIZO EL ESTATUTO, SOLO UNA VEZ
 
 
-'''        
+   
 file = open('estatuto.txt', 'r')
 read=file.readlines()
 
@@ -106,10 +176,9 @@ with open('estatuto_lema.txt', 'w') as f:
             sourcetoken=token.lemma_
             f.write(sourcetoken+' ')
 f.close()
+
+
 '''
-
-
-
 '''
 
 #ESTO ES UNA PRUEBA STEMIZANDO QUE NO ME CONVENCE:

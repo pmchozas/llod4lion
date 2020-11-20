@@ -1,0 +1,1890 @@
+centro formativo, referir, disposición
+modificación, percibir, indemnización
+modificación, contrato, indemnización
+modificación, reconocer, derecho
+modificación, notificar, empresario
+modificación, finalizar, formación
+adopción, guardar, riesgo
+adopción, guardar, riesgo
+adopción, guardar, riesgo
+adopción, guardar, acuerdo
+adopción, guardar, conformidad
+adopción, guardar, acuerdo
+adopción, guardar, suspensión del contrato
+adopción, guardar, suspensión
+adopción, guardar, riesgo
+adopción, guardar, riesgo
+adopción, producir, familia
+adopción, guardar, familia
+adopción, guardar, acuerdo
+jornada, alcanzar, contrato
+jornada, alcanzar, contrato de relevo
+jornada, acordar, trabajador
+jornada, incluir, jornada de trabajo
+jornada, incluir, horario
+jornada, incluir, horario
+jornada, incluir, jornada de trabajo
+jornada, constituir, derecho
+jornada, constituir, derecho
+jornada, corresponder, persona
+jornada, entrar, jornada de trabajo
+jornada, entrar, jornada de trabajo
+jornada, asegurar, protección
+jornada, entrar, empresa
+jornada, entrar, persona
+jornada, entrar, empresa
+jornada, entrar, persona
+jornada, contar, voto
+jornada, regular, voto
+despido, producir, procedimiento
+despido, requerir, extinción del contrato
+despido, requerir, contrato
+despido, requerir, persona
+despido, contrato, persona
+despido, notificar, trabajador
+despido, establecer, empresario
+despido, considerar, procedente
+despido, considerar, incumplimiento
+despido, quedar, incumplimiento
+despido, contrato, trabajo
+despido, declarar, improcedente
+despido, declarar, empresario
+exceder, treinta, trabajo
+exceder, treinta, contrato
+exceder, treinta, objeto del contrato
+exceder, disponer, convenio colectivo
+exceder, disponer, colectivo
+exceder, disponer, convenio
+concurrir, elegir, trabajo
+concurrir, elegir, turno de trabajo
+concurrir, elegir, turno
+concurrir, producir, ámbito
+concurrir, entrar, ámbito
+concurrir, producir, ámbito
+concurrir, entrar, ámbito
+concurrir, impugnar, elección
+concurrir, producir, ámbito
+concurrir, entrar, ámbito
+concurrir, producir, ámbito
+concurrir, entrar, ámbito
+asociación, reunir, derecho
+asociación, reunir, requisito
+asociación, reunir, legitimación
+salario mínimo interprofesional, afectar, cuantía
+jurisdicción, declarar, nulidad
+jurisdicción, declarar, medida
+jurisdicción, entender, convenio colectivo
+jurisdicción, entender, colectivo
+jurisdicción, entender, convenio
+jornada, alcanzar, contrato
+jornada, alcanzar, contrato de relevo
+jornada, acordar, trabajador
+jornada, incluir, jornada de trabajo
+jornada, incluir, horario
+jornada, incluir, horario
+jornada, incluir, jornada de trabajo
+jornada, constituir, derecho
+jornada, constituir, derecho
+jornada, corresponder, persona
+jornada, entrar, jornada de trabajo
+jornada, entrar, jornada de trabajo
+jornada, asegurar, protección
+jornada, entrar, empresa
+jornada, entrar, persona
+jornada, entrar, empresa
+jornada, entrar, persona
+jornada, contar, voto
+jornada, regular, voto
+refundido, entender, concurrir
+compensación económica, pactar, convenio colectivo
+compensación económica, pactar, contrato
+compensación económica, pactar, colectivo
+compensación económica, pactar, convenio
+trabajo, contratar, servicio
+trabajo, considerar, centro de trabajo
+trabajo, declarar, relación laboral
+trabajo, exigir, disposición legal
+trabajo, exigir, disposición
+trabajo, permanecer, válido
+trabajo, establecer, convenio colectivo
+trabajo, establecer, colectivo
+trabajo, establecer, convenio
+trabajo, entender, prestación
+trabajo, celebrar, prestación
+trabajo, acordar, prestación
+trabajo, entender, tiempo parcial
+trabajo, celebrar, tiempo parcial
+trabajo, entender, prestación de servicios
+trabajo, celebrar, prestación de servicios
+trabajo, acordar, prestación de servicios
+trabajo, estimar, riesgo
+trabajo, estimar, accidente
+trabajo, superar, salario mínimo interprofesional
+trabajo, superar, salario
+trabajo, superar, salario mínimo interprofesional
+trabajo, superar, salario mínimo
+trabajo, superar, salario mínimo
+trabajo, superar, salario mínimo interprofesional
+trabajo, pertenecer, empresa
+trabajo, acordar, convenio colectivo
+trabajo, acordar, colectivo
+trabajo, acordar, convenio
+trabajo, incluir, formación
+trabajo, establecer, convenio colectivo
+trabajo, establecer, colectivo
+trabajo, establecer, convenio
+trabajo, computar, jornada
+trabajo, computar, jornada
+trabajo, informar, autoridad laboral
+trabajo, informar, autoridad
+trabajo, contar, trabajador
+trabajo, contar, principio
+trabajo, establecer, convenio colectivo
+trabajo, establecer, colectivo
+trabajo, establecer, convenio
+trabajo, quedar, procedimiento
+trabajo, afectar, procedimiento
+trabajo, afectar, contrato
+trabajo, afectar, contrato de trabajo
+trabajo, notificar, trabajador
+trabajo, notificar, empresario
+trabajo, quedar, procedimiento
+trabajo, corresponder, delegados de personal
+trabajo, corresponder, comité de empresa
+trabajo, corresponder, empresa
+trabajo, corresponder, comité
+trabajo, corresponder, personal
+trabajo, existir, representación legal
+trabajo, afectar, procedimiento
+trabajo, notificar, empresario
+trabajo, computar, cesión
+trabajo, extinguir, relación laboral
+trabajo, quedar, procedimiento
+trabajo, afectar, procedimiento
+trabajo, suspender, procedimiento
+trabajo, suspender, fuerza
+trabajo, afectar, empresa
+trabajo, quedar, procedimiento
+trabajo, afectar, procedimiento
+trabajo, constatar, autoridad laboral
+trabajo, constatar, autoridad
+trabajo, abonar, salario
+trabajo, abonar, trabajador
+trabajo, guardar, riesgo
+trabajo, finalizar, adopción
+trabajo, contrato, adopción
+trabajo, finalizar, contrato
+trabajo, finalizar, suspensión del contrato
+trabajo, finalizar, suspensión
+trabajo, guardar, riesgo
+trabajo, finalizar, adopción
+trabajo, contrato, adopción
+trabajo, finalizar, contrato
+trabajo, finalizar, suspensión del contrato
+trabajo, finalizar, suspensión
+trabajo, producir, indemnización
+trabajo, producir, tramitación
+trabajo, producir, derecho
+trabajo, utilizar, empresa
+trabajo, cubrir, trabajador
+trabajo, elegir, delegado
+trabajo, treinta, delegado
+trabajo, elegir, personal
+trabajo, treinta, personal
+trabajo, celebrar, elección
+trabajo, celebrar, computar
+trabajo, permitir, disposición
+trabajo, afectar, empresa
+trabajo, comunicar, autoridad laboral
+trabajo, comunicar, autoridad
+trabajo, contar, legislación laboral
+trabajo, someter, legislación laboral
+trabajo, contar, legislación
+trabajo, someter, legislación
+trabajo, tratar, acuerdo
+trabajo, incluir, permiso
+trabajo, incluir, permiso
+trabajo, incluir, permiso
+trabajo, encontrar, incapacidad
+prevención, resultar, órgano
+prevención, reunir, órgano
+grupo profesional , establecer, prestación
+grupo profesional , establecer, contenido
+grupo profesional , establecer, objeto del contrato
+convenio colectivo, contrato, función
+convenio colectivo, fijar, mutuo acuerdo
+convenio colectivo, entrar, empresa
+convenio colectivo, entrar, empresario
+convenio colectivo, entrar, empresa
+convenio colectivo, entrar, empresa
+convenio colectivo, finalizar, permiso
+convenio colectivo, iniciar, permiso
+convenio colectivo, precisar, permiso
+convenio colectivo, finalizar, permiso
+convenio colectivo, iniciar, permiso
+convenio colectivo, precisar, permiso
+convenio colectivo, finalizar, permiso
+convenio colectivo, iniciar, permiso
+convenio colectivo, precisar, permiso
+convenio colectivo, alcanzar, periodo de consultas
+convenio colectivo, alcanzar, periodo
+convenio colectivo, alcanzar, periodo de consultas
+convenio colectivo, alcanzar, periodo
+convenio colectivo, reunir, legitimación
+convenio colectivo, mantener, vigencia
+convenio colectivo, mantener, vigencia
+convenio colectivo, establecer, régimen
+convenio colectivo, establecer, salarial
+cómputo anual, ofrecer, trabajador
+sentencia, declarar, traslado
+sentencia, declarar, modificación
+sentencia, declarar, modificación
+sentencia, declarar, trabajo
+sentencia, contrato, trabajo
+sentencia, declarar, contrato
+sentencia, declarar, contrato de trabajo
+sentencia, optar, indemnización
+sentencia, entrar, indemnización
+sentencia, optar, trabajador
+sentencia, entrar, trabajador
+sentencia, optar, readmisión
+sentencia, entrar, readmisión
+sentencia, declarar, empleo
+sentencia, encontrar, empleo
+sentencia, declarar, despido
+sentencia, declarar, despido
+acción, contratar, formación
+acción, efectuar, acción administrativa
+acción, favorecer, profesiones
+acción, exigir, cumplimiento
+horario, venir, legislación
+aplicación, concertir, discapacidad
+aplicación, contrato, discapacidad
+aplicación, contrato, tiempo parcial
+aplicación, considerar, trabajador
+aplicación, mantener, convenio colectivo
+aplicación, mantener, origen
+aplicación, mantener, colectivo
+aplicación, mantener, convenio
+aplicación, someter, procedimiento concursal
+aplicación, someter, procedimiento
+aplicación, declarar, procedencia
+aplicación, declarar, despido
+aplicación, declarar, despido
+aplicación, declarar, procedencia
+aplicación, establecer, convenio colectivo
+aplicación, establecer, colectivo
+aplicación, establecer, acuerdo
+aplicación, establecer, convenio
+aplicación, negociar, representación de los trabajadores
+aplicación, corresponder, comisión
+aplicación, corresponder, comisión
+aplicación, intervenir, comisión
+aplicación, intervenir, comisión
+aplicación, suscribir, marco
+aplicación, suscribir, empleo
+aplicación, contrato, trabajo
+aplicación, afectar, cónyuge
+extinción del contrato, contrato, trabajo
+extinción del contrato, comunicar, denuncia
+extinción del contrato, contrato, denuncia
+extinción del contrato, contrato, trabajo
+extinción del contrato, contrato, persona
+extinción del contrato, contrato, trabajo
+extinción del contrato, producir, indemnización
+extinción del contrato, contrato, indemnización
+extinción del contrato, producir, derecho
+extinción del contrato, contrato, derecho
+extinción del contrato, contrato, trabajo
+extinción del contrato, contrato, trabajo
+extinción del contrato, contrato, trabajador
+extinción del contrato, contrato, cumplimiento
+extinción del contrato, contrato, trabajo
+rescindir, percibir, indemnización
+rescindir, contrato, indemnización
+rescindir, percibir, salario
+rescindir, contrato, salario
+indemnización, referir, empresario
+indemnización, treinta, salario
+indemnización, treinta, servicio
+indemnización, contrato, trabajo
+traslado, notificar, trabajador
+traslado, notificar, empresario
+traslado, optar, compensación
+traslado, percibir, compensación
+traslado, entrar, compensación
+traslado, reconocer, derecho
+traslado, referir, periodo de consultas
+traslado, referir, periodo
+contrato, celebrar, jornada
+contrato, presumir, jornada
+contrato, celebrar, jornada
+contrato, presumir, jornada
+contrato, celebrar, jornada completa
+contrato, presumir, jornada completa
+contrato, formalizar, transcurso
+contrato, formalizar, relación laboral
+contrato, contener, datos
+contrato, permanecer, válido
+contrato, resultar, trabajo
+contrato, exigir, trabajo
+contrato, resultar, trabajador
+contrato, continuar, empresa
+contrato, continuar, periodo
+contrato, concertir, discapacidad
+contrato, entender, tiempo parcial
+contrato, celebrar, tiempo parcial
+contrato, figurar, trabajo
+contrato, celebrar, jornada
+contrato, presumir, jornada
+contrato, celebrar, jornada
+contrato, presumir, jornada
+contrato, celebrar, jornada completa
+contrato, presumir, jornada completa
+contrato, celebrar, jornada
+contrato, presumir, jornada
+contrato, celebrar, jornada
+contrato, presumir, jornada
+contrato, celebrar, jornada completa
+contrato, presumir, jornada completa
+contrato, concertir, jornada completa
+contrato, concertir, duración
+contrato, celebrar, jubilación parcial
+contrato, celebrar, jubilación
+contrato, celebrar, duración
+contrato, alcanzar, duración
+contrato, alcanzar, empresario
+contrato, alcanzar, duración
+contrato, celebrar, jornada
+contrato, sustituir, jornada
+contrato, celebrar, jornada
+contrato, sustituir, jornada
+contrato, celebrar, empresa
+contrato, prorrogar, periodo
+contrato, deber, empresario
+contrato, deber, diligencia
+contrato, optar, cuantía
+contrato, abonar, cuantía
+contrato, entrar, cuantía
+contrato, percibir, indemnización
+contrato, percibir, salario
+contrato, percibir, servicio
+contrato, suspender, fuerza
+contrato, referir, duración
+contrato, finalizar, parto
+contrato, iniciar, parto
+contrato, constituir, abuso
+contrato, constituir, derecho
+contrato, continuar, prestación
+contrato, comunicar, denuncia
+contrato, producir, indemnización
+contrato, producir, derecho
+contrato, utilizar, empresa
+contrato, incluir, indemnización
+contrato, incluir, negociación colectiva
+contrato, entender, perjuicio
+contrato, incluir, permiso
+contrato, incluir, permiso
+contrato, incluir, permiso
+acción positiva, favorecer, profesiones
+pacto, quedar, trabajador
+pacto, contrato, tiempo parcial
+pacto, contrato, duración
+pacto, establecer, trabajador
+pacto, establecer, periodo
+pacto, extinguir, trabajo
+pacto, contrato, trabajo
+pacto, extinguir, contrato
+pacto, extinguir, contrato de trabajo
+pacto, establecer, empresa
+pacto, establecer, acuerdo
+pacto, mantener, vigencia
+pacto, mantener, vigencia
+descanso, considerar, trabajo
+descanso, considerar, trabajo efectivo
+descanso, solicitar, trabajo
+demanda, paralizar, tramitación
+contrato de trabajo, permanecer, válido
+contrato de trabajo, entender, tiempo parcial
+contrato de trabajo, celebrar, tiempo parcial
+contrato de trabajo, suspender, fuerza
+contrato de trabajo, producir, indemnización
+contrato de trabajo, producir, derecho
+contrato de trabajo, utilizar, empresa
+contrato de trabajo, incluir, permiso
+contrato de trabajo, incluir, permiso
+contrato de trabajo, incluir, permiso
+salario, alcanzar, contrato
+salario, alcanzar, contrato de relevo
+salario, afectar, cuantía
+salario, exceder, salario mínimo interprofesional
+salario, exceder, salario mínimo interprofesional
+salario, exceder, salario mínimo
+salario, exceder, salario mínimo
+salario, exceder, salario mínimo interprofesional
+salario, exceder, salario mínimo interprofesional
+salario, exceder, salario mínimo interprofesional
+salario, exceder, salario mínimo
+salario, exceder, salario mínimo
+salario, exceder, salario mínimo interprofesional
+salario, entrar, duración
+desempleo, contrato, duración
+menor, suspender, trabajo
+menor, contrato, trabajo
+menor, suspender, contrato
+menor, suspender, contrato de trabajo
+aprendizaje, referir, disposición
+aprendizaje, fijar, trabajo
+aprendizaje, fijar, trabajo efectivo
+aprendizaje, fijar, acuerdo
+aprendizaje, celebrar, discapacidad
+igualdad, ajustar, ley
+igualdad, entrar, empresa
+igualdad, entrar, ámbito
+igualdad, proceder, ámbito territorial
+igualdad, proceder, ámbito
+igualdad, entrar, ocupación
+igualdad, entrar, empleo
+igualdad, entrar, ocupación
+igualdad, entrar, empleo
+delegados de personal, reclamar, jurisdicción
+delegados de personal, reclamar, jurisdicción social
+delegados de personal, ejercer, empresario
+delegados de personal, ejercer, empresa
+delegados de personal, observar, sigilo profesional
+delegados de personal, cubrir, trabajador
+delegados de personal, referir, convenio
+información, facilitar, comité de empresa
+información, facilitar, empresario
+información, facilitar, empresa
+información, facilitar, comité
+información, facilitar, perjuicio
+comité de empresa, informar, empresario
+comité de empresa, consultar, empresario
+comité de empresa, proceder, derecho
+comité de empresa, solicitar, empresario
+comité de empresa, entrar, delegados de personal
+comité de empresa, entrar, personal
+contrato de relevo, concertir, jornada completa
+contrato de relevo, concertir, duración
+contrato de relevo, celebrar, jubilación parcial
+contrato de relevo, celebrar, jubilación
+contrato de relevo, celebrar, duración
+contrato de relevo, alcanzar, duración
+contrato de relevo, celebrar, jornada
+contrato de relevo, sustituir, jornada
+contrato de relevo, celebrar, jornada
+contrato de relevo, sustituir, jornada
+contrato de relevo, celebrar, empresa
+conflicto colectivo, paralizar, tramitación
+trabajo nocturno, informar, autoridad laboral
+trabajo nocturno, informar, autoridad
+titulación, tratar, contrato
+titulación, contratar, contrato
+origen, incluir, condición social
+origen, incluir, condición
+origen, incluir, religión
+origen, incluir, estado civil
+origen, adoptar, suspensión
+origen, adoptar, periodo
+salario mínimo interprofesional, afectar, cuantía
+participación, convocar, empresario
+autorizar, aprobar, texto refundido
+autorizar, expresar, trabajo
+formación profesional, favorecer, promoción
+formación profesional, favorecer, promoción
+formación profesional, convocar, empresario
+tutela, resultar, víctima
+tutela, resultar, protección
+tutela, resultar, derecho
+tutela, reconocer, ley
+tutela, reconocer, ley
+discapacidad, desempeñar, derecho
+grado medio, reconocer, acuerdo
+dirección, establecer, notificación
+dirección, deber, notificación
+dirección, establecer, deber
+dirección, resolver, jurisdicción
+dirección, resolver, jurisdicción social
+dirección, comunicar, periodo de consultas
+dirección, comunicar, periodo
+dirección, acordar, condiciones de trabajo
+dirección, comunicar, periodo de consultas
+dirección, comunicar, periodo
+dirección, iniciar, despido
+dirección, iniciar, despido colectivo
+dirección, iniciar, procedimiento
+dirección, iniciar, colectivo
+dirección, iniciar, despido
+dirección, gozar, salario
+dirección, gozar, garantías del salario
+prestación, figurar, contrato de trabajo
+prestación, estimar, concurrencia
+prestación, contrato, trabajo
+prestación, exigir, créditos
+prestación, reducir, cantidad
+prestación, incluir, trabajo a distancia
+prestación, incluir, empresario
+relación laboral especial, establecer, deber
+comisión, existir, trabajo
+comisión, impedir, transcurso
+comisión, impedir, periodo de consultas
+comisión, impedir, periodo
+comisión, existir, trabajo
+comisión, designar, empresario
+comisión, constituir, acuerdo
+comisión, impedir, transcurso
+comisión, impedir, periodo de consultas
+comisión, impedir, periodo
+comisión, existir, trabajo
+comisión, impedir, transcurso
+comisión, impedir, periodo de consultas
+comisión, impedir, periodo
+comisión, existir, trabajo
+comisión, impedir, transcurso
+comisión, impedir, periodo de consultas
+comisión, impedir, periodo
+comisión, alcanzar, acuerdo
+comisión, efectuar, derecho
+comisión, corresponder, mutuo acuerdo
+comisión, corresponder, acuerdo
+comisión, requerir, voto
+votación, implicar, suspensión
+votación, efectuar, jornada
+votación, efectuar, jornada
+votación, efectuar, trabajo
+votación, efectuar, jornada laboral
+votación, efectuar, jornada laboral
+votación, efectuar, lugar de trabajo
+votación, proceder, contenido
+paternidad, interrumpir, duración del contrato
+paternidad, interrumpir, duración
+ejercicio individual, contrato, trabajo
+representante, proceder, firma
+representante, tratar, discapacidad
+representante, tratar, persona
+representante, asistir, votación
+trabajador, exigir, trabajo
+trabajador, exigir, remuneración
+trabajador, pactar, trabajo
+trabajador, contratar, empresa
+trabajador, continuar, empresa
+trabajador, continuar, periodo
+trabajador, contratar, empresa
+trabajador, recibir, contrato
+trabajador, recibir, formación
+trabajador, recibir, contrato para la formación
+trabajador, contratar, aprendizaje
+trabajador, contratar, formación
+trabajador, contratar, aprendizaje
+trabajador, contratar, aprendizaje
+trabajador, contratar, formación
+trabajador, contratar, aprendizaje
+trabajador, continuar, contrato
+trabajador, continuar, empresa
+trabajador, continuar, término
+trabajador, considerar, jornada
+trabajador, considerar, jornada
+trabajador, constituir, sancionable
+trabajador, constituir, conducta
+trabajador, acceder, jubilación parcial
+trabajador, acceder, jubilación
+trabajador, cumplir, refundido
+trabajador, cumplir, texto refundido
+trabajador, alcanzar, edad
+trabajador, alcanzar, edad de jubilación
+trabajador, continuar, contrato
+trabajador, continuar, contrato de relevo
+trabajador, continuar, empresa
+trabajador, cumplir, edad
+trabajador, cumplir, jubilación
+trabajador, cumplir, edad de jubilación
+trabajador, desempeñar, empresa
+trabajador, contar, representante
+trabajador, contar, representante legal
+trabajador, observar, trabajo
+trabajador, recibir, formación teórica
+trabajador, recibir, formación
+trabajador, seguir, formación
+trabajador, deber, trabajo
+trabajador, deber, empresario
+trabajador, deber, diligencia
+trabajador, guardar, adopción
+trabajador, guardar, aplicación
+trabajador, justificar, trabajo
+trabajador, estimar, concurrencia
+trabajador, recibir, especialización profesional
+trabajador, recibir, empresario
+trabajador, recibir, cargo
+trabajador, recibir, empresa
+trabajador, abandonar, trabajo
+trabajador, abandonar, empresario
+trabajador, abandonar, derecho
+trabajador, prestar, contrato
+trabajador, afectar, excedencia
+trabajador, afectar, excedencia
+trabajador, percibir, indemnización
+trabajador, deber, indemnización
+trabajador, deber, desempeño
+trabajador, deber, cargo
+trabajador, reclamar, convenio colectivo
+trabajador, reclamar, ascenso
+trabajador, reclamar, convenio
+trabajador, reclamar, jurisdicción
+trabajador, reclamar, jurisdicción social
+trabajador, optar, compensación
+trabajador, percibir, compensación
+trabajador, entrar, compensación
+trabajador, optar, contrato
+trabajador, reincorporar, trabajo
+trabajador, reincorporar, origen
+trabajador, reincorporar, centro de trabajo
+trabajador, resultar, modificación
+trabajador, resultar, rescindir
+trabajador, resultar, derecho
+trabajador, resultar, modificación sustancial
+trabajador, resultar, perjudicado
+trabajador, resultar, modificación
+trabajador, optar, rescisión
+trabajador, optar, contrato
+trabajador, existir, sentencia
+trabajador, transcurrir, excedencia
+trabajador, transcurrir, excedencia
+trabajador, permanecer, excedencia
+trabajador, permanecer, excedencia
+trabajador, conservar, derecho
+trabajador, declarar, medida
+trabajador, recibir, indemnización
+trabajador, recibir, cuantía
+trabajador, solicitar, representante
+trabajador, solicitar, representante legal
+trabajador, solicitar, extinción del contrato
+trabajador, solicitar, contrato
+trabajador, afectar, empleo
+trabajador, referir, empresario
+trabajador, contrato, trabajo
+trabajador, tratar, discapacidad
+trabajador, tratar, persona
+trabajador, deber, autoridad
+trabajador, treinta, salario
+trabajador, obtener, votación
+trabajador, afectar, trabajo
+trabajador, contrato, trabajo
+trabajador, afectar, extinción del contrato
+trabajador, afectar, contrato
+trabajador, afectar, contrato de trabajo
+trabajador, seguir, aplicación
+tiempo parcial, acordar, prestación
+tiempo parcial, acordar, prestación de servicios
+tiempo parcial, entrar, empresa
+tiempo parcial, entrar, persona
+jornada completa, asegurar, protección
+jornada completa, entrar, empresa
+jornada completa, entrar, persona
+jornada completa, entrar, empresa
+jornada completa, entrar, persona
+condiciones de trabajo, establecer, convenio colectivo
+condiciones de trabajo, establecer, colectivo
+condiciones de trabajo, establecer, convenio
+condiciones de trabajo, notificar, empresario
+condiciones de trabajo, notificar, empresario
+condiciones de trabajo, afectar, empresa
+condiciones de trabajo, comunicar, autoridad laboral
+condiciones de trabajo, comunicar, autoridad
+ámbito, incluir, empresa
+ámbito, entrar, traslado
+ámbito, regular, condiciones de trabajo
+ámbito, negociar, marco
+ámbito, formalizar, marco
+ámbito, deber, marco
+ámbito, negociar, negociación colectiva
+ámbito, formalizar, negociación colectiva
+ámbito, deber, negociación colectiva
+ámbito, establecer, procedimiento
+ámbito, negociar, representación de los trabajadores
+ámbito, referir, convenio
+trabajo diurno, existir, empresa
+pensión, reconocer, jubilación parcial
+pensión, reconocer, trabajador
+pensión, reconocer, jubilación
+cumplimiento, contrato, trabajador
+cumplimiento, contrato, deber
+cumplimiento, abonar, importe
+cumplimiento, deber, personal
+cumplimiento, suponer, prestación
+cumplimiento, deber, prestación
+cumplimiento, percibir, indemnización
+cumplimiento, deber, indemnización
+cumplimiento, deber, desempeño
+cumplimiento, deber, cargo
+cumplimiento, requerir, empresa
+jubilado, continuar, contrato
+jubilado, continuar, contrato de relevo
+jubilado, continuar, empresa
+jubilado, cumplir, edad
+jubilado, cumplir, jubilación
+jubilado, cumplir, edad de jubilación
+ámbito estatal, establecer, procedimiento
+precepto, permanecer, disposición
+ámbito de aplicación, negociar, representación de los trabajadores
+relación laboral, establecer, deber
+relación laboral, extinguir, trabajador
+relación laboral, extinguir, jubilación
+relación laboral, quedar, empresario
+relación laboral, acceder, empleo
+duración del contrato, contrato, exceder
+duración del contrato, contrato, aprendizaje
+duración del contrato, contrato, trabajador
+duración del contrato, contrato, formación
+duración del contrato, contrato, aprendizaje
+duración del contrato, celebrar, jubilación parcial
+duración del contrato, contrato, jubilación parcial
+duración del contrato, celebrar, jubilación
+duración del contrato, contrato, jubilación
+duración del contrato, celebrar, empresa
+duración del contrato, contrato, empresa
+duración del contrato, contrato, servicio
+legalidad, contener, datos
+jurisdicción social, declarar, nulidad
+jurisdicción social, declarar, medida
+jurisdicción social, entender, convenio colectivo
+jurisdicción social, entender, colectivo
+jurisdicción social, entender, convenio
+contratación, atribuir, ley
+contratación, atribuir, empresa
+contratación, reconocer, negociación colectiva
+alta dirección, establecer, notificación
+alta dirección, deber, notificación
+alta dirección, establecer, deber
+alta dirección, gozar, salario
+alta dirección, gozar, garantías del salario
+notificación, optar, trabajador
+notificación, entrar, trabajador
+notificación, optar, readmisión
+notificación, entrar, readmisión
+excedencia, presentar, duración
+excedencia, presentar, periodo
+excedencia, ejercer, ámbito
+excedencia, conservar, derecho
+desempeño, percibir, indemnización
+desempeño, percibir, importe
+procedimiento concursal, solicitar, empresa
+discriminación, entrar, sexo
+elección, imposibilitar, trabajo
+mandato, comunicar, oficina pública
+mandato, comunicar, autoridad laboral
+mandato, comunicar, autoridad
+mandato, producir, dimisión
+ley, favorecer, vida
+ley, favorecer, contratación
+ley, considerar, trabajo
+ley, considerar, organización
+ley, considerar, centro de trabajo
+ley, considerar, unidad productiva
+ley, calcular, servicio
+ley, treinta, servicio
+ley, considerar, trabajo
+ley, considerar, trabajo nocturno
+ley, entender, despido
+ley, entender, trabajo
+ley, entender, despido colectivo
+ley, entender, colectivo
+ley, entender, despido
+ley, remitir, autoridad laboral
+ley, remitir, autoridad
+ley, incluir, ámbito
+ley, incluir, ámbito de aplicación
+ley, considerar, reducción de jornada
+ley, corresponder, reducción de jornada
+ley, corresponder, persona
+ley, dictar, acuerdo
+formación, contrato, aprendizaje
+formación, contrato, aprendizaje
+formación, fijar, trabajo
+formación, fijar, trabajo efectivo
+formación, favorecer, promoción
+formación, favorecer, promoción
+formación, considerar, trabajo
+formación, considerar, trabajo efectivo
+formación, deber, cargo
+formación, deber, empresa
+formación, convocar, empresario
+formación, considerar, trabajo
+formación, considerar, empresario
+formación, considerar, trabajo efectivo
+formación, celebrar, discapacidad
+texto refundido, entender, concurrir
+improcedente, proceder, trabajador
+improcedente, proceder, readmisión
+análisis, entrar, trabajo
+actividad laboral, compartir, trabajo
+actividad laboral, compartir, centro de trabajo
+cualificación, referir, perjuicio
+cualificación, contrato, formación
+antigüedad, computar, cesión
+régimen, entrar, empresa
+régimen, entrar, empresa
+régimen, establecer, convenio colectivo
+régimen, establecer, ámbito
+régimen, establecer, ámbito estatal
+régimen, establecer, colectivo
+régimen, establecer, acuerdo
+régimen, establecer, convenio
+crédito, treinta, trabajo
+crédito, treinta, cuantía
+crédito, venir, legislación
+condición, existir, obligación
+crédito horario, venir, legislación
+compensación, entrar, jornada
+compensación, entrar, jornada
+compensación, pactar, convenio colectivo
+compensación, pactar, contrato
+compensación, pactar, colectivo
+compensación, pactar, convenio
+compensación, contrato, indemnización
+ampliación, proceder, adopción
+acción administrativa, exigir, cumplimiento
+acción administrativa, exigir, principio
+centro de trabajo, exigir, residencia
+centro de trabajo, corresponder, delegados de personal
+centro de trabajo, corresponder, comité de empresa
+centro de trabajo, corresponder, empresa
+centro de trabajo, corresponder, comité
+centro de trabajo, corresponder, personal
+centro de trabajo, existir, representación legal
+centro de trabajo, celebrar, elección
+centro de trabajo, celebrar, computar
+periodo de consultas, negociar, buena fe
+periodo de consultas, entender, derecho
+periodo de consultas, entender, perjuicio
+periodo de consultas, referir, aplicación
+periodo de consultas, referir, procedimiento
+periodo de consultas, negociar, buena fe
+periodo de consultas, finalizar, concurrir
+periodo de consultas, presumir, concurrir
+periodo de consultas, finalizar, acuerdo
+periodo de consultas, negociar, buena fe
+periodo de consultas, quedar, procedimiento
+periodo de consultas, finalizar, concurrir
+periodo de consultas, presumir, concurrir
+periodo de consultas, finalizar, acuerdo
+periodo de consultas, negociar, buena fe
+periodo de consultas, notificar, autoridad laboral
+periodo de consultas, notificar, autoridad
+periodo de consultas, dirigir, empresario
+periodo de consultas, quedar, procedimiento
+periodo de consultas, negociar, buena fe
+periodo de consultas, comunicar, autoridad laboral
+periodo de consultas, comunicar, autoridad
+periodo de consultas, finalizar, concurrir
+periodo de consultas, presumir, concurrir
+periodo de consultas, finalizar, acuerdo
+periodo de consultas, finalizar, acuerdo
+deber, suponer, trabajo
+deber, suponer, prestación
+deber, percibir, indemnización
+deber, percibir, importe
+deber, permanecer, suspensión
+deber, permanecer, periodo
+deber, permanecer, continuación
+deber, emitir, comité de empresa
+deber, emitir, empresa
+deber, emitir, comité
+deber, observar, información
+deber, negociar, igualdad
+deber, promover, igualdad
+deber, negociar, igualdad
+deber, negociar, marco
+deber, formalizar, marco
+deber, negociar, negociación colectiva
+deber, formalizar, negociación colectiva
+vigencia, contrato, salario
+vigencia, afectar, ámbito
+vigencia, reunir, legitimación
+vigencia, desarrollar, empresa
+vigencia, aplicar, ámbito
+empresario, comunicar, oficina pública
+empresario, comunicar, oficina pública de empleo
+empresario, comunicar, empleo
+empresario, entregar, representación legal
+empresario, informar, trabajador
+empresario, conservar, jornada
+empresario, conservar, jornada
+empresario, ofrecer, trabajador
+empresario, informar, duración
+empresario, facilitar, trabajador
+empresario, suponer, acción
+empresario, recibir, formación teórica
+empresario, garantizar, formación teórica
+empresario, garantizar, trabajador
+empresario, recibir, formación
+empresario, garantizar, formación
+empresario, someter, buena fe
+empresario, verificar, trabajador
+empresario, establecer, contenido
+empresario, pagar, trabajo
+empresario, pagar, prestación
+empresario, declarar, concurrir
+empresario, declarar, créditos
+empresario, recurrir, trabajo
+empresario, recurrir, trabajo nocturno
+empresario, organizar, trabajo
+empresario, notificar, traslado
+empresario, finalizar, periodo de consultas
+empresario, finalizar, periodo
+empresario, finalizar, acuerdo
+empresario, extinguir, mandato
+empresario, suspender, trabajo
+empresario, contrato, trabajo
+empresario, suspender, contrato
+empresario, suspender, contrato de trabajo
+empresario, notificar, autoridad laboral
+empresario, notificar, autoridad
+empresario, comunicar, autoridad laboral
+empresario, comunicar, autoridad
+empresario, percibir, trabajador
+empresario, impedir, representante
+empresario, impedir, trabajador
+empresario, impedir, firma
+empresario, comunicar, autoridad laboral
+empresario, comunicar, autoridad
+empresario, comunicar, autoridad laboral
+empresario, comunicar, autoridad
+empresario, ofrecer, trabajador
+empresario, abonar, salario
+empresario, abonar, trabajador
+empresario, abonar, periodo
+empresario, proceder, indemnización
+empresario, proceder, trabajador
+empresario, proceder, readmisión
+empresario, establecer, refundido
+empresario, prescribir, refundido
+empresario, establecer, texto refundido
+empresario, prescribir, texto refundido
+empresario, designar, votación
+empresario, asistir, votación
+empresario, designar, representante
+empresario, remitir, mesa electoral
+empresario, facilitar, votación
+empresario, facilitar, trabajo
+empresario, facilitar, centro de trabajo
+empresario, ostentar, dirección
+empresario, ostentar, órganos de administración de las empresas
+adquisición, reconocer, derecho necesario
+concurrencia, pactar, compensación económica
+concurrencia, pactar, compensación
+concurrencia, entrar, ámbito
+despido procedente, contrato, trabajo
+órgano, declarar, nulidad
+mesa electoral, solicitar, empresario
+mesa electoral, proceder, subsanación
+mesa electoral, efectuar, reclamación
+mesa electoral, requerir, reclamación
+mesa electoral, efectuar, día laborable
+mesa electoral, requerir, día laborable
+mesa electoral, efectuar, día laborable
+mesa electoral, requerir, día laborable
+procedente, quedar, empresario
+procedente, quedar, incumplimiento
+procedente, contrato, trabajo
+protección, resultar, aplicación
+autoridad laboral, suponer, formación profesional
+autoridad laboral, suponer, formación
+autoridad laboral, suponer, peligro
+autoridad laboral, comunicar, prestación
+autoridad laboral, impugnar, periodo de consultas
+autoridad laboral, impugnar, periodo
+autoridad laboral, constatar, fuerza
+autoridad laboral, requerir, mesa electoral
+autoridad laboral, estimar, legalidad
+autoridad laboral, estimar, convenio
+autoridad laboral, dirigir, jurisdicción
+autoridad laboral, entender, convenio colectivo
+autoridad laboral, dirigir, convenio colectivo
+autoridad laboral, dirigir, jurisdicción social
+autoridad laboral, entender, convenio
+autoridad laboral, dirigir, convenio
+sanción, requerir, trabajador
+cargo, reducir, cantidad
+cargo, percibir, indemnización
+cargo, percibir, salario
+cargo, percibir, importe
+cargo, imposibilitar, trabajo
+despido colectivo, producir, procedimiento
+autoridad, suponer, formación profesional
+autoridad, suponer, formación
+autoridad, suponer, peligro
+autoridad, comunicar, prestación
+autoridad, impugnar, periodo de consultas
+autoridad, impugnar, periodo
+autoridad, constatar, fuerza
+autoridad, requerir, mesa electoral
+autoridad, estimar, legalidad
+autoridad, estimar, convenio
+autoridad, dirigir, jurisdicción
+autoridad, entender, convenio colectivo
+autoridad, dirigir, convenio colectivo
+autoridad, dirigir, jurisdicción social
+autoridad, entender, convenio
+autoridad, dirigir, convenio
+movilidad funcional, efectuar, acuerdo
+seguridad, resultar, aplicación
+trabajo efectivo, establecer, convenio colectivo
+trabajo efectivo, establecer, colectivo
+trabajo efectivo, establecer, convenio
+trabajo efectivo, incluir, formación
+trabajo efectivo, establecer, convenio colectivo
+trabajo efectivo, establecer, colectivo
+trabajo efectivo, establecer, convenio
+trabajo efectivo, abonar, salario
+trabajo efectivo, abonar, trabajador
+amparo, establecer, disposición
+contenido, contrato, legalidad
+contenido, contrato, trabajo
+prestación de servicios, incluir, empresario
+subcontratación, referir, empresa
+prórroga, expresar, trabajador
+conformidad, establecer, convenio colectivo
+conformidad, establecer, colectivo
+conformidad, establecer, convenio
+conformidad, establecer, acuerdo
+conformidad, establecer, ley
+vacaciones, fijar, empresa
+cuantía, superar, salario mínimo interprofesional
+cuantía, superar, salario
+cuantía, superar, salario mínimo interprofesional
+cuantía, superar, salario mínimo
+cuantía, superar, salario mínimo
+cuantía, superar, salario mínimo interprofesional
+cuantía, resultar, salario mínimo interprofesional
+cuantía, resultar, salario mínimo interprofesional
+cuantía, resultar, salario mínimo
+cuantía, resultar, salario mínimo
+cuantía, resultar, salario mínimo interprofesional
+cuantía, solicitar, obligación
+cuantía, fijar, hora ordinaria
+revisión, afectar, cuantía
+defecto, entrar, empresa
+defecto, entrar, empresa
+defecto, contrato, salario
+defecto, entrar, trabajador
+defecto, entrar, empresa
+defecto, entrar, empresa
+defecto, entrar, jornada
+defecto, entrar, jornada
+defecto, entrar, duración
+defecto, entrar, jornada ordinaria
+defecto, entrar, empresa
+defecto, corresponder, aplicación
+defecto, entrar, empresa
+defecto, mantener, vigencia
+defecto, mantener, vigencia
+reducción de jornada, acordar, trabajador
+reducción de jornada, constituir, derecho
+servicio, contar, dirección
+servicio, contar, organización
+servicio, contar, ámbito
+servicio, continuar, prestación
+servicio, contrato, prestación
+servicio, contrato, denuncia
+servicio, verificar, cumplimiento
+servicio, formar, sector público
+inobservancia, requerir, empresario
+edad, concertir, discapacidad
+edad, contrato, discapacidad
+edad, establecer, texto refundido
+edad, corresponder, texto refundido
+edad, corresponder, texto refundido
+edad, continuar, contrato
+edad, continuar, contrato de relevo
+edad, continuar, empresa
+edad, corresponder, refundido
+edad, corresponder, texto refundido
+edad, existir, obligación
+personal de alta dirección, gozar, salario
+personal de alta dirección, gozar, garantías del salario
+empresa, disponer, personal
+empresa, contrato, duración
+empresa, celebrar, duración
+empresa, contrato, duración
+empresa, sustituir, jornada
+empresa, sustituir, jornada
+empresa, informar, duración
+empresa, facilitar, trabajador
+empresa, suponer, acción
+empresa, establecer, sistema de clasificación profesional
+empresa, obtener, créditos
+empresa, garantizar, ausencia
+empresa, ajustar, ausencia
+empresa, garantizar, ausencia
+empresa, ajustar, ausencia
+empresa, garantizar, ausencia
+empresa, ajustar, ausencia
+empresa, comunicar, aceptación
+empresa, comunicar, aceptación
+empresa, resolver, jurisdicción
+empresa, resolver, jurisdicción social
+empresa, garantizar, jornada
+empresa, garantizar, jornada
+empresa, incluir, horario
+empresa, garantizar, horario
+empresa, incluir, horario
+empresa, garantizar, horario
+empresa, referir, precepto
+empresa, conservar, precepto
+empresa, organizar, trabajo
+empresa, afectar, excedencia
+empresa, afectar, excedencia
+empresa, ejercer, dirección
+empresa, ejercer, derecho
+empresa, referir, incapacidad
+empresa, efectuar, acuerdo
+empresa, comunicar, periodo de consultas
+empresa, comunicar, periodo
+empresa, acordar, trabajo
+empresa, acordar, condiciones de trabajo
+empresa, comunicar, periodo de consultas
+empresa, comunicar, periodo
+empresa, concertir, contrato
+empresa, concertir, prestación
+empresa, contrato, prestación
+empresa, limitar, disposición
+empresa, facilitar, información
+empresa, tomar, información
+empresa, ejercer, ámbito
+empresa, iniciar, despido
+empresa, iniciar, despido colectivo
+empresa, iniciar, procedimiento
+empresa, iniciar, colectivo
+empresa, iniciar, despido
+empresa, informar, empresario
+empresa, consultar, empresario
+empresa, establecer, aplicación
+empresa, proceder, derecho
+empresa, recibir, notificación
+empresa, afectar, empleo
+empresa, implicar, empleo
+empresa, formular, empresario
+empresa, utilizar, ámbito
+empresa, cubrir, trabajador
+empresa, celebrar, término
+empresa, solicitar, empresario
+empresa, concurrir, elección
+empresa, impugnar, elección
+empresa, compartir, centro de trabajo
+empresa, negociar, convenio colectivo
+empresa, negociar, convenio
+empresa, negociar, negociación colectiva
+empresa, formalizar, negociación colectiva
+empresa, deber, negociación colectiva
+empresa, entrar, delegados de personal
+empresa, entrar, personal
+usos y costumbres, aplicar, defecto
+duración, contrato, exceder
+duración, contrato, aprendizaje
+duración, contrato, trabajador
+duración, contrato, formación
+duración, contrato, aprendizaje
+duración, celebrar, jubilación parcial
+duración, contrato, jubilación parcial
+duración, celebrar, jubilación
+duración, contrato, jubilación
+duración, sumar, trabajador
+duración, faltar, trabajador
+duración, celebrar, empresa
+duración, contrato, empresa
+duración, adquirir, condición
+duración, contrato, jornada
+duración, contrato, jornada
+duración, contrato, cómputo anual
+duración, afectar, trabajo
+duración, afectar, centro de trabajo
+duración, establecer, negociación colectiva
+duración, constituir, derecho
+duración, exceder, ausencia
+duración, exceder, ausencia
+duración, exceder, ausencia
+duración, contrato, servicio
+duración, contrato, servicio
+duración, contrato, aplicación
+duración, contrato, servicio
+duración, entender, perjuicio
+duración, contrato, perjuicio
+procedimiento, comprobar, centro de trabajo
+procedimiento, comprobar, empresa
+procedimiento, solicitar, empresa
+procedimiento, afectar, trabajo
+procedimiento, corresponder, comité de empresa
+procedimiento, afectar, comité de empresa
+procedimiento, afectar, centro de trabajo
+procedimiento, corresponder, empresa
+procedimiento, afectar, empresa
+procedimiento, corresponder, comité
+procedimiento, afectar, comité
+procedimiento, afectar, trabajo
+procedimiento, afectar, centro de trabajo
+procedimiento, contar, comisión
+procedimiento, contar, comisión
+procedimiento, contar, comisión
+procedimiento, contar, comisión
+procedimiento, iniciar, empresa
+procedimiento, iniciar, oficina pública
+procedimiento, dirigir, oficina pública
+procedimiento, establecer, ámbito
+procedimiento, establecer, ámbito estatal
+procedimiento, promover, negociación colectiva
+procedimiento, hallar, negociación colectiva
+comité, informar, empresario
+comité, consultar, empresario
+comité, proceder, derecho
+comité, utilizar, ámbito
+comité, solicitar, empresario
+comité, elegir, aplicación
+comité, entrar, delegados de personal
+comité, entrar, personal
+derecho, resolver, aplicación
+derecho, reconocer, derecho necesario
+derecho, percibir, grupo profesional 
+derecho, resultar, aplicación
+derecho, entender, trabajador
+derecho, cumplir, trabajador
+derecho, referir, formación
+derecho, referir, deber
+derecho, acceder, representación legal
+derecho, percibir, anticipos
+derecho, llegar, anticipos
+derecho, señalar, anticipos
+derecho, convenir, perjuicio
+derecho, exigir, créditos
+derecho, solicitar, jornada
+derecho, solicitar, jornada
+derecho, solicitar, jornada de trabajo
+derecho, solicitar, duración
+derecho, solicitar, jornada de trabajo
+derecho, solicitar, jornada
+derecho, solicitar, jornada
+derecho, solicitar, contractual
+derecho, existir, empresa
+derecho, reducir, jornada
+derecho, reducir, jornada
+derecho, reducir, jornada de trabajo
+derecho, reducir, trabajo
+derecho, reducir, jornada de trabajo
+derecho, optar, compensación
+derecho, percibir, compensación
+derecho, entrar, compensación
+derecho, reincorporar, trabajo
+derecho, reincorporar, origen
+derecho, reincorporar, centro de trabajo
+derecho, percibir, indemnización
+derecho, contrato, indemnización
+derecho, percibir, salario
+derecho, contrato, salario
+derecho, adquirir, elección
+derecho, adquirir, condición
+derecho, adquirir, empresa
+derecho, reconocer, excedencia
+derecho, reconocer, excedencia
+derecho, ejercitar, trabajador
+derecho, recibir, indemnización
+derecho, recibir, cuantía
+derecho, reconocer, ley
+derecho, reconocer, ley
+derecho, informar, empresario
+derecho, consultar, empresario
+derecho, recibir, aplicación
+derecho, recibir, información
+derecho, recibir, notificación
+derecho, informar, empleo
+derecho, consultar, empleo
+derecho, informar, empresa
+derecho, consultar, empresa
+derecho, informar, adopción
+derecho, consultar, adopción
+derecho, emitir, empresario
+derecho, contener, datos
+derecho, acceder, datos
+derecho, incluir, trabajo
+derecho, incluir, centro de trabajo
+derecho, formar, comisión
+derecho, formar, comisión negociadora
+derecho, formar, comisión
+derecho, suspender, acuerdo
+perjuicio, señalar, contrato
+perjuicio, contrato, tiempo parcial
+perjuicio, señalar, tiempo parcial
+perjuicio, señalar, contrato a tiempo parcial
+perjuicio, contrato, tiempo parcial
+perjuicio, obtener, formación
+perjuicio, obtener, créditos
+perjuicio, recurrir, trabajador
+perjuicio, establecer, legislación
+perjuicio, establecer, autoridad laboral
+perjuicio, establecer, autoridad
+perjuicio, establecer, autoridad laboral
+perjuicio, establecer, autoridad
+perjuicio, atribuir, jurisdicción
+perjuicio, atribuir, jurisdicción social
+perjuicio, establecer, contrato
+perjuicio, corresponder, jurisdicción
+perjuicio, corresponder, autoridad laboral
+perjuicio, corresponder, autoridad
+término, contrato, trabajador
+término, continuar, empresa
+término, contrato, empresa
+término, computar, periodo
+término, remitir, mesa electoral
+intimidad, comprender, protección
+intimidad, contar, representante
+intimidad, contar, representante legal
+jubilación, establecer, refundido
+jubilación, corresponder, refundido
+jubilación, establecer, texto refundido
+jubilación, corresponder, texto refundido
+jubilación, corresponder, refundido
+jubilación, corresponder, texto refundido
+mutuo acuerdo, entrar, trabajador
+mutuo acuerdo, entrar, empresario
+suspensión del contrato, contrato, trabajo
+suspensión del contrato, contrato, menor
+suspensión del contrato, contrato, trabajo
+suspensión del contrato, referir, duración
+suspensión del contrato, contrato, duración
+suspensión del contrato, contrato, adopción
+suspensión del contrato, contrato, trabajo
+suspensión del contrato, contrato, adopción
+suspensión del contrato, contrato, adopción
+suspensión del contrato, contrato, trabajo
+suspensión del contrato, contrato, adopción
+suspensión del contrato, contrato, trabajo
+suspensión del contrato, incluir, permiso
+suspensión del contrato, contrato, permiso
+suspensión del contrato, incluir, permiso
+suspensión del contrato, contrato, permiso
+suspensión del contrato, incluir, permiso
+suspensión del contrato, contrato, permiso
+obligación, contrato, trabajador
+obligación, contrato, deber
+obligación, deber, empresario
+obligación, contrato, empresario
+obligación, reducir, cantidad
+obligación, abonar, convenio
+obligación, requerir, empresa
+obligación, abonar, periodo
+obligación, proceder, trabajo
+derecho necesario, resolver, aplicación
+anticipos, contar, trabajo
+prorrogar, mediar, denuncia
+deberes laborales, guardar, adopción
+deberes laborales, guardar, aplicación
+reunión, extender, votación
+sistema educativo, concertar, contrato
+modificación colectiva, notificar, empresario
+requisito, formar, comisión
+requisito, formar, comisión negociadora
+requisito, formar, comisión
+cualificación profesional, referir, perjuicio
+aplicación del convenio, intervenir, comisión
+aplicación del convenio, intervenir, comisión
+periodo correspondiente, producir, jubilación
+periodo correspondiente, producir, trabajador
+periodo correspondiente, producir, jubilación
+jornada ordinaria, acordar, convenio colectivo
+jornada ordinaria, acordar, convenio
+sexo, incluir, condición social
+sexo, incluir, condición
+sexo, incluir, religión
+sexo, incluir, estado civil
+sexo, favorecer, grupo profesional 
+computar, compensar, descanso
+negociación colectiva, establecer, acción
+negociación colectiva, establecer, acción positiva
+negociación colectiva, entrar, empresa
+negociación colectiva, llegar, empresa
+negociación colectiva, negociar, igualdad
+negociación colectiva, deber, igualdad
+acción protectora, contratar, formación
+legitimación, establecer, ley
+legitimación, negociar, revisión
+legitimación, negociar, representación de los trabajadores
+legitimación, formar, comisión
+legitimación, formar, comisión negociadora
+legitimación, formar, comisión
+legitimación, ostentar, conformidad
+legitimación, acordar, convenio colectivo
+legitimación, permitir, convenio colectivo
+legitimación, acordar, ámbito
+legitimación, permitir, ámbito
+legitimación, acordar, conflicto
+legitimación, permitir, conflicto
+legislación, requerir, empresario
+modificación sustancial, percibir, indemnización
+modificación sustancial, contrato, indemnización
+competencia, referir, perjuicio
+competencia, contrato, aprendizaje
+competencia, contrato, formación
+competencia, contrato, aprendizaje
+competencia, extinguir, trabajo
+competencia, contrato, trabajo
+competencia, extinguir, contrato
+competencia, extinguir, contrato de trabajo
+comunidad, establecer, fiestas
+comunidad, reunir, disposición
+comunidad, señalar, disposición
+conflicto, paralizar, tramitación
+conflicto, paralizar, tramitación
+conflicto, paralizar, tramitación
+dignidad, comprender, origen
+dignidad, comprender, acoso
+dignidad, comprender, protección
+dignidad, comprender, origen racial
+dignidad, contar, representante
+dignidad, contar, representante legal
+horario, venir, legislación
+operación, asumir, riesgo
+operación, asumir, ventura
+exigencia, celebrar, jornada
+exigencia, presumir, jornada
+exigencia, contrato, jornada
+exigencia, celebrar, jornada
+exigencia, presumir, jornada
+exigencia, contrato, jornada
+exigencia, celebrar, jornada completa
+exigencia, presumir, jornada completa
+exigencia, contrato, jornada completa
+colectivo, contrato, función
+colectivo, constar, jornada
+colectivo, constar, jornada
+colectivo, constar, jornada laboral
+colectivo, constar, jornada laboral
+colectivo, fijar, mutuo acuerdo
+colectivo, fijar, acuerdo
+colectivo, entrar, empresa
+colectivo, entrar, empresa
+colectivo, entrar, empresario
+colectivo, entrar, empresa
+colectivo, entrar, empresa
+colectivo, establecer, reducción de jornada
+colectivo, finalizar, permiso
+colectivo, iniciar, permiso
+colectivo, precisar, permiso
+colectivo, finalizar, permiso
+colectivo, iniciar, permiso
+colectivo, precisar, permiso
+colectivo, finalizar, permiso
+colectivo, iniciar, permiso
+colectivo, precisar, permiso
+colectivo, alcanzar, periodo de consultas
+colectivo, alcanzar, periodo
+colectivo, paralizar, tramitación
+colectivo, producir, procedimiento
+colectivo, alcanzar, periodo de consultas
+colectivo, alcanzar, periodo
+colectivo, reunir, legitimación
+colectivo, mantener, vigencia
+colectivo, mantener, vigencia
+colectivo, establecer, modificación
+colectivo, establecer, régimen
+colectivo, establecer, salarial
+colectivo, establecer, modificación
+salario mínimo, afectar, cuantía
+suspensión, existir, empresario
+suspensión, existir, cargo
+suspensión, contrato, trabajo
+suspensión, contrato, trabajo
+suspensión, iniciar, autoridad laboral
+suspensión, iniciar, autoridad
+suspensión, producir, procedimiento
+suspensión, contrato, menor
+suspensión, contrato, trabajo
+suspensión, ejercitar, jornada
+suspensión, ejercitar, jornada
+suspensión, ejercitar, jornada completa
+suspensión, ejercitar, régimen
+suspensión, referir, duración
+suspensión, contrato, duración
+suspensión, contrato, adopción
+suspensión, contrato, trabajo
+suspensión, contrato, adopción
+suspensión, contrato, adopción
+suspensión, contrato, trabajo
+suspensión, contrato, adopción
+suspensión, contrato, trabajo
+suspensión, incluir, permiso
+suspensión, contrato, permiso
+suspensión, incluir, permiso
+suspensión, contrato, permiso
+suspensión, incluir, permiso
+suspensión, contrato, permiso
+comisión negociadora, existir, trabajo
+comisión negociadora, existir, trabajo
+comisión negociadora, existir, trabajo
+comisión negociadora, existir, trabajo
+comisión negociadora, efectuar, derecho
+fiestas, fijar, convenio colectivo
+fiestas, fijar, colectivo
+fiestas, fijar, convenio
+fiestas, sustituir, ámbito
+interrupción, disponer, convenio colectivo
+interrupción, disponer, convenio
+personal, reclamar, jurisdicción
+personal, reclamar, jurisdicción social
+personal, contrato, trabajo
+personal, ejercer, empresario
+personal, ejercer, empresa
+personal, observar, sigilo profesional
+personal, obtener, votación
+personal, cubrir, votación
+personal, cubrir, trabajador
+personal, pactar, convenio colectivo
+personal, pactar, colectivo
+personal, pactar, convenio
+personal, remitir, mesa electoral
+personal, referir, convenio
+personal, gozar, salario
+personal, gozar, garantías del salario
+personal, adquirir, condición
+personal, adquirir, acuerdo
+grado, reconocer, acuerdo
+grado, ostentar, dirección
+permiso, fijar, trabajador
+permiso, entrar, trabajador
+permiso, fijar, empresario
+permiso, entrar, empresario
+permiso, fijar, mutuo acuerdo
+permiso, fijar, acuerdo
+permiso, incrementar, adopción
+periodo, finalizar, periodo correspondiente
+periodo, finalizar, periodo correspondiente
+periodo, producir, contrato
+periodo, producir, acuerdo
+periodo, considerar, trabajo
+periodo, considerar, trabajo efectivo
+periodo, disponer, ausencia
+periodo, disponer, duración
+periodo, disponer, ausencia
+periodo, disponer, ausencia
+periodo, fijar, empresario
+periodo, entrar, empresario
+periodo, fijar, acuerdo
+periodo, negociar, buena fe
+periodo, entender, derecho
+periodo, entender, perjuicio
+periodo, referir, aplicación
+periodo, referir, procedimiento
+periodo, optar, trabajo
+periodo, entrar, trabajo
+periodo, negociar, buena fe
+periodo, finalizar, concurrir
+periodo, presumir, concurrir
+periodo, finalizar, acuerdo
+periodo, negociar, buena fe
+periodo, constituir, derecho
+periodo, permanecer, excedencia
+periodo, permanecer, excedencia
+periodo, quedar, procedimiento
+periodo, finalizar, concurrir
+periodo, presumir, concurrir
+periodo, finalizar, acuerdo
+periodo, negociar, buena fe
+periodo, notificar, autoridad laboral
+periodo, notificar, autoridad
+periodo, dirigir, empresario
+periodo, quedar, procedimiento
+periodo, negociar, buena fe
+periodo, comunicar, autoridad laboral
+periodo, comunicar, autoridad
+periodo, incluir, formación
+periodo, tratar, persona
+periodo, finalizar, concurrir
+periodo, presumir, concurrir
+periodo, finalizar, acuerdo
+periodo, finalizar, acuerdo
+periodo, contrato, trabajo
+periodo, incluir, permiso
+periodo, contrato, permiso
+periodo, incluir, permiso
+periodo, contrato, permiso
+periodo, incluir, permiso
+periodo, contrato, permiso
+reclamación, efectuar, acción administrativa
+unidad productiva, extinguir, relación laboral
+jornada laboral, contar, voto
+jornada laboral, regular, voto
+jornada laboral, contar, voto
+jornada laboral, regular, voto
+empleo, concertar, contrato
+empleo, favorecer, promoción
+empleo, favorecer, promoción
+empleo, verificar, cumplimiento
+empleo, verificar, obligación
+cargo público, imposibilitar, trabajo
+acuerdo colectivo, entrar, empresa
+riesgos, comportar, seguridad
+despido, producir, procedimiento
+despido, requerir, extinción del contrato
+despido, requerir, contrato
+despido, requerir, persona
+despido, contrato, persona
+despido, notificar, trabajador
+despido, establecer, empresario
+despido, considerar, procedente
+despido, considerar, incumplimiento
+despido, quedar, incumplimiento
+despido, contrato, trabajo
+despido, declarar, improcedente
+despido, declarar, empresario
+acuerdo, establecer, convenio colectivo
+acuerdo, establecer, colectivo
+acuerdo, establecer, convenio
+acuerdo, establecer, jornada de trabajo
+acuerdo, sustituir, jornada de trabajo
+acuerdo, establecer, jornada de trabajo
+acuerdo, sustituir, jornada de trabajo
+acuerdo, establecer, trabajo
+acuerdo, establecer, trabajo a distancia
+acuerdo, establecer, contrato
+acuerdo, adoptar, prevención
+acuerdo, comunicar, autoridad laboral
+acuerdo, comunicar, autoridad
+acuerdo, comunicar, empresa
+acuerdo, entrar, empresa
+acuerdo, entrar, grupo profesional 
+acuerdo, entrar, trabajador
+acuerdo, entrar, empresario
+acuerdo, entrar, trabajador
+acuerdo, entrar, empresario
+acuerdo, entrar, empresa
+acuerdo, entrar, trabajador
+acuerdo, entrar, empresa
+acuerdo, entrar, empresario
+acuerdo, entrar, empresa
+acuerdo, entrar, empresa
+acuerdo, llegar, empresa
+acuerdo, entrar, empresa
+acuerdo, entrar, trabajador
+acuerdo, entrar, empresario
+acuerdo, entrar, conformidad
+acuerdo, ejercer, prestación
+acuerdo, requerir, conformidad
+acuerdo, alcanzar, periodo de consultas
+acuerdo, alcanzar, periodo
+acuerdo, requerir, conformidad
+acuerdo, presumir, concurrir
+acuerdo, surtir, notificación
+acuerdo, presumir, concurrir
+acuerdo, requerir, conformidad
+acuerdo, entrar, empresa
+acuerdo, entrar, persona
+acuerdo, entrar, empresa
+acuerdo, entrar, persona
+acuerdo, requerir, conformidad
+acuerdo, comunicar, empresario
+acuerdo, alcanzar, periodo de consultas
+acuerdo, alcanzar, periodo
+acuerdo, entrar, empresa
+acuerdo, reclamar, día laborable
+acuerdo, reclamar, día laborable
+acuerdo, señalar, autoridad laboral
+acuerdo, entrar, autoridad laboral
+acuerdo, señalar, autoridad
+acuerdo, entrar, autoridad
+acuerdo, notificar, oficina pública
+acuerdo, designar, oficina pública
+acuerdo, entrar, empresa
+acuerdo, presumir, concurrir
+acuerdo, notificar, convenio colectivo
+acuerdo, notificar, comisión
+acuerdo, notificar, colectivo
+acuerdo, notificar, convenio
+acuerdo, notificar, comisión
+acuerdo, recurrir, procedimiento
+acuerdo, especificar, procedimiento
+convenio, contrato, función
+convenio, fijar, mutuo acuerdo
+convenio, entrar, empresa
+convenio, entrar, empresa
+convenio, entrar, empresario
+convenio, entrar, empresa
+convenio, entrar, empresa
+convenio, finalizar, permiso
+convenio, iniciar, permiso
+convenio, precisar, permiso
+convenio, finalizar, permiso
+convenio, iniciar, permiso
+convenio, precisar, permiso
+convenio, finalizar, permiso
+convenio, iniciar, permiso
+convenio, precisar, permiso
+convenio, alcanzar, periodo de consultas
+convenio, alcanzar, periodo
+convenio, alcanzar, periodo de consultas
+convenio, alcanzar, periodo
+convenio, finalizar, vigencia
+convenio, finalizar, vigencia
+convenio, reunir, legitimación
+convenio, mantener, vigencia
+convenio, mantener, vigencia
+convenio, remitir, órgano
+convenio, disponer, autoridad laboral
+convenio, disponer, autoridad
+convenio, intervenir, comisión
+convenio, intervenir, comisión
+convenio, establecer, régimen
+convenio, establecer, salarial
+jubilado, continuar, contrato
+jubilado, continuar, contrato de relevo
+jubilado, continuar, empresa
+jubilado, cumplir, edad
+jubilado, cumplir, jubilación
+jubilado, cumplir, edad de jubilación
+salarial, contar, salario
+objeto del contrato, contrato, trabajo
+objeto del contrato, continuar, prestación
+objeto del contrato, contrato, prestación
+objeto del contrato, contrato, denuncia
+salario mínimo, afectar, cuantía
+comisión, existir, trabajo
+comisión, impedir, transcurso
+comisión, impedir, periodo de consultas
+comisión, impedir, periodo
+comisión, existir, trabajo
+comisión, designar, empresario
+comisión, constituir, acuerdo
+comisión, impedir, transcurso
+comisión, impedir, periodo de consultas
+comisión, impedir, periodo
+comisión, existir, trabajo
+comisión, impedir, transcurso
+comisión, impedir, periodo de consultas
+comisión, impedir, periodo
+comisión, existir, trabajo
+comisión, impedir, transcurso
+comisión, impedir, periodo de consultas
+comisión, impedir, periodo
+comisión, alcanzar, acuerdo
+comisión, efectuar, derecho
+comisión, corresponder, mutuo acuerdo
+comisión, corresponder, acuerdo
+comisión, requerir, voto
+función, deber, discriminación
+función, deber, ausencia
+función, deber, ausencia
+función, deber, ausencia
+función, comportar, seguridad
+voto, presentar, comité
+voto, efectuar, derecho
+competencia profesional, contrato, aprendizaje
+competencia profesional, contrato, formación
+competencia profesional, contrato, aprendizaje
+modificación, percibir, indemnización
+modificación, contrato, indemnización
+modificación, reconocer, derecho
+modificación, notificar, empresario
+modificación, finalizar, formación
+representante legal, proceder, firma
+representante legal, tratar, discapacidad
+representante legal, tratar, persona
+aprendizaje, referir, disposición
+aprendizaje, fijar, trabajo
+aprendizaje, fijar, trabajo efectivo
+aprendizaje, fijar, acuerdo
+aprendizaje, celebrar, discapacidad
+persona, ejercer, función
+persona, solicitar, jornada
+persona, solicitar, jornada
+persona, resolver, jurisdicción
+persona, resolver, jurisdicción social
+persona, resolver, procedimiento
+persona, atenuar, función
+persona, desempeñar, derecho
+persona, formar, condición
+persona, formar, familia
+persona, ejercer, régimen
+persona, ejercer, duración
+persona, ejercer, derecho
+persona, comunicar, empresa
+persona, comunicar, empresa
+persona, considerar, jornada
+persona, considerar, jornada
+persona, considerar, reducción de jornada
+créditos, treinta, trabajo
+créditos, treinta, cuantía
+créditos, convenir, perjuicio
+créditos, corresponder, información
+créditos, solicitar, información
+contratista, informar, empresario
+contratista, informar, empresa
+contratista, informar, empresa
+contratista, compartir, trabajo
+contratista, compartir, centro de trabajo
+permiso, fijar, trabajador
+permiso, entrar, trabajador
+permiso, fijar, empresario
+permiso, entrar, empresario
+permiso, fijar, mutuo acuerdo
+permiso, fijar, acuerdo
+permiso, incrementar, adopción
+adquisición, reconocer, derecho necesario
+extensión, adoptar, tramitación
+extensión, adoptar, procedimiento
+extensión, promover, negociación colectiva
+extensión, hallar, negociación colectiva
+institucional, observar, sigilo profesional
+fuerza, imposibilitar, trabajo
+fuerza, imposibilitar, prestación
+fuerza, reintegrar, trabajador
+fuerza, acordar, indemnización
+cantidad, resultar, salario
+cantidad, abonar, salario
+cantidad, resultar, servicio
+cantidad, abonar, servicio
+cantidad, percibir, despido
+cantidad, percibir, despido
+importe, recibir, desempleo
+importe, recibir, suspensión
+importe, recibir, periodo
+parto, contrato, trabajo
+parto, suspender, trabajo
+parto, contrato, trabajo
+parto, suspender, contrato
+parto, suspender, contrato de trabajo
+incumplimiento, reclamar, despido
+incumplimiento, reclamar, jurisdicción
+incumplimiento, reclamar, jurisdicción social
+incumplimiento, reclamar, procedimiento
+incumplimiento, reclamar, despido
+vigencia, contrato, salario
+vigencia, afectar, ámbito
+vigencia, reunir, legitimación
+vigencia, desarrollar, empresa
+vigencia, aplicar, ámbito
+edad de jubilación, establecer, texto refundido
+edad de jubilación, corresponder, texto refundido
+edad de jubilación, corresponder, texto refundido
+edad de jubilación, corresponder, refundido
+edad de jubilación, corresponder, texto refundido
+excedencia, presentar, duración
+excedencia, presentar, periodo
+excedencia, ejercer, ámbito
+excedencia, conservar, derecho
+disposición, presentar, ley
+pensión, reconocer, jubilación parcial
+pensión, reconocer, trabajador
+pensión, reconocer, jubilación
+interés legítimo, incluir, concurrir
+interés legítimo, incluir, empresa
+representación de los trabajadores, entender, comisión
+representación de los trabajadores, entender, comisión negociadora
+representación de los trabajadores, entender, comisión
+permiso, fijar, trabajador
+permiso, entrar, trabajador
+permiso, fijar, empresario
+permiso, entrar, empresario
+permiso, fijar, mutuo acuerdo
+permiso, fijar, acuerdo
+permiso, incrementar, adopción
+salario mínimo interprofesional, afectar, cuantía
+familia, adquirir, condición
+denuncia, expresar, trabajador
+denuncia, continuar, prestación
