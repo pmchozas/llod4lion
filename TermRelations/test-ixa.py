@@ -11,16 +11,19 @@ import requests
 
 r = requests.get("https://ixasrl.linkeddata.es/pos?txt=Ella%20come%20patatas")
 
+text="Esto es una prueba"
+
+params = {'txt':text}
+rsrl= requests.get("https://ixasrl.linkeddata.es/srl?", params=params)
 
 ixa_pos = "https://ixasrl.linkeddata.es/pos?"
 
 ixa_srl = "https://ixasrl.linkeddata.es/srl?"
 
-text="Esto es una prueba"
 
 #request.get 
 
 
-print(r.text)
+print(rsrl.text)
 
-print(r.url)
+print(rsrl.url)
