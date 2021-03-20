@@ -1,0 +1,6 @@
+9	contratos
+8	contrato
+6	copia básica
+4	escrito
+4	legal
+4	condiciones
