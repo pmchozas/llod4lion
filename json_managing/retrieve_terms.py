@@ -17,39 +17,30 @@ altlist_en=[]
 
 
 
-with open('llterms.json') as jsonfile:
-    data= json.load(jsonfile)
-    for p in data:
-        for l in p['@graph']:
-            print(l[''])
-
-
-
 
 '''
 
 esta función es para sacar los términos 
 
-
-
-with open('llterms.json') as jsonfile:
+'''
+with open('labourlaw_thesaurus.json') as jsonfile:
     data= json.load(jsonfile)
-    for p in data:
-        for l in p['@graph']:
+    for alldata in data:
+        for topconcept in alldata['@graph']:
             try:
-                for i in l['http://www.w3.org/2004/02/skos/core#prefLabel']:
-                    if i['@language'] == 'es':
-                        preflist_es.append(i['@value'])
-                    if i['@language'] == 'en':
-                        preflist_en.append(i['@value'])
+                for concept in topconcept['http://www.w3.org/2004/02/skos/core#prefLabel']:
+                    if concept['@language'] == 'es':
+                        preflist_es.append(concept['@value'])
+                    if concept['@language'] == 'en':
+                        preflist_en.append(concept['@value'])
             except:
                 continue
             try:
-                for i in l['http://www.w3.org/2004/02/skos/core#altLabel']:
-                    if i['@language'] == 'es':
-                        altlist_es.append(i['@value'])
-                    if i['@language'] == 'en':
-                        altlist_en.append(i['@value'])
+                for concept in topconcept['http://www.w3.org/2004/02/skos/core#altLabel']:
+                    if concept['@language'] == 'es':
+                        altlist_es.append(concept['@value'])
+                    if concept['@language'] == 'en':
+                        altlist_en.append(concept['@value'])
             except:
                 continue
         
@@ -61,12 +52,11 @@ print(altlist_en)
 print(altlist_es)
 
 
-with open('term_en.txt', 'w') as f:
-    for item in preflist_en:
+with open('llterms_es.txt', 'w') as f:
+    for item in preflist_es:
         f.write("%s\n" % item)
-    for o in altlist_en:
-        f.write("%s\n" % o)
+    for syn in altlist_es:
+        f.write("%s\n" % syn)
         
         
 f.close()
-'''
